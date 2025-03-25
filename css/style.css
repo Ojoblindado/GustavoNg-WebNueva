@@ -650,6 +650,31 @@ header.scrolled {
   height: 1rem;
 }
 
+.book-info {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.book-download {
+  margin-top: 1rem;
+  margin-top: auto;
+}
+
+.download-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #767676;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.download-button:hover {
+  background-color: #afafaf;
+}
+
 /* Press Grid */
 .press-grid {
   display: grid;
@@ -1058,29 +1083,6 @@ header.scrolled {
     justify-content: space-between;
     align-items: center;
   }
-}
-
-.search-container {
-  position: relative;
-  flex: 1;
-}
-
-.search-input {
-  width: 100%;
-  padding: 0.75rem 1rem 0.75rem 2.5rem;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius);
-  font-size: 0.875rem;
-}
-
-.search-icon {
-  position: absolute;
-  left: 0.75rem;
-  top: 50%;
-  transform: translateY(-50%);
-  color: rgba(0, 0, 0, 0.4);
-  width: 1rem;
-  height: 1rem;
 }
 
 .filter-container {

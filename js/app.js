@@ -751,19 +751,17 @@ function loadBooks() {
         </div>
         
         <div class="book-details">
-        <div>
-          <h2 class="book-title">${currentLanguage === 'es' ? book.title : book.titleEn}</h2>
-          
-          <p class="book-description">${currentLanguage === 'es' ? book.description : book.descriptionEn}</p>
+          <div>
+            <h2 class="book-title">${currentLanguage === 'es' ? book.title : book.titleEn}</h2>
+            <p class="book-description">${currentLanguage === 'es' ? book.description : book.descriptionEn}</p>
           </div>
           <div class="book-info">
             <div class="book-info-grid">
               <h3 class="book-info-title">${currentLanguage === 'es' ? 'Detalles' : 'Details'}</h3>
               <ul class="book-info-list">
-                
                 <li class="book-info-item">
                   <span class="book-info-label">${translations['books.publisher'][currentLanguage]}:</span>
-                  <span class="book-info-value">${ book.publisher}</span>
+                  <span class="book-info-value">${book.publisher}</span>
                 </li>
                 <li class="book-info-item">
                   <span class="book-info-label">${translations['books.published'][currentLanguage]}:</span>
@@ -771,9 +769,14 @@ function loadBooks() {
                 </li>
               </ul>
             </div>
+            ${book.id === 'mariposa-de-otono' ? `
+            <div class="book-download">
+              <a href="pdf/Mariposa de otoño_3eras. 150217.pdf" class="download-button" download>
+                ${currentLanguage === 'es' ? 'Descargar Libro' : 'Download Book'}
+              </a>
+            </div>
+            ` : ''}
           </div>
-          
-          
         </div>
       </div>
     `;

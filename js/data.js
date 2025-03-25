@@ -1185,7 +1185,7 @@ const booksData = [
   
   },
   {
-    id: 11,
+    id: 'mariposa-de-otono',
     title: 'Mariposa de otoño',
     titleEn: 'Autumn Butterfly', 
     description: 'El libro Mariposa de otoño es una novela, pero una que debe construir el lector con todas las anotaciones que Ng –que oficia de diarista y narrador– despliega entre una escena y otra, con temporalidades, geografías y tonalidades distintas, como si mirásemos un álbum con fotografías tomadas con una Kodak Pocket de los 70, con una réflex en los 80 y un iPhone de hace un par de semanas. Pero si hubiera que dividir en dos el libro, claramente nos encontramos con dos partes: la primera y la segunda, que comienza con el subtítulo “Blanco de tiro”, donde aclara que en diciembre de 2015, 42 años después de que sus padres se separaran, su madre murió y el narrador-protagonista-autor viaja a Nueva York a darle la noticia en persona a su padre. De allí en más asistimos a “un relato de esos días”. El encuentro con el padre es, como escribe al final, algo así como una fuga. Nuestro narrador-autor-diarista observa el local de loterías como “una mezcla de vieja estación de trenes de Bangladesh con un club de bochas de un pueblo de la provincia de Buenos Aires”.',
