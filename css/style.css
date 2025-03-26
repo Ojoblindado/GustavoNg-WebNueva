@@ -360,21 +360,22 @@ header.scrolled {
 
 /* Hero Section */
 .hero {
-  min-height: 70vh;
+  min-height: 40vh;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: right;
   padding: 0 0;
   text-align: center;
 }
 .hero-image {
   position: relative;
-  width: 60%;
+  overflow: visible;
+  width: 50%;
   top: 0;
   left: 0;
   right: 0;
-  bottom: 0;
-  z-index: -1;
+  bottom: rem;
+  z-index: 0;
   flex-direction: column-reverse;
   
 }
@@ -1017,6 +1018,11 @@ header.scrolled {
 .page-title {
   font-size: 2.5rem;
   margin-bottom: 2rem;
+}
+.libros-bio {
+  margin-left: 2rem;
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
 }
 
 @media (min-width: 768px) {
@@ -1806,7 +1812,8 @@ body.no-scroll {
   .about-content p {
     font-size: 1.2em;
   }
-}
+  
+
 
 /* Links Section */
 .links-grid {

@@ -16,7 +16,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2025-01-15').toISOString(),
-    image: 'images/Política exterior 2024 de China.png',
+    image: 'images/Política exterior 2024 de China.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tectónikos",
@@ -36,7 +36,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2024-11-05').toISOString(),
-    image: 'images/El oxímoron chino.png',
+    image: 'images/El oxímoron chino.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tectónikos",
@@ -56,7 +56,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2024-10-17').toISOString(),
-    image: 'images/Desmalvinización un síntoma colonial.png',
+    image: 'images/Desmalvinización un síntoma colonial.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tectónikos",
@@ -76,7 +76,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2024-09-06').toISOString(),
-    image: 'images/China y la afirmación de una modernidad alternativa.png',
+    image: 'images/China y la afirmación de una modernidad alternativa.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tectónikos",
@@ -96,7 +96,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2024-08-11').toISOString(),
-    image: 'images/Las espectaculares elecciones de una democracia socavada.png',
+    image: 'images/Las espectaculares elecciones de una democracia socavada.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tectónikos",
@@ -116,7 +116,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2024-07-10').toISOString(),
-    image: 'images/Arabia Saudita en el declive del dólar global.png',
+    image: 'images/Arabia Saudita en el declive del dólar global.webp',
     category: 'Economía',
     categoryEn: 'Economy',
     source: "Tectónikos",
@@ -136,7 +136,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2024-06-09').toISOString(),
-    image: 'images/Entrevista a Francesca Staiano.png',
+    image: 'images/Entrevista a Francesca Staiano.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tectónikos",
@@ -156,7 +156,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2024-02-04').toISOString(),
-    image: 'images/Guillermo Carmona.png',
+    image: 'images/Guillermo Carmona.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tectónikos",
@@ -176,7 +176,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2025-01-10').toISOString(),
-    image: 'images/10.jpeg',
+    image: 'images/10.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Revista China Hoy, China",
@@ -196,7 +196,7 @@ const articlesData = [
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar felis at mauris maximus, id mattis nibh pulvinar. Curabitur non augue vitae justo molestie tincidunt et sed erat. Nulla facilisi. Vivamus quis tortor ultricies, malesuada libero ac, placerat magna.</p>
                <p>Maecenas vehicula fermentum magna, eu ultricies nisi scelerisque quis. Aenean eget lorem at libero faucibus gravida at eget purus. Nulla sed lacus rhoncus, suscipit augue et, bibendum odio.</p>`,
     date: new Date('2020-04-08').toISOString(),
-    image: 'images/El peronismo y China más allá de la pandemia.png',
+    image: 'images/El peronismo y China más allá de la pandemia.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Adsina",
@@ -210,7 +210,7 @@ const articlesData = [
     excerpt: 'Tanto los atribulados distopistas occidentales como los enérgicos utopistas chinos parecieran tener razones para que el brote de un virus que en sus peores días en China mató a un promedio de 60 personas contra un total de casi 28.000 chinos muertos, tomara una magnitud que aún resta explicar.',
     excerptEn: 'Both the beleaguered Western dystopians and the energetic Chinese utopians seem to have reasons for the outbreak of a virus that in its worst days in China killed an average of 60 people out of a total of nearly 28,000 Chinese dead, to reach a magnitude that remains to be explained.',
     date: new Date('2020-03-17').toISOString(),
-    image: 'images/Efectos colaterales del coronavirus.png',
+    image: 'images/Efectos colaterales del coronavirus.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Adsina",
@@ -224,7 +224,7 @@ const articlesData = [
     excerpt: 'Las dificultades de los periodistas latinoamericanos para informar sobre China sin derivar hacia la propaganda emitida por el Partido Comunista Chino ni la propaganda de la Secretaría de Estado de los Estados Unidos.',
     excerptEn: 'The difficulties Latin American journalists face in reporting on China without deviating into propaganda issued by the Chinese Communist Party or the U.S. Secretary of State.',
     date: new Date('2021-04-04').toISOString(),
-    image: 'images/China el dilema de un periodista.png',
+    image: 'images/China el dilema de un periodista.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Adsina",
@@ -238,7 +238,7 @@ const articlesData = [
     excerpt: 'Los símbolos patrios cumplen la función de tender un espacio de convivencia entre personas diversas. En el Día de la Bandera argentina, argentinos de origen chino cuentan qué sienten ante el emblema celeste y blanco que los ha adoptado y que ellos adoptaron.',
     excerptEn: 'National symbols serve the purpose of creating a space for coexistence among diverse people. On Argentine Flag Day, Argentines of Chinese origin share their feelings about the blue and white emblem that has adopted them and that they have adopted.',
     date: new Date('2020-06-21').toISOString(),
-    image: 'images/La bandera de los argentinos.png',
+    image: 'images/La bandera de los argentinos.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Adsina",
@@ -252,7 +252,7 @@ const articlesData = [
     excerpt: 'La celebración del Qīngmíng jié, el Día de los Muertos en China, moviliza fantasmas en tiempos de pandemia.',
     excerptEn: 'The celebration of Qingming Jié, the Day of the Dead in China, mobilizes ghosts in times of pandemic.',
     date: new Date('2020-04-04').toISOString(),
-    image: 'images/El Día del Fulgor.png',
+    image: 'images/El Día del Fulgor.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Adsina",
@@ -266,7 +266,7 @@ const articlesData = [
     excerpt: 'La historia de Ou Zhanming, a quien el tango que se le prendó en los años que pasó en Buenos Aires, se bautizó Gaviota, para que en las milongas recordaran su nombre, es traductor de libros de tango, representa a la Academia Nacional del Tango en Beijing y se encarga del tema en la Embajada Argentina.',
     excerptEn: 'The story of Ou Zhanming, who was captivated by the tango that captivated him during the years he spent in Buenos Aires. He baptized himself Gaviota (Seagull) so that his name would be remembered at milongas. He is a translator of tango books, represents the National Tango Academy in Beijing, and is in charge of the subject at the Argentine Embassy.',
     date: new Date('2020-06-09').toISOString(),
-    image: 'images/Un tango llamado Gaviota.png',
+    image: 'images/Un tango llamado Gaviota.webp',
     category: 'Cultura',
     categoryEn: 'Culture',
     source: "Adsina",
@@ -280,7 +280,7 @@ const articlesData = [
     excerpt: 'El nuevo embajador argentino en China, Luis María Kreckler y el Representante Especial ante ese gobierno, Sabino Vaca Narvaja, dan pistas sobre la relación que se busca con el gigante asiático.',
     excerptEn: 'The new Argentine ambassador to China, Luis María Kreckler, and the Special Representative to that government, Sabino Vaca Narvaja, provide clues about the relationship they are seeking with the Asian giant.',
     date: new Date('2020-05-21').toISOString(),
-    image: 'images/Hoja de ruta para las relaciones con China.png',
+    image: 'images/Hoja de ruta para las relaciones con China.webp',
     category: 'Política', 
     categoryEn: 'Politics',
     source: "Diario Tiempo Argentino",
@@ -294,7 +294,7 @@ const articlesData = [
     excerpt: 'China es construida desde los aparatos ideológicos occidentales como una distopía, algo así como lo contrario a una utopía.',
     excerptEn: 'China is constructed by Western ideological apparatuses as a dystopia, something like the opposite of a utopia.',
     date: new Date('2019-11-08').toISOString(),
-    image: 'images/2.jpeg',
+    image: 'images/2.webp',
     category: 'Política', 
     categoryEn: 'Politics',
     source: "Diario Tiempo Argentino",
@@ -308,7 +308,7 @@ const articlesData = [
     excerpt: 'El mundo asiste preocupado a la falta de cooperación entre Estados Unidos y China, o más aún, ante la escalada en la tensión de los dos mayores países de la Tierra en medio de la pandemia más atemorizante en lo que va del siglo.',
     excerptEn: 'The world is concerned about the lack of cooperation between the United States and China, and even more so, the escalating tensions between the two largest countries on Earth amid the most terrifying pandemic of the century.',
     date: new Date('2020-03-21').toISOString(),
-    image: 'images/3.jpeg',
+    image: 'images/3.webp',
     category: 'Política', 
     categoryEn: 'Politics',
     source: "Diario Tiempo Argentino",
@@ -322,7 +322,7 @@ const articlesData = [
     excerpt: 'La vigencia de la posición de Cristina en 2015 frente a los lineamientos de la política exterior que anunció Alberto Fernández. de las coincidencias entre Perón y Mao a los acuerdos de cooperación entre ambos países.',
     excerptEn: "The validity of Cristina's 2015 stance on the foreign policy guidelines announced by Alberto Fernández. From the similarities between Perón and Mao to the cooperation agreements between the two countries.",
     date: new Date('2020-01-26').toISOString(),
-    image: 'images/4.jpeg',
+    image: 'images/4.webp',
     category: 'Política', 
     categoryEn: 'Politics',
     source: "Diario Tiempo Argentino",
@@ -336,7 +336,7 @@ const articlesData = [
     excerpt: 'Las redes sociales son censuradas como creadoras de imbecilidad. Pero no puede ignorárselas.',
     excerptEn: "Social media is criticized for creating stupidity. But it can't be ignored.",
     date: new Date('2020-09-19').toISOString(),
-    image: 'images/1.jpeg',
+    image: 'images/1.webp',
     category: 'Política', 
     categoryEn: 'Politics',
     source: "Contraeditorial",
@@ -350,7 +350,7 @@ const articlesData = [
     excerpt: 'La epidemia no afectó de la misma manera a China y a Occidente. Aún estamos lejos de formarnos una imagen planetaria completa que dé cuenta de las razones de la pandemia e integre todas sus dimensiones, desde la biológica y la sanitaria hasta la tecnológica, la financiera, la social, la geopolítica, la cultural y la política interna de cada nación.',
     excerptEn: "The epidemic did not affect China and the West equally. We are still far from forming a complete global picture that accounts for the causes of the pandemic and integrates all its dimensions, from the biological and health-related to the technological, financial, social, geopolitical, cultural, and domestic politics of each nation.",
     date: new Date('2020-03-22').toISOString(),
-    image: 'images/El muerciélago.png',
+    image: 'images/El muerciélago.webp',
     category: 'Política', 
     categoryEn: 'Politics',
     source: "Adsina",
@@ -364,7 +364,7 @@ const articlesData = [
     excerpt: 'Al cumplirse 75 años del final de la Segunda Guerra Mundial, se estrenó en China la película 八佰, Los ochocientos, que habla de la participación de ese país en la contienda. El tema es abordado en esta nota en un intento de comprender hasta qué punto China se nos presenta como otra realidad.',
     excerptEn: "On the 75th anniversary of the end of World War II, the film 八佰 (The Eight Hundred) was released in China, which tells of that country's participation in the conflict. This article addresses the topic in an attempt to understand the extent to which China is presented to us as a different reality.",
     date: new Date('2020-09-02').toISOString(),
-    image: 'images/Los Ochocientos.png',
+    image: 'images/Los Ochocientos.webp',
     category: 'Cultura', 
     categoryEn: 'Culture',
     source: "Adsina",
@@ -378,7 +378,7 @@ const articlesData = [
     excerpt: 'Entre cien y doscientos argentinos que viven en China quedaron varados en Argentina por la cuarentena global que impuso la pandemia de Covid-19. Gustavo Ng entrevistó a varios afectados.',
     excerptEn: "Between 100 and 200 Argentines living in China were stranded in Argentina by the global quarantine imposed by the COVID-19 pandemic. Gustavo Ng interviewed several of those affected.",
     date: new Date('2020-12-16').toISOString(),
-    image: 'images/Los argentinos que no pueden volver a China.png',
+    image: 'images/Los argentinos que no pueden volver a China.webp',
     category: 'Política',
     categoryEn: 'Politics', 
     source: "Adsina",
@@ -392,7 +392,7 @@ const articlesData = [
     excerpt: 'La novela distópica Slapstick (Payasadas), del escritor Kurt Vonnegut, profetizó varios rasgos de la pandemia de COVID-19, entre ellos los problemas de Estados Unidos para afrontarla.',
     excerptEn: "Kurt Vonnegut's dystopian novel Slapstick prophesied several features of the COVID-19 pandemic, including America's struggles to cope with it.",
     date: new Date('2020-10-04').toISOString(),
-    image: 'images/Entre el presidente y los chinos, un sabor a utopía.png',
+    image: 'images/Entre el presidente y los chinos, un sabor a utopía.webp',
     category: 'Política',
     categoryEn: 'Politics', 
     source: "Adsina",
@@ -406,7 +406,7 @@ const articlesData = [
     excerpt: 'Informe a la colectividad formada por migrantes chinos sobre la dictadura cívico-militar de 1976 a 1983.',
     excerptEn: "Report to the Chinese migrant community on the civil-military dictatorship from 1976 to 1983.",
     date: new Date('2020-03-24').toISOString(),
-    image: 'images/Carta a la comunidad china en Argentina por el 24 de marzo.png',
+    image: 'images/Carta a la comunidad china en Argentina por el 24 de marzo.webp',
     category: 'Política',
     categoryEn: 'Politics', 
     source: "Adsina",
@@ -420,7 +420,7 @@ const articlesData = [
     excerpt: 'Oculta por la pandemia, y por el desinterés de gran parte de la prensa occidental, la noticia de la desaparición de la pobreza extrema china tiene dimensiones históricas. Las lecciones que este proceso deja para el mundo.',
     excerptEn: "Obscured by the pandemic and the lack of interest of much of the Western press, the news of the disappearance of extreme poverty in China has historic dimensions. The lessons this process offers for the world.",
     date: new Date('2021-01-02').toISOString(),
-    image: 'images/6.jpeg',
+    image: 'images/6.webp',
     category: 'Política',
     categoryEn: 'Politics', 
     source: "Diario Perfil",
@@ -434,7 +434,7 @@ const articlesData = [
     excerpt: 'Las encuestas revelan que en los países occidentales crece la imagen negativa de Beijing que, claramente, está perdiendo la batalla de la comunicación con Washington y sus aliados.',
     excerptEn: "Polls reveal that Beijing's negative image is growing in Western countries, and it is clearly losing the battle for communication with Washington and its allies.",
     date: new Date('2021-04-21').toISOString(),
-    image: 'images/7.jpeg',
+    image: 'images/7.webp',
     category: 'Política',
     categoryEn: 'Politics', 
     source: "Diario Perfil",
@@ -448,7 +448,7 @@ const articlesData = [
     excerpt: 'El gobierno de Xi Jinping acaba de publicar un documento en el que explica que China es un país democrático. En Occidente, tal afirmación produce un sarcasmo generalizado, que los chinos retrucan haciendo ver que los occidentales se han tragado el cuento de que la única democracia posible es aquella que los países dominantes de Europa y América imponen como universal. “No existe un modelo fijo de democracia, sino que se manifiesta de muchas formas”, dice el informe.',
     excerptEn: "Xi Jinping's government has just published a document explaining that China is a democratic country. In the West, such a statement provokes widespread sarcasm, which the Chinese counter by suggesting that Westerners have bought into the narrative that the only democracy possible is the one imposed as universal by the dominant countries of Europe and America. \"There is no fixed model of democracy, but it manifests itself in many forms\" ​the report states.",
     date: new Date('2021-12-07').toISOString(),
-    image: 'images/8.jpeg',
+    image: 'images/8.webp',
     category: 'Política',
     categoryEn: 'Politics', 
     source: "Radio Gráfica",
@@ -462,7 +462,7 @@ const articlesData = [
     excerpt: 'Leyendas, mitos y simbología de la Serpiente en las antiguas tradiciones de conocimiento de China.',
     excerptEn: "Legends, myths and symbolism of the Snake in the ancient knowledge traditions of China.",
     date: new Date('2024-12-26').toISOString(),
-    image: 'images/9.jpeg',
+    image: 'images/9.webp',
     category: 'Cultura',
     categoryEn: 'Culture', 
     source: "Revista China Hoy, China",
@@ -476,7 +476,7 @@ const articlesData = [
     excerpt: 'Heredero de una familia política, el joven especialista quiere dar un nuevo impulso a las relaciones con China.',
     excerptEn: "Heir to a political family, the young specialist wants to give new impetus to relations with China.",
     date: new Date('2020-05-22').toISOString(),
-    image: 'images/5.jpeg',
+    image: 'images/5.webp',
     category: 'Política',
     categoryEn: 'Politics', 
     source: "Diario Perfil",
@@ -490,7 +490,7 @@ const articlesData = [
     excerpt: 'Gustavo Ng cuenta el reencuentro luego de veinte años sin ver a su padre. Trabajo, desarraigo, identidad y las formas del hogar. ¿Qué enseñanzas trae la búsqueda del padre?',
     excerptEn: "Gustavo Ng recounts his reunion after twenty years without seeing his father. Work, displacement, identity, and the ways of homemaking. What lessons does the search for one's father bring?",
     date: new Date('2017-06-16').toISOString(),
-    image: 'images/Tras el camino de mi padre.png',
+    image: 'images/Tras el camino de mi padre.webp',
     category: 'Cultura',
     categoryEn: 'Culture', 
     source: "Revista Anfibia",
@@ -504,7 +504,7 @@ const articlesData = [
     excerpt: 'El crecimiento previsto por China para este 2024 es del 5 por ciento. El acento ya no está puesto en la cantidad y sino en la calidad del avance, con eje en los sectores de nuevas energías, equipos de alta gama y biotecnología.',
     excerptEn: "China's projected growth for 2024 is 5 percent. The emphasis is no longer on quantity but on the quality of progress, focusing on the new energy, high-end equipment, and biotechnology sectors.",
     date: new Date('2024-03-31').toISOString(),
-    image: 'images/China profundiza el camino de la innovación tecnológica.png',
+    image: 'images/China profundiza el camino de la innovación tecnológica.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Página 12",
@@ -518,7 +518,7 @@ const articlesData = [
     excerpt: 'Comenzarán hoy las sesiones del XX Congreso del Partido Comunista Chino (PCCh), el máximo órgano del partido que gobierna el país más poblado y una de las dos mayores economías del mundo.',
     excerptEn: "Sessions of the 20th Congress of the Chinese Communist Party (CCP), the highest body of the party that governs the most populous country and one of the world's two largest economies, will begin today.",
     date: new Date('2022-10-16').toISOString(),
-    image: 'images/El PCCh proyecta China hasta el 2028.png',
+    image: 'images/El PCCh proyecta China hasta el 2028.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tiempo Argentino",
@@ -532,7 +532,7 @@ const articlesData = [
     excerpt: 'El anuncio de que Argentina había entrado en los BRICS fue eufórico. Si bien se había empezado a hablar del tema diez años atrás, hubo altibajos. El anuncio de que se había decidido la inclusión de Argentina pareció sorprender a los analistas y al Gobierno.',
     excerptEn: "The announcement that Argentina had joined the BRICS was euphoric. Although the topic had been discussed for ten years, there were ups and downs. The announcement that Argentina had been included seemed to surprise analysts and the government.",
     date: new Date('2023-08-27').toISOString(),
-    image: 'images/El desafío emerger con otros.png',
+    image: 'images/El desafío emerger con otros.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tiempo Argentino",
@@ -546,7 +546,7 @@ const articlesData = [
     excerpt: 'El país más poblado del mundo es el que tiene una de las tasas de natalidad más bajas. En China, en 1950, habían nacido 6,11 niños por mujer y es necesario que nazcan 2 para que la población se mantenga.',
     excerptEn: "The most populous country in the world has one of the lowest birth rates. In China, in 1950, 6.11 children were born per woman, and two more are needed to maintain the population.",
     date: new Date('2021-11-27').toISOString(),
-    image: 'images/La época de la longevidad.png',
+    image: 'images/La época de la longevidad.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tiempo Argentino",
@@ -560,7 +560,7 @@ const articlesData = [
     excerpt: 'No hay China sin gobierno. No hay gobierno chino sin Partido Comunista Chino. No hay China sin Partido Comunista Chino (PCCh).',
     excerptEn: "There is no China without a government. There is no Chinese government without the Chinese Communist Party. There is no China without the Chinese Communist Party (CCP).",
     date: new Date('2021-07-26').toISOString(),
-    image: 'images/A 100 años de su fundación, no hay China sin el PCCh.png',
+    image: 'images/A 100 años de su fundación, no hay China sin el PCCh.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tiempo Argentino",
@@ -574,7 +574,7 @@ const articlesData = [
     excerpt: 'En el vacío informativo entre Occidente y China, la problemática de la minoría uigur, que tiene una facción independentista y parte de la jihad, es aprovechada por Estados Unidos para fustigar a China.',
     excerptEn: "In the information vacuum between the West and China, the plight of the Uighur minority, which has an independence faction and is part of the jihad movement, is being exploited by the United States to criticize China.",
     date: new Date('2020-01-05').toISOString(),
-    image: 'images/Argentna y los uigures.png',
+    image: 'images/Argentna y los uigures.webp',
     category: 'Política',
     categoryEn: 'Politics',
     source: "Tiempo Argentino",
@@ -594,7 +594,7 @@ const pressData = [
     summary: 'Entrevista a Gustavo Ng, autor del libro China, “La superación de la pobreza”',
     summaryEn: 'Interview with Gustavo Ng, author of the book China, “Overcoming poverty”',
     link: 'https://ar.radiocut.fm/audiocut/china-superacion-pobreza-casa-invita/',
-    image: 'images/Prensa/5.jpeg',
+    image: 'images/Prensa/5.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -607,7 +607,7 @@ const pressData = [
     summary: 'Con la participación de Gustavo Ng, desde una perspectiva objetiva, se muestra un mundo y una China más reales y se analizan en profundidad temas culturales, históricos y políticos, presentando en detalle los constantes cambios y el irrefrenable desarrollo de China y de su pueblo.',
     summaryEn: 'With the participation of Gustavo Ng, from an objective perspective, a more real world and China are shown and cultural, historical and political issues are analyzed in depth, presenting in detail the constant changes and the unstoppable development of China and its people.',
     link: 'https://www.youtube.com/watch?v=uGG4sOrT3dQ',
-    image: 'images/Prensa/6.jpeg',
+    image: 'images/Prensa/6.webp',
     type: 'interview',
     typeEn: 'interview',
   
@@ -621,7 +621,7 @@ const pressData = [
     summary: 'Con una densidad poblacional de dos personas por kilómetro cuadrado y un territorio casi desértico, el Tíbet es una región remota incluso para los parámetros chinos. "Los monjes budistas tienen una presencia importantísima, pero el gobierno central de China tiene el control político y militar de la zona", dijo el periodista Gustavo Ng.',
     summaryEn: 'With a population density of two people per square kilometer and an almost desert territory, Tibet is a remote region even by Chinese standards. "Buddhist monks have a very important presence, but the central government of China has political and military control of the area," said journalist Gustavo Ng.',
     link: 'https://noticiaslatam.lat/20190713/tibet-region-remota-1088000228.html',
-    image: 'images/Prensa/Viaje al Tíbet, ayer y hoy de una frontera caliente.png',
+    image: 'images/Prensa/Viaje al Tíbet, ayer y hoy de una frontera caliente.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -634,7 +634,7 @@ const pressData = [
     summary: 'Gustavo Ng relata su acercamiento a China y su carrera como difusor de la cultura china en Argentina.',
     summaryEn: 'Gustavo Ng recounts his approach to China and his career as a disseminator of Chinese culture in Argentina.',
     link: 'https://mp.weixin.qq.com/s/5l7OuHvijwyVXMq4ueeFSA',
-    image: 'images/Prensa/8.jpeg',
+    image: 'images/Prensa/8.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -647,7 +647,7 @@ const pressData = [
     summary: 'Gustavo Ng relata cómo dedica su vida a informar sobre China en Argentina a través de los medios de comunicación y de libros.',
     summaryEn: 'Gustavo Ng recounts how he dedicates his life to informing about China in Argentina through the media and books.',
     link: 'https://www.chinahoy.com.cn/2018/tt/202311/t20231101_800347723.html',
-    image: 'images/Prensa/9.jpeg',
+    image: 'images/Prensa/9.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -660,7 +660,7 @@ const pressData = [
     summary: 'El autor argentino Gustavo Ng, estará en Panamá presentado su obra "Podemos vencer la pobreza - La experiencia de China", donde narra su experiencia conociendo la erradicación de la pobreza en China.',
     summaryEn: 'Argentine author Gustavo Ng will be in Panama presenting his work "We can overcome poverty - The China experience", where he narrates his experience getting to know the eradication of poverty in China.',
     link: 'https://www.prensa.com/vivir/china-contra-la-pobreza-una-batalla-en-palabras/#google_vignette',
-    image: 'images/Prensa/10.jpeg',
+    image: 'images/Prensa/10.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -673,7 +673,7 @@ const pressData = [
     summary: 'En su último libro, el escritor propone una suerte de crónica neoyorquina sobre el postergado reencuentro con su padre después de 20 años de indiferencia.',
     summaryEn: 'In his latest book, the writer proposes a sort of New York chronicle about the postponed reunion with his father after 20 years of indifference.',
     link: 'https://www.tiempoar.com.ar/ta_article/gustavo-ng-cuando-veo-a-mi-viejo-imagino-la-eternidad',
-    image: 'images/2.jpeg',
+    image: 'images/2.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -686,7 +686,7 @@ const pressData = [
     summary: 'El 15 de junio tuvo lugar en Beijing una conferencia de Gustavo NG, periodista y escritor especializado en China, Director de la Revista cultural Dang Dai y autor de varias obras relativas al país asiático.',
     summaryEn: 'On June 15, a conference by Gustavo NG, a journalist and writer specializing in China, Director of the cultural magazine Dang Dai and author of several works related to the Asian country, took place in Beijing.',
     link: 'https://echin.cancilleria.gob.ar/es/conferencia-del-escritor-argentino-gustavo-ng-en-beijing',
-    image: 'images/Prensa/3.jpeg',
+    image: 'images/Prensa/3.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -699,7 +699,7 @@ const pressData = [
     summary: 'Entrevista de Café a la Turca a Gustavo Ng, periodista especializado en China, director de la revista DangDai, junto al colega Néstor Restivo, y compilador del libro recientemente publicado "La superación de la pandemia en América Latina", con artículos de diferentes autores sobre el escenario sanitario con que América Latina y Argentina debieron enfrentar la Covid-19 y la incidencia que tuvo en el manejo de la pandemia la cooperación de China.',
     summaryEn: 'Café a la Turca interview with Gustavo Ng, a journalist specializing in China, director of the magazine DangDai, along with colleague Néstor Restivo, and compiler of the recently published book "Overcoming the pandemic in Latin America", with articles by different authors on the health scenario that Latin America and Argentina had to face Covid-19 and the impact that China\'s cooperation had on pandemic management.',
     link: 'https://araziroxana.com.ar/nota/1238/por-que-china-solo-tuvo-5000-muertos-por-covid-19-',
-    image: 'images/Prensa/7.jpeg',
+    image: 'images/Prensa/7.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -712,7 +712,7 @@ const pressData = [
     summary: 'El periodista y escritor Gustavo Ng, que recoge en un libro sus indagaciones sobre las claves que regirán el 2021 bajo el signo del búfalo de metal.',
     summaryEn: 'Journalist and writer Gustavo Ng, who collects in a book his inquiries about the keys that will govern 2021 under the sign of the metal buffalo.',
     link: 'https://www.tiempoar.com.ar/ta_article/el-horoscopo-chino-es-un-pequeno-aleph-de-la-cultura-de-los-chinos',
-    image: 'images/Prensa/1.jpeg',
+    image: 'images/Prensa/1.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -725,7 +725,7 @@ const pressData = [
     summary: 'El autor de “La intimidad de las islas”, “El regalo del Dios Viento” y “El Tangram de China”, entre otros títulos, es uno de los grandes divulgadores de la cultura del gigante asiático.',
     summaryEn: 'The author of "The Intimacy of the Islands", "The Gift of the Wind God" and "The Tangram of China", among other titles, is one of the great disseminators of the culture of the Asian giant.',
     link: 'https://www.youtube.com/watch?v=uGG4sOrT3dQ',
-    image: 'images/Prensa/El mayor premio de China.png',
+    image: 'images/Prensa/El mayor premio de China.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -738,7 +738,7 @@ const pressData = [
     summary: 'Entrevistado por Reynaldo Sietecase, Gustavo Ng analiza desde Beijing los prejuicios y la torpeza de la diplomacia del Gobierno de Javier Milei ante China.',
     summaryEn: 'Interviewed by Reynaldo Sietecase, Gustavo Ng analyzes from Beijing the prejudices and clumsiness of the diplomacy of Javier Milei\'s Government towards China.',
     link: 'https://noticiaslatam.lat/20190713/tibet-region-remota-1088000228.html',
-    image: 'images/Prensa/Gustavo Ng criticó los polémicos dichos de Diana Mondino.png',
+    image: 'images/Prensa/Gustavo Ng criticó los polémicos dichos de Diana Mondino.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -751,7 +751,7 @@ const pressData = [
     summary: 'El escritor y periodista ganó el Special Book Award que otorga el gobierno chino; trabaja en la biografía de un artista cantonés, Lo Yuao, que vivió en San Nicolás de los Arroyos.',
     summaryEn: 'The writer and journalist won the Special Book Award given by the Chinese government; he is working on the biography of a Cantonese artist, Lo Yuao, who lived in San Nicolás de los Arroyos.',
     link: 'https://www.lanacion.com.ar/cultura/gustavo-ng-china-toma-de-la-cultura-argentina-lo-que-encuentra-en-el-bazar-de-la-cultura-global-nid03072023/',
-    image: 'images/Prensa/Gustavo Ng China toma de la cultura argentina.png',
+    image: 'images/Prensa/Gustavo Ng China toma de la cultura argentina.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -764,7 +764,7 @@ const pressData = [
     summary: 'Uno de los fundadores de Dang Dai afirmó que China se comporta, en el terreno externo, de manera neoliberal, pero podría favorecer el desarrollo de países de Latinoamérica.',
     summaryEn: 'One of the founders of Dang Dai stated that China behaves, in the external field, in a neoliberal way, but could favor the development of Latin American countries.',
     link: 'https://www.perfil.com/noticias/modo-fontevecchia/gustavo-ng-para-los-chinos-somos-un-tesoro-de-recursos-naturales-y-humanos-modof.phtml',
-    image: 'images/Prensa/Gustavo Ng Para los chinos somos.png',
+    image: 'images/Prensa/Gustavo Ng Para los chinos somos.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -777,7 +777,7 @@ const pressData = [
     summary: 'El periodista y editor argentino recibió en Beijing el Special Book Award, por su labor de difusión cultural. “Necesitamos que nuestras relaciones vayan más allá de la venta de recursos naturales e involucren al arte y la ciencia”, afirmó.',
     summaryEn: 'The Argentine journalist and editor received the Special Book Award in Beijing for his cultural dissemination work. "We need our relationships to go beyond the sale of natural resources and involve art and science," he said.',
     link: 'https://www.infobae.com/cultura/2023/06/15/gustavo-ng-gano-el-premio-mayor-de-china-para-escritores-extranjeros/',
-    image: 'images/Prensa/Gustavo Ng ganó el premio mayor.png',
+    image: 'images/Prensa/Gustavo Ng ganó el premio mayor.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -790,7 +790,7 @@ const pressData = [
     summary: 'Hasta ahora China se atuvo a las reglas de juego mundiales, pero este XX Congreso del PCCh puede empezar a marcar el punto de inflexión hacia un momento de mayor injerencia en la política global.',
     summaryEn: 'So far, China has adhered to global rules of the game, but this 20th Congress of the CCP could begin to mark the turning point towards a moment of greater interference in global politics.',
     link: 'https://jacobinlat.com/2022/10/china-tiene-una-politica-especifica-hacia-una-nueva-configuracion-del-mundo/',
-    image: 'images/Prensa/China tiene una política específica.png',
+    image: 'images/Prensa/China tiene una política específica.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -803,7 +803,7 @@ const pressData = [
     summary: 'Gustavo Ng, editor de la revista DangDai, afirmó que “China es inevitable. La dimensión que ganó y la aceleración económica que tiene, hace que sea inevitable para toda América Latina, así como lo es para los Estados Unidos”.',
     summaryEn: 'Gustavo Ng, editor of the DangDai magazine, stated that "China is inevitable. The dimension it has gained and the economic acceleration it has, makes it inevitable for all of Latin America, as it is for the United States".',
     link: 'https://cnnespanol.cnn.com/radio/2024/10/14/gustavo-ng-china-es-inevitable-para-toda-america-latina-y-hasta-para-los-estados-unidos',
-    image: 'images/Prensa/Gustavo Ng China es inevitable.png',
+    image: 'images/Prensa/Gustavo Ng China es inevitable.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -816,7 +816,7 @@ const pressData = [
     summary: 'El periodista Gustavo Ng se refirió a los dichos de la Canciller, que dijo que "los chinos son todos iguales", y los comparó con "hablar con alguien y que se saque los mocos delante tuyo". "Cuando se habla de negocios estos son pequeños gestos de mala educación".',
     summaryEn: 'Journalist Gustavo Ng referred to the statements of the Chancellor, who said that "the Chinese are all the same", and compared them to "talking to someone and having them pick their nose in front of you". "When it comes to business, these are small gestures of bad manners".',
     link: 'https://www.perfil.com/noticias/modo-fontevecchia/dice-el-periodista-argentino-que-mas-sabe-de-china-como-uno-ve-que-mondino-es-rica-piensa-que-es-culta-modof.phtml',
-    image: 'images/Prensa/Dice el periodista argentino que más.png',
+    image: 'images/Prensa/Dice el periodista argentino que más.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -829,7 +829,7 @@ const pressData = [
     summary: 'Premiado por la difusión de la cultura del milenario país asiático, el codirector de la revista Dang Dai cuenta sus experiencias entre pueblos y territorios donde Occidente tiene la demonización fácil.',
     summaryEn: 'Awarded for the dissemination of the culture of the ancient Asian country, the co-director of the Dang Dai magazine recounts his experiences among peoples and territories where the West has easy demonization.',
     link: 'https://www.tiempoar.com.ar/ta_article/la-china-profunda-vista-con-ojos-del-argentino-gustavo-ng/',
-    image: 'images/Prensa/La China profunda vista con.png',
+    image: 'images/Prensa/La China profunda vista con.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -842,7 +842,7 @@ const pressData = [
     summary: 'Lo indicó el periodista Gustavo Ng, especializado en las relaciones de Argentina y China, en el marco de su visita a Radio Nacional Salta, donde habló de la incidencia de los negocios del país asiático en Argentina y de las oportunidades.',
     summaryEn: 'This was indicated by journalist Gustavo Ng, specialized in the relations between Argentina and China, during his visit to Radio Nacional Salta, where he spoke about the impact of Asian country\'s business in Argentina and the opportunities.',
     link: 'https://www.radionacional.com.ar/gustavo-ng-salta-tiene-una-oportunidad-enorme-con-china/',
-    image: 'images/Prensa/Gustavo Ng Salta tiene una.png',
+    image: 'images/Prensa/Gustavo Ng Salta tiene una.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -855,7 +855,7 @@ const pressData = [
     summary: 'El Foro Especial con Argentina en el marco de la serie de coloquios televisivos "China en la nueva expedición y el mundo" se celebró el 31 de octubre, organizado por CGTN. Participó en el debate de forma virtual Gustavo Ng, el editor de Revista DangDai.',
     summaryEn: 'The Special Forum with Argentina within the framework of the television colloquium series "China in the new expedition and the world" was held on October 31, organized by CGTN. Gustavo Ng, the editor of DangDai Magazine, participated in the debate virtually.',
     link: 'https://www.youtube.com/watch?v=cPQ8nBXPSRghttps://www.youtube.com/watch?v=cPQ8nBXPSRg',
-    image: 'images/Prensa/Gustavo Ng participó en el Foro.png',
+    image: 'images/Prensa/Gustavo Ng participó en el Foro.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -868,7 +868,7 @@ const pressData = [
     summary: 'En Mariposa de otoño el autor esboza con sutileza trazos de un pasado que lo llevó a reencontrarse con su padre y con la cultura de China. Un viaje a Nueva York que fue además iniciativa para reconstruir la propia identidad.',
     summaryEn: 'In "Mariposa de otoño", the author subtly outlines traces of a past that led him to reunite with his father and with Chinese culture. A trip to New York that was also an initiative to rebuild one\'s own identity.',
     link: 'https://medium.com/@mariasingla/gustavo-ng-con-mi-viaje-le-resolv%C3%AD-a-mi-pap%C3%A1-la-contradicci%C3%B3n-de-querer-dejar-china-atr%C3%A1s-pero-c628328e86e6',
-    image: 'images/Prensa/Gustavo Ng Con mi viaje le resolví.png',
+    image: 'images/Prensa/Gustavo Ng Con mi viaje le resolví.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -881,7 +881,7 @@ const pressData = [
     summary: 'Dice Gustavo Ng en un artículo, “China da oportunidades, o más bien habría que decir que ofrece oportunidades que pueden ser tomadas por quienes trabajan intensamente para aprovecharlas”.',
     summaryEn: 'Gustavo Ng says in an article, "China provides opportunities, or rather it should be said that it offers opportunities that can be taken by those who work hard to take advantage of them".',
     link: 'https://espanol.cgtn.com/news/2022-10-02/1575312192947163137/index.html?fbclid=IwZXh0bgNhZW0CMTEAAR2BTDFAQUPNHjAUFOEOdTITeqqqagEVo6L-mDLZzDi0QIUFXc9Qfk8lq6Q_aem_qrHURRT89rDCqY-HXA43ZQ',
-    image: 'images/Prensa/La oportunidad de Sam.png',
+    image: 'images/Prensa/La oportunidad de Sam.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -894,7 +894,7 @@ const pressData = [
     summary: 'Gustavo NG, es un periodista argentino, descendiente de chinos. Hace 10 años con Néstor Restivo hicieron la revista DangDai para el intercambio cultural con China, la única revista de Hispanoamérica dedicada al intercambio cultural.',
     summaryEn: 'Gustavo NG, is an Argentine journalist, descendant of Chinese. 10 years ago with Néstor Restivo they made the DangDai magazine for cultural exchange with China, the only magazine in Hispanic America dedicated to cultural exchange.',
     link: 'https://www.youtube.com/watch?v=ReARKTqlfaE',
-    image: 'images/Prensa/Cerca y Lejos Gustavo NG, fundador de la revista Dangdai.png',
+    image: 'images/Prensa/Cerca y Lejos Gustavo NG, fundador de la revista Dangdai.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -907,7 +907,7 @@ const pressData = [
     summary: 'Gustavo Ng, editor de Revista DangDai, dio un discurso en línea para el Foro de Hongqiao, hablando del mismo objetivo que tienen China y Argentina. Según Gustavo Ng, la equidad social que busca el socialismo también es un principio y un sueño del pueblo argentino, en Argentina lo llaman justicia social.',
     summaryEn: 'Gustavo Ng, editor of DangDai Magazine, gave an online speech for the Hongqiao Forum, speaking of the same objective that China and Argentina have. According to Gustavo Ng, the social equity sought by socialism is also a principle and a dream of the Argentine people, in Argentina they call it social justice.',
     link: 'https://www.youtube.com/watch?v=RQU3X1KZr_A&t=6s',
-    image: 'images/Prensa/Discurso de Gustavo Ng.png',
+    image: 'images/Prensa/Discurso de Gustavo Ng.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -920,7 +920,7 @@ const pressData = [
     summary: 'En Argentina se ha publicado el primer libro redactado por un argentino de origen chino, Gustavo Ng, quien habla sobre la inmigración del gigante asiático al país del fin del mundo. Ng, recibió una distinción oficial por su obra “Mariposa de otoño.”',
     summaryEn: 'In Argentina, the first book written by an Argentine of Chinese origin, Gustavo Ng, has been published, who talks about the',
     link: 'https://www.youtube.com/watch?v=WCrqkMH9DVY&t=90s',
-    image: 'images/Prensa/El libro Mariposa de otoño.png',
+    image: 'images/Prensa/El libro Mariposa de otoño.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -933,7 +933,7 @@ const pressData = [
     summary: 'Entrevistamos a Gustavo Ng, periodista especializado en China y director Ejecutivo del Proyecto Dang Dai de Intercambio Cultural entre Argentina y China.',
     summaryEn: 'We interviewed Gustavo Ng, a journalist specializing in China and Executive Director of the Dang Dai Cultural Exchange Project between Argentina and China.',
     link: 'https://radio.unaj.edu.ar/gustavo-ng-es-posible-que-este-sea-el-punto-de-cruce-entre-el-declive-de-estados-unidos-y-el-alza-de-china/',
-    image: 'images/Prensa/Gustavo Ng Es posible que éste.png',
+    image: 'images/Prensa/Gustavo Ng Es posible que éste.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -946,7 +946,7 @@ const pressData = [
     summary: 'An Argentine journalist covering the 20th National Congress of the CPC has spoken highly of its significance, saying China’s development is changing the shape of the world.',
     summaryEn: 'An Argentine journalist covering the 20th National Congress of the CPC has spoken highly of its significance, saying China’s development is changing the shape of the world.',
     link: 'http://en.people.cn/n3/2022/1027/c90000-10164385.html',
-    image: 'images/Prensa/Periodista argentino China aporta.png',
+    image: 'images/Prensa/Periodista argentino China aporta.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -959,7 +959,7 @@ const pressData = [
     summary: 'En “La intimidad de las islas”, el periodista y escritor Gustavo Ng retoma y potencia algunos de los temas que transitó en su libro anterior “Mariposa de otoño”: la paternidad, la búsqueda del origen, la identidad y la propia vida convertida en literatura.',
     summaryEn: 'In "La intimidad de las islas", journalist and writer Gustavo Ng takes up and enhances some of the themes he explored in his previous book "Mariposa de otoño": fatherhood, the search for origin, identity, and one\'s own life turned into literature.',
     link: 'https://enredaccion.com.ar/gustavo-ng-escribo-para-tomar-conciencia-plena-de-las-cosas/',
-    image: 'images/Prensa/Gustavo Ng Escribo para tomar.png',
+    image: 'images/Prensa/Gustavo Ng Escribo para tomar.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -972,7 +972,7 @@ const pressData = [
     summary: 'Gustavo Ng is a renowned Argentine expert on Chinese issues, writer, journalist, editor-in-chief of Dang Dai magazine, and a researcher at the University of Congress (Universidad de Congreso) in Argentina. Born in Argentina in 1962, Ng is a descendant of early Chinese immigrants. His father is Chinese and his mother is Argentine.',
     summaryEn: 'Gustavo Ng is a renowned Argentine expert on Chinese issues, writer, journalist, editor-in-chief of Dang Dai magazine, and a researcher at the University of Congress (Universidad de Congreso) in Argentina. Born in Argentina in 1962, Ng is a descendant of early Chinese immigrants. His father is Chinese and his mother is Argentine.',
     link: 'http://english.cssn.cn/skw_dialogue/202211/t20221103_5654063.shtml',
-    image: 'images/Prensa/Gustavo Ng Building a bridge.png',
+    image: 'images/Prensa/Gustavo Ng Building a bridge.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -985,7 +985,7 @@ const pressData = [
     summary: 'Gustavo Ng presentó ante el Senado de la provincia de Salta un informe sobre la planificación, implementación y resultados del plan de China para suprimir la pobreza extrema.',
     summaryEn: 'Gustavo Ng presented a report to the Senate of the province of Salta on the planning, implementation, and results of China\'s plan to eliminate extreme poverty.',
     link: 'https://www.youtube.com/watch?v=5QYikXVRioA',
-    image: 'images/Prensa/Senadores recibieron información.png',
+    image: 'images/Prensa/Senadores recibieron información.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -998,7 +998,7 @@ const pressData = [
     summary: 'El experto argentino en temas chinos Gustavo Ng descifra la lucha de China contra la pobreza Gustavo Ng.',
     summaryEn: 'Argentine expert on Chinese issues Gustavo Ng deciphers China\'s fight against poverty Gustavo Ng.',
     link: 'https://www.youtube.com/watch?v=PMcxjFPDzik',
-    image: 'images/Prensa/Gustavo Ng experto argentino en.png',
+    image: 'images/Prensa/Gustavo Ng experto argentino en.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -1011,7 +1011,7 @@ const pressData = [
     summary: 'Entrevista a Gustavo Ng Director Ejecutivo en Proyecto Dang Dai - Intercambio Cultural entre Argentina y China, en De Buena Fuente con Marcela Jesús.',
     summaryEn: 'Interview with Gustavo Ng Executive Director at Dang Dai Project - Cultural Exchange between Argentina and China, on De Buena Fuente with Marcela Jesús.',
     link: 'https://www.youtube.com/watch?v=q294hAKcnP0',
-    image: 'images/Prensa/Entrevista a Gustavo Ng Dir.png',
+    image: 'images/Prensa/Entrevista a Gustavo Ng Dir.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -1024,7 +1024,7 @@ const pressData = [
     summary: 'Es hijo de un cantonés que se radicó en la Argentina y formó familia. Luego, sin embargo, volvió con los suyos que vivían en Chinatown, Nueva York. El autor estuvo con ellos un tiempo pero no se adaptó.',
     summaryEn: 'He is the son of a Cantonese father who settled in Argentina and started a family. Later, however, he returned to his family, who lived in Chinatown, New York. The author stayed with them for a while but didn\'t adapt.',
     link: 'https://www.clarin.com/sociedad/mundos-ntimos-pap-escap-china-70-despu-viaj-conocer-casa-saber-qui_0_ryXvx9THe.html?srsltid=AfmBOoqN-VXb3o1pZ4OopPFYCC4hKawTM2npjrLWsZfC10zQcicNvhn7',
-    image: 'images/Prensa/A los 8 años mi papá escapó.png',
+    image: 'images/Prensa/A los 8 años mi papá escapó.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -1037,7 +1037,7 @@ const pressData = [
     summary: 'Un periodista argentino que cubrió el XX Congreso Nacional del Partido Comunista de China ha valorado mucho su importancia, afirmando que el desarrollo de China está cambiando la forma del mundo.',
     summaryEn: 'An Argentine journalist who covered the 20th National Congress of the Communist Party of China has highly praised its significance, stating that China\'s development is changing the shape of the world.',
     link: 'https://espanol.cgtn.com/news/2022-11-17/1593148643468173313/index.html',
-    image: 'images/Prensa/Periodista argentino China aporta.png',
+    image: 'images/Prensa/Periodista argentino China aporta.webp',
     type: 'interview',
     typeEn: 'interview',
   },
@@ -1075,12 +1075,97 @@ const pressData = [
 // Books
 const booksData = [
   {
+    id: 10,
+    title: 'Todo lo que necesitás saber sobre China',
+    titleEn: 'Everything you need to know about China',
+    description: 'El abordaje que hacemos sobre China es una mirada para nada abstracta, distinta y muy distante de la que podría haber hecho un marroquí, un canadiense o un japonés; o, en particular,un chino. Formados en humanidades y periodismo, por años hemos aprendido de China con una cantidad de expertos argentinos que desde la academia, la función pública y los negocios vienen haciendo un trabajo notable en cuanto a estudiar y vincularse con ese país, hasta hace unos años de manera silenciosa y en la actualidad, dada la envergadura que alcanzó la relación bilateral, con mayor visibilidad.',
+    descriptionEn: 'The approach we take to China is a look that is by no means abstract, different, and very different from what a Moroccan, a Canadian, or a Japanese could have done; or, in particular, a Chinese. Trained in humanities and journalism, for years we have learned about China from a number of Argentine experts who have been doing a remarkable job of studying and engaging with that country from academia, public service, and business, until a few years ago quietly and today, given the scope that the bilateral relationship has reached, with greater visibility.',
+    cover: 'images/libros/todo-sobre-china.webp',
+    publishDate: 'Buenos Aires, 2016',
+    publisher: 'Paidós',
+  
+  },
+  {
+    id: 9,
+    title: '10.134 kilómetros a través de China',
+    titleEn: '10,134 kilometers through China',
+    description: 'Un recorrido de dos meses en tren por más de 20 ciudades, a través de grandes urbes, desiertos, campos de cultivo, montañas, sitios arqueológicos y aldeas de China. Y el encuentro con la aldea donde vivieron sus ancestros.',
+    descriptionEn: 'A two-month train journey through more than 20 cities, through large cities, deserts, farmland, mountains, archaeological sites, and villages in China. And the encounter with the village where his ancestors lived.',
+    cover: 'images/libros/IMG_3115.webp',
+    publishDate: 'Beijing, 2021',
+    publisher: 'Blossom Press',
+  
+  },
+  {
+    id: 5,
+    title: 'China. La superación de la pobreza (con Néstor Restivo)',
+    titleEn: 'China. Overcoming poverty (with Néstor Restivo)',
+    description: 'Investigación sobre la lucha contra la pobreza extrema llevada a cabo con éxito por China, el país más poblado del mundo, como parte de su cometido socialista.',
+    descriptionEn: 'Research on the fight against extreme poverty successfully carried out by China, the world\'s most populous country, as part of its socialist mission.',
+    cover: 'images/libros/TAPA China, la superación de la pobreza.webp',
+    publishDate: 'Mendoza, 2021',
+    publisher: 'Universidad de Congreso',
+  
+  },
+  {
+    id: 4,
+    title: 'El regalo del Dios Viento - Viaje al país de los budistas tibetanos',
+    titleEn: 'The Gift of the Wind God - Journey to the Land of the Tibetan Buddhists',
+    description: 'La vida de los tibetanos en las provincias de Sichuan, Qinghai y Gansu y en la Región Autónoma del Tibet. Relatos que surgieron de cinco visitas que incluyeron desde la convivencia en carpas en las montañas de pastores nómadas hasta la participación en un foro mundial sobre el desarrollo de la región.',
+    descriptionEn: 'The lives of Tibetans in the provinces of Sichuan, Qinghai, and Gansu, and in the Tibet Autonomous Region. Stories from five visits, ranging from living in tents in the mountains with nomadic herders to participating in a global forum on the region\'s development.',
+    cover: 'images/libros/Tapa Plana.webp',
+    publishDate: 'Buenos Aires, 2022',
+    publisher: 'El Bien del Sauce',
+  
+  },
+  {
+    id: 7,
+    title: 'El Tangram de China - ¿Qué ven los latinoamericanos cuando miran al gigante asiático?',
+    titleEn: 'China\'s Tangram - What do Latin Americans see when they look at the Asian giant?',
+    description: 'Ensayo sobre el complejo de percepciones que tienen argentinos y latinoamericanos sobre China, país con el que cada vez tienen más trato en un intercambio que sólo tiene como destino el incremento.',
+    descriptionEn: ' Essay on the complex perceptions that Argentines and Latin Americans have about China, a country with which they are increasingly in contact in an exchange that only has as its destination an increase.',
+    cover: 'images/libros/TAPA para difusión.webp',
+    publishDate: 'Buenos Aires, 2022',
+    publisher: 'El Bien del Sauce',
+  
+  },
+  {
+    id: 6,
+    title: '"Podemos vencer la pobreza - La experiencia china" (con Néstor Restivo)',
+    titleEn: '"We can overcome poverty - The Chinese experience" (with Néstor Restivo)',
+    description: 'Ensayo que recoge 8 años de investigación sobre el diseño e implementación de estrategias por parte de China para conseguir la hazaña de sacar de la pobreza extrema a 800 millones de personas.',
+    descriptionEn: ' Essay that collects 8 years of research on the design and implementation of strategies by China to achieve the feat of lifting 800 million people out of extreme poverty.',
+    cover: 'images/libros/Tapa Podemos vencer la pobreza.webp',
+    publishDate: 'Beijing, 2023',
+    publisher: 'China Interncontinental Press',
+  },
+  {
+    id: 'mariposa-de-otono',
+    title: 'Mariposa de otoño',
+    titleEn: 'Autumn Butterfly', 
+    description: 'El libro Mariposa de otoño es una novela, pero una que debe construir el lector con todas las anotaciones que Ng –que oficia de diarista y narrador– despliega entre una escena y otra, con temporalidades, geografías y tonalidades distintas, como si mirásemos un álbum con fotografías tomadas con una Kodak Pocket de los 70, con una réflex en los 80 y un iPhone de hace un par de semanas. Pero si hubiera que dividir en dos el libro, claramente nos encontramos con dos partes: la primera y la segunda, que comienza con el subtítulo “Blanco de tiro”, donde aclara que en diciembre de 2015, 42 años después de que sus padres se separaran, su madre murió y el narrador-protagonista-autor viaja a Nueva York a darle la noticia en persona a su padre. De allí en más asistimos a “un relato de esos días”. El encuentro con el padre es, como escribe al final, algo así como una fuga. Nuestro narrador-autor-diarista observa el local de loterías como “una mezcla de vieja estación de trenes de Bangladesh con un club de bochas de un pueblo de la provincia de Buenos Aires”.',
+    descriptionEn: 'The book Mariposa de otoño is a novel, but one that the reader must build with all the annotations that Ng - who acts as a diarist and narrator - unfolds between one scene and another, with different temporalities, geographies, and tones, as if we were looking at an album with photographs taken with a Kodak Pocket from the 70s, with a reflex in the 80s and an iPhone from a couple of weeks ago. But if the book had to be divided in two, we clearly find two parts: the first and the second, which begins with the subtitle "Blanco de tiro", where it clarifies that in December 2015, 42 years after his parents separated, his mother died and the narrator-protagonist-author travels to New York to give the news in person to his father. From then on we witness "a story of those days". The encounter with the father is, as he writes at the end, something like an escape. Our narrator-author-diarist observes the lottery store as "a mixture of an old train station in Bangladesh with a bocce club in a town in the province of Buenos Aires".',
+    cover: 'images/libros/mariposa-de-otono.webp',
+    publishDate: 'Buenos Aires, 2020',
+    publisher: 'El Bien del Sauce',
+  },
+  {
+    id: 12,
+    title: 'La intimidad de las islas',
+    titleEn: 'The intimacy of the islands',
+    description: 'Entre el paisaje del Delta y la ciudad de San Nicolás, reflexiones sobre la paternidad y los vínculos. Los dibujos de Juan Aiello apuntalan el relato.',
+    descriptionEn: 'Between the landscape of the Delta and the city of San Nicolás, reflections on fatherhood and relationships. The drawings of Juan Aiello support the story.',
+    cover: 'images/libros/intimidad-islas.webp',
+    publishDate: 'Buenos Aires, 2022',
+    publisher: 'El Bien del Sauce',
+  },
+  {
     id: 1,
     title: 'El Año del Gallo de Fuego',
     titleEn: 'The Year of the Fire Rooster',
     description: 'Estudio sobre la mitología china que asigna al totem Gallo uno de los doce lugares en la regencia de los años en su calendario tradicional.',
     descriptionEn: 'Study on Chinese mythology that assigns the Rooster totem one of the twelve places in the regency of the years in its traditional calendar.',
-    cover: 'images/libros/TAPA El Año del Gallo de Fuego.png',
+    cover: 'images/libros/TAPA El Año del Gallo de Fuego.webp',
     publishDate: 'Buenos Aires, 2016',
     publisher: 'Atlántida',
     
@@ -1091,65 +1176,10 @@ const booksData = [
     titleEn: 'The Year of the Earth Dog',
     description: 'El Perro es uno de los arquetipos de la tradición de conocimiento que encierra el milenario zodíaco de los chinos, que integra mitología, literatura, realidades étnicas y filosofía.',
     descriptionEn: 'The Dog is one of the archetypes of the tradition of knowledge contained in the ancient Chinese zodiac, which integrates mythology, literature, ethnic realities, and philosophy.',
-    cover: 'images/libros/Tapa Perro.jpg',
+    cover: 'images/libros/Tapa Perro.webp',
     publishDate: 'Buenos Aires, 2017',
     publisher: 'Atlántida',
    
-  },
-  {
-    id: 3,
-    title: 'El zoodíaco chino. Un viaje por los sueños del despertar',
-    titleEn: 'The Chinese Zodiac. A Journey Through the Dreams of Awakening',
-    description: 'Análisis del sistema de lógicas ensambladas en el conjunto de 12 tótems que convergieron en la historia de las relaciones entre los pueblos que formaron la actual China.',
-    descriptionEn: 'Analysis of the system of logic assembled in the set of 12 totems that converged in the history of relations between the peoples that formed present-day China.',
-    cover: 'images/libros/TAPA El Zoodíaco Chino 2023.png',
-    publishDate: 'Buenos Aires, 2023',
-    publisher: 'El Bien del Sauce',
-  
-  },
-  {
-    id: 4,
-    title: 'El regalo del Dios Viento. Viaje al país de los budistas tibetanos',
-    titleEn: 'The Gift of the Wind God. Journey to the Land of the Tibetan Buddhists',
-    description: 'La vida de los tibetanos en las provincias de Sichuan, Qinghai y Gansu y en la Región Autónoma del Tibet. Relatos que surgieron de cinco visitas que incluyeron desde la convivencia en carpas en las montañas de pastores nómadas hasta la participación en un foro mundial sobre el desarrollo de la región.',
-    descriptionEn: 'The lives of Tibetans in the provinces of Sichuan, Qinghai, and Gansu, and in the Tibet Autonomous Region. Stories from five visits, ranging from living in tents in the mountains with nomadic herders to participating in a global forum on the region\'s development.',
-    cover: 'images/libros/Tapa Plana.png',
-    publishDate: 'Buenos Aires, 2022',
-    publisher: 'El Bien del Sauce',
-  
-  },
-  {
-    id: 5,
-    title: 'China. La superación de la pobreza (con Néstor Restivo)',
-    titleEn: 'China. Overcoming poverty (with Néstor Restivo)',
-    description: 'Investigación sobre la lucha contra la pobreza extrema llevada a cabo con éxito por China, el país más poblado del mundo, como parte de su cometido socialista.',
-    descriptionEn: 'Research on the fight against extreme poverty successfully carried out by China, the world\'s most populous country, as part of its socialist mission.',
-    cover: 'images/libros/TAPA China, la superación de la pobreza.jpeg',
-    publishDate: 'Mendoza, 2021',
-    publisher: 'Universidad de Congreso',
-  
-  },
-  {
-    id: 6,
-    title: '"Podemos vencer la pobreza. La experiencia china" (con Néstor Restivo)',
-    titleEn: '"We can overcome poverty. The Chinese experience" (with Néstor Restivo)',
-    description: 'Ensayo que recoge 8 años de investigación sobre el diseño e implementación de estrategias por parte de China para conseguir la hazaña de sacar de la pobreza extrema a 800 millones de personas.',
-    descriptionEn: ' Essay that collects 8 years of research on the design and implementation of strategies by China to achieve the feat of lifting 800 million people out of extreme poverty.',
-    cover: 'images/libros/Tapa Podemos vencer la pobreza.JPG',
-    publishDate: 'Beijing, 2023',
-    publisher: 'China Interncontinental Press',
-  
-  },
-  {
-    id: 7,
-    title: 'El Tangram de China. ¿Qué ven los latinoamericanos cuando miran al gigante asiático?',
-    titleEn: 'China\'s Tangram. What do Latin Americans see when they look at the Asian giant?',
-    description: 'Ensayo sobre el complejo de percepciones que tienen argentinos y latinoamericanos sobre China, país con el que cada vez tienen más trato en un intercambio que sólo tiene como destino el incremento.',
-    descriptionEn: ' Essay on the complex perceptions that Argentines and Latin Americans have about China, a country with which they are increasingly in contact in an exchange that only has as its destination an increase.',
-    cover: 'images/libros/TAPA para difusión.png',
-    publishDate: 'Buenos Aires, 2022',
-    publisher: 'El Bien del Sauce',
-  
   },
   {
     id: 8,
@@ -1157,52 +1187,19 @@ const booksData = [
     titleEn: 'The Year of the Buffalo',
     description: 'Leyendas, saberes e historias milenarias sobre uno de los 12 animales de la astrología china, tradición de conocimiento que gravitó sobre emperadores en la antigüedad y hoy sigue vigente en el pueblo.',
     descriptionEn: 'Legends, knowledge, and ancient stories about one of the 12 animals of Chinese astrology, a tradition of knowledge that revolved around emperors in antiquity and is still in force today.',
-    cover: 'images/libros/tapa Horoscopo Chino 2021 081220.png',
+    cover: 'images/libros/tapa Horoscopo Chino 2021 081220.webp',
     publishDate: 'Córdoba, 2020',
     publisher: 'Enredacción',
   
   },
   {
-    id: 9,
-    title: '10.134 kilómetros a través de China',
-    titleEn: '10,134 kilometers through China',
-    description: 'Un recorrido de dos meses en tren por más de 20 ciudades, a través de grandes urbes, desiertos, campos de cultivo, montañas, sitios arqueológicos y aldeas de China. Y el encuentro con la aldea donde vivieron sus ancestros.',
-    descriptionEn: 'A two-month train journey through more than 20 cities, through large cities, deserts, farmland, mountains, archaeological sites, and villages in China. And the encounter with the village where his ancestors lived.',
-    cover: 'images/libros/IMG_3115.JPG',
-    publishDate: 'Beijing, 2021',
-    publisher: 'Blossom Press',
-  
-  },
-  {
-    id: 10,
-    title: 'Todo sobre China',
-    titleEn: 'Everything about China',
-    description: 'El abordaje que hacemos sobre China es una mirada para nada abstracta, distinta y muy distante de la que podría haber hecho un marroquí, un canadiense o un japonés; o, en particular,un chino. Formados en humanidades y periodismo, por años hemos aprendido de China con una cantidad de expertos argentinos que desde la academia, la función pública y los negocios vienen haciendo un trabajo notable en cuanto a estudiar y vincularse con ese país, hasta hace unos años de manera silenciosa y en la actualidad, dada la envergadura que alcanzó la relación bilateral, con mayor visibilidad.',
-    descriptionEn: 'The approach we take to China is a look that is by no means abstract, different, and very different from what a Moroccan, a Canadian, or a Japanese could have done; or, in particular, a Chinese. Trained in humanities and journalism, for years we have learned about China from a number of Argentine experts who have been doing a remarkable job of studying and engaging with that country from academia, public service, and business, until a few years ago quietly and today, given the scope that the bilateral relationship has reached, with greater visibility.',
-    cover: 'images/libros/todo-sobre-china.jpg',
-    publishDate: 'Buenos Aires, 2016',
-    publisher: 'Paidós',
-  
-  },
-  {
-    id: 'mariposa-de-otono',
-    title: 'Mariposa de otoño',
-    titleEn: 'Autumn Butterfly', 
-    description: 'El libro Mariposa de otoño es una novela, pero una que debe construir el lector con todas las anotaciones que Ng –que oficia de diarista y narrador– despliega entre una escena y otra, con temporalidades, geografías y tonalidades distintas, como si mirásemos un álbum con fotografías tomadas con una Kodak Pocket de los 70, con una réflex en los 80 y un iPhone de hace un par de semanas. Pero si hubiera que dividir en dos el libro, claramente nos encontramos con dos partes: la primera y la segunda, que comienza con el subtítulo “Blanco de tiro”, donde aclara que en diciembre de 2015, 42 años después de que sus padres se separaran, su madre murió y el narrador-protagonista-autor viaja a Nueva York a darle la noticia en persona a su padre. De allí en más asistimos a “un relato de esos días”. El encuentro con el padre es, como escribe al final, algo así como una fuga. Nuestro narrador-autor-diarista observa el local de loterías como “una mezcla de vieja estación de trenes de Bangladesh con un club de bochas de un pueblo de la provincia de Buenos Aires”.',
-    descriptionEn: 'The book Mariposa de otoño is a novel, but one that the reader must build with all the annotations that Ng - who acts as a diarist and narrator - unfolds between one scene and another, with different temporalities, geographies, and tones, as if we were looking at an album with photographs taken with a Kodak Pocket from the 70s, with a reflex in the 80s and an iPhone from a couple of weeks ago. But if the book had to be divided in two, we clearly find two parts: the first and the second, which begins with the subtitle "Blanco de tiro", where it clarifies that in December 2015, 42 years after his parents separated, his mother died and the narrator-protagonist-author travels to New York to give the news in person to his father. From then on we witness "a story of those days". The encounter with the father is, as he writes at the end, something like an escape. Our narrator-author-diarist observes the lottery store as "a mixture of an old train station in Bangladesh with a bocce club in a town in the province of Buenos Aires".',
-    cover: 'images/libros/mariposa-de-otono.jpg',
-    publishDate: 'Buenos Aires, 2020',
-    publisher: 'El Bien del Sauce',
-  
-  },
-  {
-    id: 12,
-    title: 'La intimidad de las islas',
-    titleEn: 'The intimacy of the islands',
-    description: 'Entre el paisaje del Delta y la ciudad de San Nicolás, reflexiones sobre la paternidad y los vínculos. Los dibujos de Juan Aiello apuntalan el relato.',
-    descriptionEn: 'Between the landscape of the Delta and the city of San Nicolás, reflections on fatherhood and relationships. The drawings of Juan Aiello support the story.',
-    cover: 'images/libros/intimidad-islas.jpg',
-    publishDate: 'Buenos Aires, 2022',
+    id: 3,
+    title: 'El zoodíaco chino - Un viaje por los sueños del despertar',
+    titleEn: 'The Chinese Zodiac - A Journey Through the Dreams of Awakening',
+    description: 'Análisis del sistema de lógicas ensambladas en el conjunto de 12 tótems que convergieron en la historia de las relaciones entre los pueblos que formaron la actual China.',
+    descriptionEn: 'Analysis of the system of logic assembled in the set of 12 totems that converged in the history of relations between the peoples that formed present-day China.',
+    cover: 'images/libros/TAPA El Zoodíaco Chino 2023.webp',
+    publishDate: 'Buenos Aires, 2023',
     publisher: 'El Bien del Sauce',
   
   },
@@ -1227,7 +1224,7 @@ const galleries = [
     titleEn: 'China Travels',
     description: 'Una colección de fotografías tomadas durante mis diversos viajes a China, mostrando tanto la China tradicional como la moderna.',
     descriptionEn: 'A collection of photographs taken during my various trips to China, showing both traditional and modern China.',
-    coverImage: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4112.JPG',
+    coverImage: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4112.webp',
     photos: [
       
     ],
@@ -1238,7 +1235,7 @@ const galleries = [
         titleEn: 'Beijing 2016',
         description: 'Viaje a Beijing en 2016.',
         descriptionEn: 'Trip to Beijing in 2016.',
-        coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2086.JPG',
+        coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2086.webp',
         photos: [
           {
             id: 'beijing2016-1',
@@ -1246,7 +1243,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2086.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2086.webp'
           },
           {
             id: 'beijing2016-2',
@@ -1254,7 +1251,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2210.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2210.webp'
           },
           {
             id: 'beijing2016-3',
@@ -1262,7 +1259,7 @@ const galleries = [
             titleEn: 'Beijing 2016',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2212.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2212.webp'
           },
           {
             id: 'beijing2016-4',
@@ -1270,7 +1267,7 @@ const galleries = [
             titleEn: 'Beijing 2016',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2245.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2245.webp'
           },
           {
             id: 'beijing2016-5',
@@ -1278,7 +1275,7 @@ const galleries = [
             titleEn: 'Beijing 2016',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2253.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2253.webp'
           },
           {
             id: 'beijing2016-6',
@@ -1286,7 +1283,7 @@ const galleries = [
             titleEn: 'Beijing 2016',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2255.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2255.webp'
           },
           {
             id: 'beijing2016-7',
@@ -1294,7 +1291,7 @@ const galleries = [
             titleEn: 'Beijing 2016',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2507.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2507.webp'
           },
           {
             id: 'beijing2016-8',
@@ -1302,7 +1299,7 @@ const galleries = [
             titleEn: 'Beijing 2016',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2657.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2657.webp'
           },
          
           // Más fotos...
@@ -1314,7 +1311,7 @@ const galleries = [
         titleEn: 'Beijing 2017',
         description: 'Viaje a Beijing en 2017.',
         descriptionEn: 'Trip to Beijing in 2017.',
-        coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3121.JPG',
+        coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3121.webp',
         photos: [
           {
             id: 'beijing2017-1',
@@ -1322,7 +1319,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3121.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3121.webp'
           },
           {
             id: 'beijing2017-2',
@@ -1330,7 +1327,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3123.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3123.webp'
           },
           {
             id: 'beijing2017-3',
@@ -1338,7 +1335,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3136.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3136.webp'
           },
           {
             id: 'beijing2017-4',
@@ -1346,7 +1343,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3313.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3313.webp'
           },
           {
             id: 'beijing2017-5',
@@ -1354,7 +1351,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3733.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3733.webp'
           },
           {
             id: 'beijing2017-6',
@@ -1362,7 +1359,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3765.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3765.webp'
           },
           {
             id: 'beijing2017-7',
@@ -1370,7 +1367,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3773.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3773.webp'
           },
           {
             id: 'beijing2017-8',
@@ -1378,7 +1375,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3776.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3776.webp'
           },
           {
             id: 'beijing2017-9',
@@ -1386,7 +1383,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3892.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3892.webp'
           },
           {
             id: 'beijing2017-10',
@@ -1394,7 +1391,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_4023.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_4023.webp'
           },
           {
             id: 'beijing2017-11',
@@ -1402,7 +1399,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_4029.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_4029.webp'
           },
           {
             id: 'beijing2017-12',
@@ -1410,7 +1407,7 @@ const galleries = [
             titleEn: 'Beijing 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_4589.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_4589.webp'
           },
           // Más fotos...
         ]
@@ -1422,7 +1419,7 @@ const galleries = [
         titleEn: 'Panjiyuan Market, Beijing, 2017',
         description: 'Viaje a Beijing en 2017.',
         descriptionEn: 'Trip to Beijing in 2017.',
-        coverImage: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3527.JPG',
+        coverImage: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3527.webp',
         photos: [
           {
             id: 'Panjiyuan-1',
@@ -1430,7 +1427,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3512.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3512.webp'
           },
           {
             id: 'Panjiyuan-2',
@@ -1438,7 +1435,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3527.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3527.webp'
           },
           {
             id: 'Panjiyuan-3',
@@ -1446,7 +1443,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3534.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3534.webp'
           },
           {
             id: 'Panjiyuan-4',
@@ -1454,7 +1451,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3541.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3541.webp'
           },
           {
             id: 'Panjiyuan-5',
@@ -1462,7 +1459,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3561.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3561.webp'
           },
           {
             id: 'Panjiyuan-6',
@@ -1470,7 +1467,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3568.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3568.webp'
           },
           {
             id: 'Panjiyuan-7',
@@ -1478,7 +1475,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3586.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3586.webp'
           },
           {
             id: 'Panjiyuan-8',
@@ -1486,7 +1483,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3612.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3612.webp'
           },
           {
             id: 'Panjiyuan-9',
@@ -1494,7 +1491,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3623.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3623.webp'
           },
           {
             id: 'Panjiyuan-10',
@@ -1502,7 +1499,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3626.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3626.webp'
           },
           {
             id: 'Panjiyuan-11',
@@ -1510,7 +1507,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3631.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3631.webp'
           },
           {
             id: 'Panjiyuan-12',
@@ -1518,7 +1515,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3638.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3638.webp'
           },
           {
             id: 'Panjiyuan-13',
@@ -1526,7 +1523,7 @@ const galleries = [
             titleEn: 'Panjiyuan Market, Beijing, 2017',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3687.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3687.webp'
           },  
         ]},
       {
@@ -1535,7 +1532,7 @@ const galleries = [
         titleEn: 'Beijing 2019',
         description: 'Viaje a Beijing en 2019.',
         descriptionEn: 'Trip to Beijing in 2019.',
-        coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8207.JPG',
+        coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8207.webp',
         photos: [
           {
             id: 'beijing2019-1',
@@ -1543,7 +1540,7 @@ const galleries = [
             titleEn: 'Beijing 2019',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/Chinita rubia.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/Chinita rubia.webp'
           },
           {
             id: 'beijing2019-2',
@@ -1551,7 +1548,7 @@ const galleries = [
             titleEn: 'Beijing 2019',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_7461.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_7461.webp'
           },
           {
             id: 'beijing2019-3',
@@ -1559,7 +1556,7 @@ const galleries = [
             titleEn: 'Beijing 2019',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_7535.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_7535.webp'
           },
           {
             id: 'beijing2019-4',
@@ -1567,7 +1564,7 @@ const galleries = [
             titleEn: 'Beijing 2019',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8182.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8182.webp'
           },
           {
             id: 'beijing2019-5',
@@ -1575,7 +1572,7 @@ const galleries = [
             titleEn: 'Beijing 2019',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8207.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8207.webp'
           },
           {
             id: 'beijing2019-6',
@@ -1583,7 +1580,7 @@ const galleries = [
             titleEn: 'Beijing 2019',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8215.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8215.webp'
           },
           {
             id: 'beijing2019-7',
@@ -1591,7 +1588,7 @@ const galleries = [
             titleEn: 'Beijing 2019',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8236.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8236.webp'
           },
 
     ]},
@@ -1601,7 +1598,7 @@ const galleries = [
       titleEn: 'Beijing 2024',
       description: 'Viaje a Beijing en 2024.',
       descriptionEn: 'Trip to Beijing in 2024.',
-      coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/Screenshot 2025-03-25 at 11.27.14.png',
+      coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/Screenshot 2025-03-25 at 11.27.14.webp',
       photos: [
         {
           id: 'beijing2024-1',
@@ -1609,7 +1606,7 @@ const galleries = [
           titleEn: 'Beijing 2024',
           location: 'Beijing, China',
           locationEn: 'Beijing, China',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/ADYA7381.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/ADYA7381.webp'
         },
         {
           id: 'beijing2024-2',
@@ -1617,7 +1614,7 @@ const galleries = [
           titleEn: 'Beijing 2024',
           location: 'Beijing, China',
           locationEn: 'Beijing, China',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_1535.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_1535.webp'
         },
         {
           id: 'beijing2024-3',
@@ -1625,7 +1622,7 @@ const galleries = [
           titleEn: 'Beijing 2024',
           location: 'Beijing, China',
           locationEn: 'Beijing, China',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_1779.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_1779.webp'
         },
         {
           id: 'beijing2024-4',
@@ -1633,7 +1630,7 @@ const galleries = [
           titleEn: 'Beijing 2024',
           location: 'Beijing, China',
           locationEn: 'Beijing, China',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_3160.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_3160.webp'
         },
         {
           id: 'beijing2024-5',
@@ -1641,7 +1638,7 @@ const galleries = [
           titleEn: 'Beijing 2024',
           location: 'Beijing, China',
           locationEn: 'Beijing, China',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_3162.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_3162.webp'
         },
         {
           id: 'beijing2024-6',
@@ -1649,7 +1646,7 @@ const galleries = [
           titleEn: 'Beijing 2024',
           location: 'Beijing, China',
           locationEn: 'Beijing, China',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_3178.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_3178.webp'
         },
         {
           id: 'beijing2024-7',
@@ -1657,7 +1654,7 @@ const galleries = [
           titleEn: 'Beijing 2024',
           location: 'Beijing, China',
           locationEn: 'Beijing, China',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_E1543.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_E1543.webp'
         },
       ]},
       {
@@ -1666,7 +1663,7 @@ const galleries = [
         titleEn: 'Songzhuang, Beijing 2024',
         description: 'Viaje a Songzhuang en 2024.',
         descriptionEn: 'Trip to Songzhuang in 2024.',
-        coverImage: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1040.JPG',
+        coverImage: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1040.webp',
         photos: [
           {
             id: 'Songzhuang-1',
@@ -1674,7 +1671,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/ERQK7797.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/ERQK7797.webp'
           },
           {
             id: 'Songzhuang-2',
@@ -1682,7 +1679,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0813.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0813.webp'
           },
           {
             id: 'Songzhuang-3',
@@ -1690,7 +1687,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0814.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0814.webp'
           },
           {
             id: 'Songzhuang-4',
@@ -1698,7 +1695,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0817.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0817.webp'
           },
           {
             id: 'Songzhuang-5',
@@ -1706,7 +1703,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0827.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0827.webp'
           },
           {
             id: 'Songzhuang-6',
@@ -1714,7 +1711,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0828.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0828.webp'
           },
           {
             id: 'Songzhuang-7',
@@ -1722,7 +1719,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0883.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0883.webp'
           },
           {
             id: 'Songzhuang-8',
@@ -1730,7 +1727,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0926.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0926.webp'
           },
           {
             id: 'Songzhuang-9',
@@ -1738,7 +1735,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0929.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0929.webp'
           },
           {
             id: 'Songzhuang-10',
@@ -1746,7 +1743,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0969.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0969.webp'
           },
           {
             id: 'Songzhuang-11',
@@ -1754,7 +1751,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0980.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0980.webp'
           },
           {
             id: 'Songzhuang-12',
@@ -1762,7 +1759,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1029.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1029.webp'
           },
           {
             id: 'Songzhuang-13',
@@ -1770,7 +1767,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1040.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1040.webp'
           },
           {
             id: 'Songzhuang-14',
@@ -1778,7 +1775,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1049.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1049.webp'
           },
           {
             id: 'Songzhuang-15',
@@ -1786,7 +1783,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1349.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1349.webp'
           },
           {
             id: 'Songzhuang-16',
@@ -1794,7 +1791,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1390.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1390.webp'
           },
           {
             id: 'Songzhuang-17',
@@ -1802,7 +1799,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1395.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1395.webp'
           },
           {
             id: 'Songzhuang-18',
@@ -1810,7 +1807,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1402.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1402.webp'
           },
           {
             id: 'Songzhuang-19',
@@ -1818,7 +1815,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1410.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1410.webp'
           },
           {
             id: 'Songzhuang-20',
@@ -1826,7 +1823,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1415.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1415.webp'
           },
           {
             id: 'Songzhuang-21',
@@ -1834,7 +1831,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1421.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1421.webp'
           },
           {
             id: 'Songzhuang-22',
@@ -1842,7 +1839,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1427.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1427.webp'
           },
           {
             id: 'Songzhuang-23',
@@ -1850,7 +1847,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1435.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1435.webp'
           },
           {
             id: 'Songzhuang-24',
@@ -1858,7 +1855,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1453.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1453.webp'
           },
           {
             id: 'Songzhuang-25',
@@ -1866,7 +1863,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1575.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1575.webp'
           },
           {
             id: 'Songzhuang-26',
@@ -1874,7 +1871,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1611.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1611.webp'
           },
           {
             id: 'Songzhuang-27',
@@ -1882,7 +1879,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1671.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1671.webp'
           },
           {
             id: 'Songzhuang-28',
@@ -1890,7 +1887,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1687.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1687.webp'
           },
           {
             id: 'Songzhuang-29',
@@ -1898,7 +1895,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1714.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1714.webp'
           },
           {
             id: 'Songzhuang-30',
@@ -1906,7 +1903,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1759.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1759.webp'
           },
           {
             id: 'Songzhuang-31',
@@ -1914,7 +1911,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1821.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1821.webp'
           },
           {
             id: 'Songzhuang-32',
@@ -1922,7 +1919,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1919.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1919.webp'
           },
           {
             id: 'Songzhuang-33',
@@ -1930,7 +1927,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1926.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1926.webp'
           },
           {
             id: 'Songzhuang-34',
@@ -1938,7 +1935,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2125.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2125.webp'
           },
           {
             id: 'Songzhuang-35',
@@ -1946,7 +1943,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2163.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2163.webp'
           },
           {
             id: 'Songzhuang-36',
@@ -1954,7 +1951,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2264.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2264.webp'
           },
           {
             id: 'Songzhuang-37',
@@ -1962,7 +1959,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2269.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2269.webp'
           },
           {
             id: 'Songzhuang-38',
@@ -1970,7 +1967,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2379.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2379.webp'
           },
           {
             id: 'Songzhuang-39',
@@ -1978,7 +1975,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2385.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2385.webp'
           },
           {
             id: 'Songzhuang-40',
@@ -1986,7 +1983,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2389.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2389.webp'
           },
           {
             id: 'Songzhuang-41',
@@ -1994,7 +1991,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2405.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2405.webp'
           },
           {
             id: 'Songzhuang-42',
@@ -2002,7 +1999,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2486.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2486.webp'
           },
           {
             id: 'Songzhuang-43',
@@ -2010,7 +2007,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2490.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2490.webp'
           },
           {
             id: 'Songzhuang-44',
@@ -2018,7 +2015,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_E1602.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_E1602.webp'
           },
           {
             id: 'Songzhuang-45',
@@ -2026,7 +2023,7 @@ const galleries = [
             titleEn: 'Songzhuang, 2024',
             location: 'Beijing, China',
             locationEn: 'Beijing, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_E2414.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_E2414.webp'
           },
         ]},
       {
@@ -2035,7 +2032,7 @@ const galleries = [
         titleEn: 'Shanghai 2015',
         description: 'Viaje a Shanghai en 2015.',
         descriptionEn: 'Trip to Shanghai in 2015.',
-        coverImage: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5037.JPG',
+        coverImage: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5037.webp',
         photos: [
           {
             id: 'shanghai2015-1',
@@ -2043,7 +2040,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5037.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5037.webp'
           },
           {
             id: 'shanghai2015-2',
@@ -2051,7 +2048,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5071.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5071.webp'
           },
           {
             id: 'shanghai2015-3',
@@ -2059,7 +2056,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5124.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5124.webp'
           },
           {
             id: 'shanghai2015-4',
@@ -2067,7 +2064,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5165.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5165.webp'
           },
           {
             id: 'shanghai2015-6',
@@ -2075,7 +2072,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5202.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5202.webp'
           },
           {
             id: 'shanghai2015-7',
@@ -2083,7 +2080,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5260.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5260.webp'
           },
           {
             id: 'shanghai2015-8',
@@ -2091,7 +2088,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5279.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5279.webp'
           },
           {
             id: 'shanghai2015-9',
@@ -2099,7 +2096,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5357.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5357.webp'
           },
           {
             id: 'shanghai2015-10',
@@ -2107,7 +2104,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5367.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5367.webp'
           },
           {
             id: 'shanghai2015-11',
@@ -2115,7 +2112,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_6171.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_6171.webp'
           },
           {
             id: 'shanghai2015-12',
@@ -2123,7 +2120,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5374.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5374.webp'
           },
           {
             id: 'shanghai2015-13',
@@ -2131,7 +2128,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5391.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5391.webp'
           },
           {
             id: 'shanghai2015-14',
@@ -2139,7 +2136,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5440.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5440.webp'
           },
           {
             id: 'shanghai2015-15',
@@ -2147,7 +2144,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5444.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5444.webp'
           },
           {
             id: 'shanghai2015-16',
@@ -2155,7 +2152,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5480.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5480.webp'
           },
           {
             id: 'shanghai2015-17',
@@ -2163,7 +2160,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5496.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5496.webp'
           },
           {
             id: 'shanghai2015-18',
@@ -2171,7 +2168,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5507.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5507.webp'
           },
           {
             id: 'shanghai2015-19',
@@ -2179,7 +2176,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5564.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_5564.webp'
           },
           {
             id: 'shanghai2015-20',
@@ -2187,7 +2184,7 @@ const galleries = [
             titleEn: 'Shanghai 2015',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_6120.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, China 2015/IMG_6120.webp'
           },
         ]},
       {
@@ -2196,7 +2193,7 @@ const galleries = [
         titleEn: 'Shanghai 2019',
         description: 'Viaje a Shanghai en 2019.',
         descriptionEn: 'Trip to Shanghai in 2019.',
-        coverImage: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_1916.JPG',
+        coverImage: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_1916.webp',
         photos: [
           {
             id: 'shanghai2019-1',
@@ -2204,7 +2201,7 @@ const galleries = [
             titleEn: 'Shanghai 2019',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_1643.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_1643.webp'
           },
           {
             id: 'shanghai2019-2',
@@ -2212,7 +2209,7 @@ const galleries = [
             titleEn: 'Shanghai 2019',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_1916.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_1916.webp'
           },
           {
             id: 'shanghai2019-3',
@@ -2220,7 +2217,7 @@ const galleries = [
             titleEn: 'Shanghai 2019',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_2018.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_2018.webp'
           },
           {
             id: 'shanghai2019-4',
@@ -2228,7 +2225,7 @@ const galleries = [
             titleEn: 'Shanghai 2019',
             location: 'Shanghai, China',
             locationEn: 'Shanghai, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_2191.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Shanghai, 2019/IMG_2191.webp'
           },
           // Más fotos...
         ]
@@ -2239,7 +2236,7 @@ const galleries = [
         titleEn: 'Qiang Villages, Sichuan Province',
         description: 'Viaje a las aldeas Qiang, provincia de Sichuan en 2015.',
         descriptionEn: 'Trip to Qiang Villages, Sichuan province in 2015.',
-        coverImage: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4112.JPG',
+        coverImage: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4112.webp',
         photos: [
           {
             id: 'AldeasQuiang-1',
@@ -2247,7 +2244,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4112.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4112.webp'
           },
           {
             id: 'AldeasQuiang-2',
@@ -2255,7 +2252,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4129.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4129.webp'
           },
           {
             id: 'AldeasQuiang-3',
@@ -2263,7 +2260,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4132.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4132.webp'
           },
           {
             id: 'AldeasQuiang-4',
@@ -2271,7 +2268,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4133.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4133.webp'
           },
           {
             id: 'AldeasQuiang-5',
@@ -2279,7 +2276,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4166.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4166.webp'
           },
           {
             id: 'AldeasQuiang-6',
@@ -2287,7 +2284,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4168.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4168.webp'
           },
           {
             id: 'AldeasQuiang-7',
@@ -2295,7 +2292,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4174.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4174.webp'
           },
           {
             id: 'AldeasQuiang-8',
@@ -2303,7 +2300,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4175.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4175.webp'
           },
           {
             id: 'AldeasQuiang-9',
@@ -2311,7 +2308,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4186.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4186.webp'
           },
           {
             id: 'AldeasQuiang-10',
@@ -2319,7 +2316,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4191.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4191.webp'
           },
           {
             id: 'AldeasQuiang-11',
@@ -2327,7 +2324,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4212.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4212.webp'
           },
           {
             id: 'AldeasQuiang-12',
@@ -2335,7 +2332,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4213.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4213.webp'
           },
           {
             id: 'AldeasQuiang-13',
@@ -2343,7 +2340,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4231.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4231.webp'
           },
           {
             id: 'AldeasQuiang-14',
@@ -2351,7 +2348,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4792.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4792.webp'
           },
           {
             id: 'AldeasQuiang-15',
@@ -2359,7 +2356,7 @@ const galleries = [
             titleEn: 'Qiang Villages, Sichuan Province, 2015',
             location: 'Sichuan, China',
             locationEn: 'Sichuan, China',
-            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4794.JPG'
+            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Aldeas Qiang, provincia de Sichuan, China 2015/IMG_4794.webp'
           },
         ]},
         {
@@ -2368,7 +2365,7 @@ const galleries = [
           titleEn: 'Chengdu, provincia de Sichuan, 2015',
           description: 'Viaje Chengdu, provincia de Sichuan en 2015.',
           descriptionEn: 'Trip to Chengdu, Sichuan province in 2015.',
-          coverImage: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3793.JPG',
+          coverImage: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3793.webp',
           photos: [
             {
               id: 'Chengdu-1',
@@ -2376,7 +2373,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3793.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3793.webp'
             },
             {
               id: 'Chengdu-2',
@@ -2384,7 +2381,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3815.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3815.webp'
             },
             {
               id: 'Chengdu-3',
@@ -2392,7 +2389,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3840.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3840.webp'
             },
             {
               id: 'Chengdu-4',
@@ -2400,7 +2397,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3844.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3844.webp'
             },
             {
               id: 'Chengdu-5',
@@ -2408,7 +2405,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3857.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3857.webp'
             },
             {
               id: 'Chengdu-6',
@@ -2416,7 +2413,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3860.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3860.webp'
             },
             {
               id: 'Chengdu-7',
@@ -2424,7 +2421,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3862.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3862.webp'
             },
             {
               id: 'Chengdu-8',
@@ -2432,7 +2429,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3949.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3949.webp'
             },
             {
               id: 'Chengdu-9',
@@ -2440,7 +2437,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3960.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3960.webp'
             },
             {
               id: 'Chengdu-10',
@@ -2448,7 +2445,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3971.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3971.webp'
             },
             {
               id: 'Chengdu-11',
@@ -2456,7 +2453,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3980.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3980.webp'
             },
             {
               id: 'Chengdu-12',
@@ -2464,7 +2461,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3985.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3985.webp'
             },
             {
               id: 'Chengdu-13',
@@ -2472,7 +2469,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3990.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_3990.webp'
             },
             {
               id: 'Chengdu-14',
@@ -2480,7 +2477,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_4242.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_4242.webp'
             },
             {
               id: 'Chengdu-15',
@@ -2488,7 +2485,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_4244.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_4244.webp'
             },
             {
               id: 'Chengdu-16',
@@ -2496,7 +2493,7 @@ const galleries = [
               titleEn: 'Chengdu, Sichuan Province, 2015',
               location: 'Sichuan, China',
               locationEn: 'Sichuan, China',
-              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_4673.JPG'
+              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chengdu, provincia de Sichuan, China 2015/IMG_4673.webp'
             },
 
           ]},
@@ -2506,7 +2503,7 @@ const galleries = [
             titleEn: 'Foyer, Guangdong Province, 2015',
             description: 'Viaje a Foyer, provincia de Guangdong en 2015.',
             descriptionEn: 'Trip to Foyer, Guangdong province in 2015.',
-            coverImage: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2539.JPG',
+            coverImage: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2539.webp',
             photos: [
               {
                 id: 'Foyer-1',
@@ -2514,7 +2511,7 @@ const galleries = [
                 titleEn: 'Foyer, Guangdong Province, 2015',
                 location: 'Guangdong, China',
                 locationEn: 'Guangdong, China',
-                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2492.JPG'
+                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2492.webp'
               },
               {
                 id: 'Foyer-2',
@@ -2522,7 +2519,7 @@ const galleries = [
                 titleEn: 'Foyer, Guangdong Province, 2015',
                 location: 'Guangdong, China',
                 locationEn: 'Guangdong, China',
-                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2497.JPG'
+                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2497.webp'
               },
               {
                 id: 'Foyer-3',
@@ -2530,7 +2527,7 @@ const galleries = [
                 titleEn: 'Foyer, Guangdong Province, 2015',
                 location: 'Guangdong, China',
                 locationEn: 'Guangdong, China',
-                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2518.JPG'
+                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2518.webp'
               },
               {
                 id: 'Foyer-4',
@@ -2538,7 +2535,7 @@ const galleries = [
                 titleEn: 'Foyer, Guangdong Province, 2015',
                 location: 'Guangdong, China',
                 locationEn: 'Guangdong, China',
-                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2539.JPG'
+                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2539.webp'
               },
               {
                 id: 'Foyer-5',
@@ -2546,7 +2543,7 @@ const galleries = [
                 titleEn: 'Foyer, Guangdong Province, 2015',
                 location: 'Guangdong, China',
                 locationEn: 'Guangdong, China',
-                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2542.JPG'
+                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_2542.webp'
               },
               {
                 id: 'Foyer-6',
@@ -2554,7 +2551,7 @@ const galleries = [
                 titleEn: 'Foyer, Guangdong Province, 2015',
                 location: 'Guangdong, China',
                 locationEn: 'Guangdong, China',
-                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_4066.JPG'
+                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_4066.webp'
               },
               {
                 id: 'Foyer-7',
@@ -2562,7 +2559,7 @@ const galleries = [
                 titleEn: 'Foyer, Guangdong Province, 2015',
                 location: 'Guangdong, China',
                 locationEn: 'Guangdong, China',
-                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_4076.JPG'
+                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_4076.webp'
               },
               {
                 id: 'Foyer-8',
@@ -2570,7 +2567,7 @@ const galleries = [
                 titleEn: 'Foyer, Guangdong Province, 2015',
                 location: 'Guangdong, China',
                 locationEn: 'Guangdong, China',
-                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_4080.JPG'
+                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Foyer, provincia de Guangdong, 2015/IMG_4080.webp'
               },
             ]},
             {
@@ -2579,7 +2576,7 @@ const galleries = [
               titleEn: 'Guangzhou, Guangdong Province, 2015',
               description: 'Viaje a Guangzhou, provincia de Guangdong en 2015.',
               descriptionEn: 'Trip to Guangzhou, Guangdong province in 2015.',
-              coverImage: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3058.JPG',
+              coverImage: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3058.webp',
               photos: [
                 {
                   id: 'Guangzhou-1',
@@ -2587,7 +2584,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2903.jpg'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2903.webp'
                 },
                 {
                   id: 'Guangzhou-2',
@@ -2595,7 +2592,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2914.jpg'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2914.webp'
                 },
                 {
                   id: 'Guangzhou-3',
@@ -2603,7 +2600,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2918.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2918.webp'
                 },
                 {
                   id: 'Guangzhou-4',
@@ -2611,7 +2608,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2933.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2933.webp'
                 },
                 {
                   id: 'Guangzhou-5',
@@ -2619,7 +2616,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2939.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2939.webp'
                 },
                 {
                   id: 'Guangzhou-6',
@@ -2627,7 +2624,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2970.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2970.webp'
                 },
                 {
                   id: 'Guangzhou-7',
@@ -2635,7 +2632,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2974.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2974.webp'
                 },
                 {
                   id: 'Guangzhou-8',
@@ -2643,7 +2640,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2987.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_2987.webp'
                 },
                 {
                   id: 'Guangzhou-9',
@@ -2651,7 +2648,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3003.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3003.webp'
                 },
                 {
                   id: 'Guangzhou-10',
@@ -2659,7 +2656,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3007.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3007.webp'
                 },
                 {
                   id: 'Guangzhou-11',
@@ -2667,7 +2664,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3011.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3011.webp'
                 },
                 {
                   id: 'Guangzhou-12',
@@ -2675,7 +2672,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3028.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3028.webp'
                 },
                 {
                   id: 'Guangzhou-13',
@@ -2683,7 +2680,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3058.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3058.webp'
                 },
                 {
                   id: 'Guangzhou-14',
@@ -2691,7 +2688,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3040.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3040.webp'
                 },
                 {
                   id: 'Guangzhou-15',
@@ -2699,7 +2696,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3046.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3046.webp'
                 },
                 {
                   id: 'Guangzhou-16',
@@ -2707,7 +2704,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3051.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3051.webp'
                 },
                 {
                   id: 'Guangzhou-17',
@@ -2715,7 +2712,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3054.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3054.webp'
                 },
                 {
                   id: 'Guangzhou-18',
@@ -2723,7 +2720,7 @@ const galleries = [
                   titleEn: 'Guangzhou, Guangdong Province, 2015',
                   location: 'Guangdong, China',
                   locationEn: 'Guangdong, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3055.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guangzhou, provincia de Guangdong, 2015/IMG_3055.webp'
                 },
                 
               ]},
@@ -2733,7 +2730,7 @@ const galleries = [
               titleEn: 'Terracotta Warriors, Xi_An, 2015',
               description: 'Viaje a Xi_An, provincia de Shaanxi en 2015.',
               descriptionEn: 'Trip to Xi_An, Shaanxi province in 2015.',
-              coverImage: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5546.JPG',
+              coverImage: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5546.webp',
               photos: [
                 {
                   id: 'Xi-An-1',
@@ -2741,7 +2738,7 @@ const galleries = [
                   titleEn: 'Terracotta Warriors, Xi_An, 2015',
                   location: 'Shaanxi, China',
                   locationEn: 'Shaanxi, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5546.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5546.webp'
                 },
                 {
                   id: 'Xi-An-2',
@@ -2749,7 +2746,7 @@ const galleries = [
                   titleEn: 'Terracotta Warriors, Xi_An, 2015',
                   location: 'Shaanxi, China',
                   locationEn: 'Shaanxi, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5556.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5556.webp'
                 },
                 {
                   id: 'Xi-An-3',
@@ -2757,7 +2754,7 @@ const galleries = [
                   titleEn: 'Terracotta Warriors, Xi_An, 2015',
                   location: 'Shaanxi, China',
                   locationEn: 'Shaanxi, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5561.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5561.webp'
                 },
                 {
                   id: 'Xi-An-4',
@@ -2765,7 +2762,7 @@ const galleries = [
                   titleEn: 'Terracotta Warriors, Xi_An, 2015',
                   location: 'Shaanxi, China',
                   locationEn: 'Shaanxi, China',
-                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5567.JPG'
+                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5567.webp'
                 }
 
               ]},
@@ -2775,7 +2772,7 @@ const galleries = [
                 titleEn: 'Kashgar, Xinjiang, 2015',
                 description: 'Viaje a Kashgar, Xinjiang en 2015.',
                 descriptionEn: 'Trip to Kashgar, Xinjiang in 2015.',
-                coverImage: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4471.JPG',
+                coverImage: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4471.webp',
                 photos: [
                   {
                     id: 'Kashgar-1',
@@ -2783,7 +2780,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4279.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4279.webp'
                   },
                   {
                     id: 'Kashgar-2',
@@ -2791,7 +2788,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4309.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4309.webp'
                   },
                   {
                     id: 'Kashgar-3',
@@ -2799,7 +2796,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4310.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4310.webp'
                   },
                   {
                     id: 'Kashgar-4',
@@ -2807,7 +2804,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4324.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4324.webp'
                   },
                   {
                     id: 'Kashgar-5',
@@ -2815,7 +2812,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4339.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4339.webp'
                   },
                   {
                     id: 'Kashgar-6',
@@ -2823,7 +2820,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4348.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4348.webp'
                   },
                   {
                     id: 'Kashgar-7',
@@ -2831,7 +2828,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4351.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4351.webp'
                   },
                   {
                     id: 'Kashgar-8',
@@ -2839,7 +2836,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4352.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4352.webp'
                   },
                   {
                     id: 'Kashgar-9',
@@ -2847,7 +2844,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4368.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4368.webp'
                   },
                   {
                     id: 'Kashgar-10',
@@ -2855,7 +2852,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4384.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4384.webp'
                   },
                   {
                     id: 'Kashgar-11',
@@ -2863,7 +2860,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4388.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4388.webp'
                   },
                   {
                     id: 'Kashgar-12',
@@ -2871,7 +2868,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4428.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4428.webp'
                   },
                   {
                     id: 'Kashgar-13',
@@ -2879,7 +2876,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4441.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4441.webp'
                   },
                   {
                     id: 'Kashgar-14',
@@ -2887,7 +2884,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4457.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4457.webp'
                   },
                   {
                     id: 'Kashgar-15',
@@ -2895,7 +2892,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4460.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4460.webp'
                   },
                   {
                     id: 'Kashgar-16',
@@ -2903,7 +2900,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4465.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4465.webp'
                   },
                   {
                     id: 'Kashgar-17',
@@ -2911,7 +2908,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4471.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4471.webp'
                   },
                   {
                     id: 'Kashgar-18',
@@ -2919,7 +2916,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4490.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4490.webp'
                   },
                   {
                     id: 'Kashgar-19',
@@ -2927,7 +2924,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4496.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4496.webp'
                   },
                   {
                     id: 'Kashgar-20',
@@ -2935,7 +2932,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4509.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4509.webp'
                   },
                   {
                     id: 'Kashgar-21',
@@ -2943,7 +2940,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4527.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4527.webp'
                   },
                   {
                     id: 'Kashgar-22',
@@ -2951,7 +2948,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4532.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4532.webp'
                   },
                   {
                     id: 'Kashgar-23',
@@ -2959,7 +2956,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4547.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4547.webp'
                   },
                   {
                     id: 'Kashgar-24',
@@ -2967,7 +2964,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4548.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4548.webp'
                   },
                   {
                     id: 'Kashgar-25',
@@ -2975,7 +2972,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4552.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4552.webp'
                   },
                   {
                     id: 'Kashgar-26',
@@ -2983,7 +2980,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4593.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4593.webp'
                   },
                   {
                     id: 'Kashgar-27',
@@ -2991,7 +2988,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4634.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4634.webp'
                   },
                   {
                     id: 'Kashgar-28',
@@ -2999,7 +2996,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4637.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4637.webp'
                   },
                   {
                     id: 'Kashgar-29',
@@ -3007,7 +3004,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4644.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4644.webp'
                   },
                   {
                     id: 'Kashgar-30',
@@ -3015,7 +3012,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4645.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4645.webp'
                   },
                   {
                     id: 'Kashgar-31',
@@ -3023,7 +3020,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4653.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4653.webp'
                   },
                   {
                     id: 'Kashgar-32',
@@ -3031,7 +3028,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4663.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4663.webp'
                   },
                   {
                     id: 'Kashgar-33',
@@ -3039,7 +3036,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4674.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4674.webp'
                   },
                   {
                     id: 'Kashgar-34',
@@ -3047,7 +3044,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4693.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4693.webp'
                   },
                   {
                     id: 'Kashgar-35',
@@ -3055,7 +3052,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4878.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4878.webp'
                   },
                   {
                     id: 'Kashgar-36',
@@ -3063,7 +3060,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4881.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4881.webp'
                   },
                   {
                     id: 'Kashgar-37',
@@ -3071,7 +3068,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4900.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4900.webp'
                   },
                   {
                     id: 'Kashgar-38',
@@ -3079,7 +3076,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4984.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4984.webp'
                   },
                   {
                     id: 'Kashgar-39',
@@ -3087,7 +3084,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4999.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_4999.webp'
                   },
                   {
                     id: 'Kashgar-40',
@@ -3095,7 +3092,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_5009.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_5009.webp'
                   },
                   {
                     id: 'Kashgar-41',
@@ -3103,7 +3100,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_5016.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_5016.webp'
                   },
                   {
                     id: 'Kashgar-42',
@@ -3111,7 +3108,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_5021.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_5021.webp'
                   },
                   {
                     id: 'Kashgar-43',
@@ -3119,7 +3116,7 @@ const galleries = [
                     titleEn: 'Kashgar, Xinjiang, 2015',
                     location: 'Xinjiang, China',
                     locationEn: 'Xinjiang, China',
-                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_5037.JPG'
+                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Kashgar, Xinjiang, 2015/IMG_5037.webp'
                   }, 
                 ]},
                 {
@@ -3128,7 +3125,7 @@ const galleries = [
                   titleEn: 'Naqin Geological Park, Guangdong Province, 2015',
                   description: 'Viaje a Naqin Geological Park, provincia de Guangdong en 2015.',
                   descriptionEn: 'Trip to Naqin Geological Park, Guangdong province in 2015.',
-                  coverImage: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2727.JPG',
+                  coverImage: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2727.webp',
                   photos: [
                     {
                       id: 'Naqin-1',
@@ -3136,7 +3133,7 @@ const galleries = [
                       titleEn: 'Naqin Geological Park, Guangdong Province, 2015',
                       location: 'Guangdong, China',
                       locationEn: 'Guangdong, China',
-                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2608.JPG'
+                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2608.webp'
                     },
                     {
                       id: 'Naqin-2',
@@ -3144,7 +3141,7 @@ const galleries = [
                       titleEn: 'Naqin Geological Park, Guangdong Province, 2015',
                       location: 'Guangdong, China',
                       locationEn: 'Guangdong, China',
-                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2609.JPG'
+                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2609.webp'
                     },
                     {
                       id: 'Naqin-3',
@@ -3152,7 +3149,7 @@ const galleries = [
                       titleEn: 'Naqin Geological Park, Guangdong Province, 2015',
                       location: 'Guangdong, China',
                       locationEn: 'Guangdong, China',
-                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2619.JPG'
+                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2619.webp'
                     },
                     {
                       id: 'Naqin-4',
@@ -3160,7 +3157,7 @@ const galleries = [
                       titleEn: 'Naqin Geological Park, Guangdong Province, 2015',
                       location: 'Guangdong, China',
                       locationEn: 'Guangdong, China',
-                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2619.JPG'
+                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2619.webp'
                     },
                     {
                       id: 'Naqin-5',
@@ -3168,7 +3165,7 @@ const galleries = [
                       titleEn: 'Naqin Geological Park, Guangdong Province, 2015',
                       location: 'Guangdong, China',
                       locationEn: 'Guangdong, China',
-                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2717.JPG'
+                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2717.webp'
                     },
                     {
                       id: 'Naqin-6',
@@ -3176,7 +3173,7 @@ const galleries = [
                       titleEn: 'Naqin Geological Park, Guangdong Province, 2015',
                       location: 'Guangdong, China',
                       locationEn: 'Guangdong, China',
-                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2725.JPG'
+                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2725.webp'
                     },
                     {
                       id: 'Naqin-7',
@@ -3184,7 +3181,7 @@ const galleries = [
                       titleEn: 'Naqin Geological Park, Guangdong Province, 2015',
                       location: 'Guangdong, China',
                       locationEn: 'Guangdong, China',
-                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2727.JPG'
+                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Parque Geológico Naqin, provincia de Guangdong, 2015/IMG_2727.webp'
                     },
                   ]},
                   {
@@ -3193,7 +3190,7 @@ const galleries = [
                     titleEn: 'Sanxindui, Sichuan Province, 2015',
                     description: 'Viaje a Sanxindui, provincia de Sichuan en 2015.',
                     descriptionEn: 'Trip to Sanxindui, Sichuan province in 2015.',
-                    coverImage: 'images/Fotos/FOTOS WEB GN/China/Sanxindui, provincia de Sichuan, 2015/IMG_3911.JPG',
+                    coverImage: 'images/Fotos/FOTOS WEB GN/China/Sanxindui, provincia de Sichuan, 2015/IMG_3911.webp',
                     photos: [
                       {
                         id: 'Sanxindui-1',
@@ -3201,7 +3198,7 @@ const galleries = [
                         titleEn: 'Sanxindui, Sichuan Province, 2015',
                         location: 'Sichuan, China',
                         locationEn: 'Sichuan, China',
-                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Sanxindui, provincia de Sichuan, 2015/IMG_3895.JPG'
+                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Sanxindui, provincia de Sichuan, 2015/IMG_3895.webp'
                       },
                       {
                         id: 'Sanxindui-2',
@@ -3209,7 +3206,7 @@ const galleries = [
                         titleEn: 'Sanxindui, Sichuan Province, 2015',
                         location: 'Sichuan, China',
                         locationEn: 'Sichuan, China',
-                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Sanxindui, provincia de Sichuan, 2015/IMG_3911.JPG'
+                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Sanxindui, provincia de Sichuan, 2015/IMG_3911.webp'
                       },
                       {
                         id: 'Sanxindui-3',
@@ -3217,7 +3214,7 @@ const galleries = [
                         titleEn: 'Sanxindui, Sichuan Province, 2015',
                         location: 'Sichuan, China',
                         locationEn: 'Sichuan, China',
-                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Sanxindui, provincia de Sichuan, 2015/IMG_3919.JPG'
+                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Sanxindui, provincia de Sichuan, 2015/IMG_3919.webp'
                       },
                     ]},
                     {
@@ -3226,7 +3223,7 @@ const galleries = [
                       titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                       description: 'Viaje a Taishan, aldea natal de la estirpe Ng, provincia de Guangdong en 2017.',
                       descriptionEn: 'Trip to Taishan, Ng clan ancestral village, Guangdong province in 2017.',
-                      coverImage: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4261.JPG',
+                      coverImage: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4261.webp',
                       photos: [
                         {
                           id: 'Taishan-1',
@@ -3234,7 +3231,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4261.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4261.webp'
                         },
                         {
                           id: 'Taishan-2',
@@ -3242,7 +3239,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4280.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4280.webp'
                         },
                         {
                           id: 'Taishan-3',
@@ -3250,7 +3247,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4283.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4283.webp'
                         },
                         {
                           id: 'Taishan-4',
@@ -3258,7 +3255,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4290.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4290.webp'
                         },
                         {
                           id: 'Taishan-5',
@@ -3266,7 +3263,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4302.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4302.webp'
                         },
                         {
                           id: 'Taishan-6',
@@ -3274,7 +3271,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4343.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4343.webp'
                         },
                         {
                           id: 'Taishan-7',
@@ -3282,7 +3279,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4364.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4364.webp'
                         },
                         {
                           id: 'Taishan-8',
@@ -3290,7 +3287,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4390.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4390.webp'
                         },
                         {
                           id: 'Taishan-9',
@@ -3298,7 +3295,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4398.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4398.webp'
                         },
                         {
                           id: 'Taishan-10',
@@ -3306,7 +3303,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4402.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4402.webp'
                         },
                         {
                           id: 'Taishan-11',
@@ -3314,7 +3311,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4408.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4408.webp'
                         },
                         {
                           id: 'Taishan-12',
@@ -3322,7 +3319,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4410.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4410.webp'
                         },
                         {
                           id: 'Taishan-13',
@@ -3330,7 +3327,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4423.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4423.webp'
                         },
                         {
                           id: 'Taishan-14',
@@ -3338,7 +3335,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4427.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4427.webp'
                         },
                         {
                           id: 'Taishan-15',
@@ -3346,7 +3343,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4428.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4428.webp'
                         },
                         {
                           id: 'Taishan-16',
@@ -3354,7 +3351,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4432.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4432.webp'
                         },
                         {
                           id: 'Taishan-17',
@@ -3362,7 +3359,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4454.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4454.webp'
                         },
                         {
                           id: 'Taishan-18',
@@ -3370,7 +3367,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4457.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4457.webp'
                         },
                         {
                           id: 'Taishan-19',
@@ -3378,7 +3375,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4469.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4469.webp'
                         },
                         {
                           id: 'Taishan-20',
@@ -3386,7 +3383,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4470.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4470.webp'
                         },
                         {
                           id: 'Taishan-21',
@@ -3394,7 +3391,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4494.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4494.webp'
                         },
                         {
                           id: 'Taishan-22',
@@ -3402,7 +3399,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4499.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4499.webp'
                         },
                         {
                           id: 'Taishan-23',
@@ -3410,7 +3407,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4515.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4515.webp'
                         },
                         {
                           id: 'Taishan-24',
@@ -3418,7 +3415,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4521.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4521.webp'
                         },
                         {
                           id: 'Taishan-25',
@@ -3426,7 +3423,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4529.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4529.webp'
                         },
                         {
                           id: 'Taishan-26',
@@ -3434,7 +3431,7 @@ const galleries = [
                           titleEn: 'Taishan, Ng clan ancestral village, Guangdong Province, 2017',
                           location: 'Guangdong, China',
                           locationEn: 'Guangdong, China',
-                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4565.JPG'
+                          imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taishan, aldea natal de la estirpe Ng, provincia de Guangdong, 2017/IMG_4565.webp'
                         },
                       ]},
                       {
@@ -3443,7 +3440,7 @@ const galleries = [
                         titleEn: 'Taiyuan, Shanxi Province, 2019',
                         description: 'Viaje a Taiyuan, provincia de Shanxi en 2019.',
                         descriptionEn: 'Trip to Taiyuan, Shanxi province in 2019.',
-                        coverImage: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7831.JPG',
+                        coverImage: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7831.webp',
                         photos: [
                           {
                             id: 'Taiyuan-1',
@@ -3451,7 +3448,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7473.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7473.webp'
                           },
                           {
                             id: 'Taiyuan-2',
@@ -3459,7 +3456,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7492.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7492.webp'
                           },
                           {
                             id: 'Taiyuan-3',
@@ -3467,7 +3464,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7500.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7500.webp'
                           },
                           {
                             id: 'Taiyuan-4',
@@ -3475,7 +3472,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7831.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7831.webp'
                           },
                           {
                             id: 'Taiyuan-5',
@@ -3483,7 +3480,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7843.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7843.webp'
                           },
                           {
                             id: 'Taiyuan-6',
@@ -3491,7 +3488,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7856.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7856.webp'
                           },
                           {
                             id: 'Taiyuan-7',
@@ -3499,7 +3496,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7858.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7858.webp'
                           },
                           {
                             id: 'Taiyuan-8',
@@ -3507,7 +3504,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7876.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7876.webp'
                           },
                           {
                             id: 'Taiyuan-9',
@@ -3515,7 +3512,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7881.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7881.webp'
                           },
                           {
                             id: 'Taiyuan-10',
@@ -3523,7 +3520,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7886.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7886.webp'
                           },
                           {
                             id: 'Taiyuan-11',
@@ -3531,7 +3528,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7918.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7918.webp'
                           },
                           {
                             id: 'Taiyuan-12',
@@ -3539,7 +3536,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7961.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7961.webp'
                           },
                           {
                             id: 'Taiyuan-13',
@@ -3547,7 +3544,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7967.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_7967.webp'
                           },
                           {
                             id: 'Taiyuan-14',
@@ -3555,7 +3552,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_8001.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_8001.webp'
                           },
                           {
                             id: 'Taiyuan-15',
@@ -3563,7 +3560,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_8007.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_8007.webp'
                           },
                           {
                             id: 'Taiyuan-16',
@@ -3571,7 +3568,7 @@ const galleries = [
                             titleEn: 'Taiyuan, Shanxi Province, 2019',
                             location: 'Shanxi, China',
                             locationEn: 'Shanxi, China',
-                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_8009.JPG'
+                            imageUrl: 'images/Fotos/FOTOS WEB GN/China/Taiyuan, Provincia de Shanxi, 2019/IMG_8009.webp'
                           },
                         ]},
                           {
@@ -3580,7 +3577,7 @@ const galleries = [
                             titleEn: 'Tibet, 2019',
                             description: 'Viaje a Tibet en 2019.',
                             descriptionEn: 'Trip to Tibet in 2019.',
-                            coverImage: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4854.JPG',
+                            coverImage: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4854.webp',
                             photos: [
                               {
                                 id: 'Tibet-1',
@@ -3588,7 +3585,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/ATGW7215.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/ATGW7215.webp'
                               },
                               {
                                 id: 'Tibet-2',
@@ -3596,7 +3593,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4631.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4631.webp'
                               },
                               {
                                 id: 'Tibet-3',
@@ -3604,7 +3601,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4726.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4726.webp'
                               },
                               {
                                 id: 'Tibet-4',
@@ -3612,7 +3609,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4727.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4727.webp'
                               },
                               {
                                 id: 'Tibet-5',
@@ -3620,7 +3617,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4729.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4729.webp'
                               },
                               {
                                 id: 'Tibet-6',
@@ -3628,7 +3625,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4739.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4739.webp'
                               },
                               {
                                 id: 'Tibet-7',
@@ -3636,7 +3633,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4759.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4759.webp'
                               },
                               {
                                 id: 'Tibet-8',
@@ -3644,7 +3641,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4790.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4790.webp'
                               },
                               {
                                 id: 'Tibet-9',
@@ -3652,7 +3649,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4818.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4818.webp'
                               },
                               {
                                 id: 'Tibet-10',
@@ -3660,7 +3657,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4823.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4823.webp'
                               },
                               {
                                 id: 'Tibet-11',
@@ -3668,7 +3665,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4854.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4854.webp'
                               },
                               {
                                 id: 'Tibet-12',
@@ -3676,7 +3673,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4855.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4855.webp'
                               },
                               {
                                 id: 'Tibet-13',
@@ -3684,7 +3681,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4914.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4914.webp'
                               },
                               {
                                 id: 'Tibet-14',
@@ -3692,7 +3689,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4973.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_4973.webp'
                               },
                               {
                                 id: 'Tibet-15',
@@ -3700,7 +3697,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5005.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5005.webp'
                               },
                               {
                                 id: 'Tibet-16',
@@ -3708,7 +3705,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5026.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5026.webp'
                               },
                               {
                                 id: 'Tibet-17',
@@ -3716,7 +3713,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5040.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5040.webp'
                               },
                               {
                                 id: 'Tibet-18',
@@ -3724,7 +3721,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5153.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5153.webp'
                               },
                               {
                                 id: 'Tibet-19',
@@ -3732,7 +3729,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5216.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5216.webp'
                               },
                               {
                                 id: 'Tibet-20',
@@ -3740,7 +3737,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5256.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5256.webp'
                               },
                               {
                                 id: 'Tibet-21',
@@ -3748,7 +3745,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5272.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5272.webp'
                               },
                               {
                                 id: 'Tibet-22',
@@ -3756,7 +3753,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5287.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5287.webp'
                               },
                               {
                                 id: 'Tibet-23',
@@ -3764,7 +3761,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5298.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5298.webp'
                               },
                               {
                                 id: 'Tibet-24',
@@ -3772,7 +3769,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5305.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5305.webp'
                               },
                               {
                                 id: 'Tibet-25',
@@ -3780,7 +3777,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5313.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5313.webp'
                               },
                               {
                                 id: 'Tibet-26',
@@ -3788,7 +3785,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5361.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5361.webp'
                               },
                               {
                                 id: 'Tibet-27',
@@ -3796,7 +3793,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5392.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5392.webp'
                               },
                               {
                                 id: 'Tibet-28',
@@ -3804,7 +3801,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5404.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5404.webp'
                               },
                               {
                                 id: 'Tibet-29',
@@ -3812,7 +3809,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5464.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5464.webp'
                               },
                               {
                                 id: 'Tibet-30',
@@ -3820,7 +3817,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5466.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5466.webp'
                               },
                               {
                                 id: 'Tibet-31',
@@ -3828,7 +3825,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5542.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5542.webp'
                               },
                               {
                                 id: 'Tibet-32',
@@ -3836,7 +3833,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5548.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5548.webp'
                               },
                               {
                                 id: 'Tibet-33',
@@ -3844,7 +3841,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5602.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5602.webp'
                               },
                               {
                                 id: 'Tibet-34',
@@ -3852,7 +3849,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5614.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5614.webp'
                               },
                               {
                                 id: 'Tibet-35',
@@ -3860,7 +3857,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5657.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5657.webp'
                               },
                               {
                                 id: 'Tibet-36',
@@ -3868,7 +3865,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5660.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5660.webp'
                               },
                               {
                                 id: 'Tibet-37',
@@ -3876,7 +3873,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5676.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5676.webp'
                               },
                               {
                                 id: 'Tibet-38',
@@ -3884,7 +3881,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5706.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5706.webp'
                               },
                               {
                                 id: 'Tibet-39',
@@ -3892,7 +3889,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5707.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5707.webp'
                               },
                               {
                                 id: 'Tibet-40',
@@ -3900,7 +3897,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5734.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5734.webp'
                               },
                               {
                                 id: 'Tibet-41',
@@ -3908,7 +3905,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5753.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5753.webp'
                               },
                               {
                                 id: 'Tibet-42',
@@ -3916,7 +3913,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5773.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5773.webp'
                               },
                               {
                                 id: 'Tibet-43',
@@ -3924,7 +3921,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5793.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5793.webp'
                               },
                               {
                                 id: 'Tibet-44',
@@ -3932,7 +3929,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5858.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5858.webp'
                               },
                               {
                                 id: 'Tibet-45',
@@ -3940,7 +3937,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5877.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5877.webp'
                               },
                               {
                                 id: 'Tibet-46',
@@ -3948,7 +3945,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5923.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5923.webp'
                               },
                               {
                                 id: 'Tibet-48',
@@ -3956,7 +3953,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5957.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5957.webp'
                               },
                               {
                                 id: 'Tibet-49',
@@ -3964,7 +3961,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5961.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5961.webp'
                               },
                               {
                                 id: 'Tibet-50',
@@ -3972,7 +3969,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5966.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5966.webp'
                               },
                               {
                                 id: 'Tibet-51',
@@ -3980,7 +3977,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5989.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_5989.webp'
                               },
                               {
                                 id: 'Tibet-52',
@@ -3988,7 +3985,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6026.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6026.webp'
                               },
                               {
                                 id: 'Tibet-53',
@@ -3996,7 +3993,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6049.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6049.webp'
                               },
                               {
                                 id: 'Tibet-54',
@@ -4004,7 +4001,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6068.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6068.webp'
                               },
                               {
                                 id: 'Tibet-55',
@@ -4012,7 +4009,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6103.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6103.webp'
                               },
                               {
                                 id: 'Tibet-56',
@@ -4020,7 +4017,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6111.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6111.webp'
                               },
                               {
                                 id: 'Tibet-57',
@@ -4028,7 +4025,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6120.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6120.webp'
                               },
                               {
                                 id: 'Tibet-58',
@@ -4036,7 +4033,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6140.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6140.webp'
                               },
                               {
                                 id: 'Tibet-59',
@@ -4044,7 +4041,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6162.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6162.webp'
                               },
                               {
                                 id: 'Tibet-60',
@@ -4052,7 +4049,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6184.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6184.webp'
                               },
                               {
                                 id: 'Tibet-61',
@@ -4060,7 +4057,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6251.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6251.webp'
                               },
                               {
                                 id: 'Tibet-62',
@@ -4068,7 +4065,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6258.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6258.webp'
                               },
                               {
                                 id: 'Tibet-63',
@@ -4076,7 +4073,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6758.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6758.webp'
                               },
                               {
                                 id: 'Tibet-64',
@@ -4084,7 +4081,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6767.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6767.webp'
                               },
                               {
                                 id: 'Tibet-66',
@@ -4092,7 +4089,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6772.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6772.webp'
                               },
                               {
                                 id: 'Tibet-67',
@@ -4100,7 +4097,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6776.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6776.webp'
                               },
                               {
                                 id: 'Tibet-68',
@@ -4108,7 +4105,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6808.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6808.webp'
                               },
                               {
                                 id: 'Tibet-69',
@@ -4116,7 +4113,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6831.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6831.webp'
                               },
                               {
                                 id: 'Tibet-70',
@@ -4124,7 +4121,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6837.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6837.webp'
                               },
                               {
                                 id: 'Tibet-71',
@@ -4132,7 +4129,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6848.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6848.webp'
                               },
                               {
                                 id: 'Tibet-72',
@@ -4140,7 +4137,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6852.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6852.webp'
                               },
                               {
                                 id: 'Tibet-73',
@@ -4148,7 +4145,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6857.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6857.webp'
                               },
                               {
                                 id: 'Tibet-74',
@@ -4156,7 +4153,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6879.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6879.webp'
                               },
                               {
                                 id: 'Tibet-75',
@@ -4164,7 +4161,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6890.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6890.webp'
                               },
                               {
                                 id: 'Tibet-76',
@@ -4172,7 +4169,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6892.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6892.webp'
                               },
                               {
                                 id: 'Tibet-77',
@@ -4180,7 +4177,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6894.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6894.webp'
                               },
                               {
                                 id: 'Tibet-78',
@@ -4188,7 +4185,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6928.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6928.webp'
                               },
                               {
                                 id: 'Tibet-79',
@@ -4196,7 +4193,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6970.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6970.webp'
                               },
                               {
                                 id: 'Tibet-80',
@@ -4204,7 +4201,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6984.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6984.webp'
                               },
                               {
                                 id: 'Tibet-81',
@@ -4212,7 +4209,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6993.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_6993.webp'
                               },
                               {
                                 id: 'Tibet-82',
@@ -4220,7 +4217,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7037.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7037.webp'
                               },
                               {
                                 id: 'Tibet-83',
@@ -4228,7 +4225,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7084.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7084.webp'
                               },
                               {
                                 id: 'Tibet-84',
@@ -4236,7 +4233,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7139.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7139.webp'
                               },
                               {
                                 id: 'Tibet-85',
@@ -4244,7 +4241,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7155.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7155.webp'
                               },
                               {
                                 id: 'Tibet-86',
@@ -4252,7 +4249,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7161.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7161.webp'
                               },
                               {
                                 id: 'Tibet-87',
@@ -4260,7 +4257,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7193.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7193.webp'
                               },
                               {
                                 id: 'Tibet-88',
@@ -4268,7 +4265,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7196.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7196.webp'
                               },
                               {
                                 id: 'Tibet-89',
@@ -4276,7 +4273,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7239.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7239.webp'
                               },
                               {
                                 id: 'Tibet-90',
@@ -4284,7 +4281,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7246.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7246.webp'
                               },
                               {
                                 id: 'Tibet-91',
@@ -4292,7 +4289,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7258.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7258.webp'
                               },
                               {
                                 id: 'Tibet-92',
@@ -4300,7 +4297,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn: 'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7276.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7276.webp'
                               },
                               {
                                 id: 'Tibet-93',
@@ -4308,7 +4305,7 @@ const galleries = [
                                 titleEn: 'Tibet, 2019',
                                 location: 'Tibet, China',
                                 locationEn:'Tibet, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7331.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Tibet, 2019/IMG_7331.webp'
                               },
                         ]},
                         {
@@ -4317,7 +4314,7 @@ const galleries = [
                           titleEn: 'Wenchuan, Sichuan Province, 2015',
                           description: 'Viaje a Wenchuan en 2015.',
                           descriptionEn: 'Trip to Wenchuan in 2015.',
-                          coverImage: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4755.JPG',
+                          coverImage: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4755.webp',
                           photos: [
                             {
                               id: 'Wenchuan-1',
@@ -4325,7 +4322,7 @@ const galleries = [
                               titleEn: 'Wenchuan, 2015',
                               location: 'Wenchuan, Sichuan, China',
                               locationEn: 'Wenchuan, Sichuan, China',
-                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4013.JPG'
+                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4013.webp'
                             },
                             {
                               id: 'Wenchuan-2',
@@ -4333,7 +4330,7 @@ const galleries = [
                               titleEn: 'Wenchuan, 2015',
                               location: 'Wenchuan, Sichuan, China',
                               locationEn: 'Wenchuan, Sichuan, China',
-                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4016.JPG'
+                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4016.webp'
                             },
                             {
                               id: 'Wenchuan-3',
@@ -4341,7 +4338,7 @@ const galleries = [
                               titleEn: 'Wenchuan, 2015',
                               location: 'Wenchuan, Sichuan, China',
                               locationEn: 'Wenchuan, Sichuan, China',
-                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4022.JPG'
+                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4022.webp'
                             },
                             {
                               id: 'Wenchuan-4',
@@ -4349,7 +4346,7 @@ const galleries = [
                               titleEn: 'Wenchuan, 2015',
                               location: 'Wenchuan, Sichuan, China',
                               locationEn: 'Wenchuan, Sichuan, China',
-                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4025.JPG'
+                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4025.webp'
                             },
                             {
                               id: 'Wenchuan-5',
@@ -4357,7 +4354,7 @@ const galleries = [
                               titleEn: 'Wenchuan, 2015',
                               location: 'Wenchuan, Sichuan, China',
                               locationEn: 'Wenchuan, Sichuan, China',
-                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4044.JPG'
+                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4044.webp'
                             },
                             {
                               id: 'Wenchuan-6',
@@ -4365,7 +4362,7 @@ const galleries = [
                               titleEn: 'Wenchuan, 2015',
                               location: 'Wenchuan, Sichuan, China',
                               locationEn: 'Wenchuan, Sichuan, China',
-                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4053.JPG'
+                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4053.webp'
                             },
                             {
                               id: 'Wenchuan-7',
@@ -4373,7 +4370,7 @@ const galleries = [
                               titleEn: 'Wenchuan, 2015',
                               location: 'Wenchuan, Sichuan, China',
                               locationEn: 'Wenchuan, Sichuan, China',
-                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4755.JPG'
+                              imageUrl: 'images/Fotos/FOTOS WEB GN/China/Wenchuan, provincia de Sichuan, 2015/IMG_4755.webp'
                             },
                           ]},
                           {
@@ -4382,7 +4379,7 @@ const galleries = [
                             titleEn: 'Xi_An, Shaanxi Province, 2015',
                             description: 'Viaje a Xi_An en 2015.',
                             descriptionEn: 'Trip to Xi_An in 2015.',
-                            coverImage: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5430.JPG',
+                            coverImage: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5430.webp',
                             photos: [
                               {
                                 id: 'Xi_An2015-1',
@@ -4390,7 +4387,7 @@ const galleries = [
                                 titleEn: 'Xi_An, 2015',
                                 location: 'Xi_An, Shaanxi, China',
                                 locationEn: 'Xi_An, Shaanxi, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5430.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5430.webp'
                               },
                               {
                                 id: 'Xi_An2015-2',
@@ -4398,7 +4395,7 @@ const galleries = [
                                 titleEn: 'Xi_An, 2015',
                                 location: 'Xi_An, Shaanxi, China',
                                 locationEn: 'Xi_An, Shaanxi, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5532.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5532.webp'
                               },
                               {
                                 id: 'Xi_An2015-3',
@@ -4406,7 +4403,7 @@ const galleries = [
                                 titleEn: 'Xi_An, 2015',
                                 location: 'Xi_An, Shaanxi, China',
                                 locationEn: 'Xi_An, Shaanxi, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5589.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5589.webp'
                               },
                               {
                                 id: 'Xi_An2015-4',
@@ -4414,7 +4411,7 @@ const galleries = [
                                 titleEn: 'Xi_An, 2015',
                                 location: 'Xi_An, Shaanxi, China',
                                 locationEn: 'Xi_An, Shaanxi, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5594.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5594.webp'
                               },
                               {
                                 id: 'Xi_An2015-5',
@@ -4422,7 +4419,7 @@ const galleries = [
                                 titleEn: 'Xi_An, 2015',
                                 location: 'Xi_An, Shaanxi, China',
                                 locationEn: 'Xi_An, Shaanxi, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5600.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5600.webp'
                               },
                               {
                                 id: 'Xi_An2015-6',
@@ -4430,7 +4427,7 @@ const galleries = [
                                 titleEn: 'Xi_An, 2015',
                                 location: 'Xi_An, Shaanxi, China',
                                 locationEn: 'Xi_An, Shaanxi, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5601.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5601.webp'
                               },
                               {
                                 id: 'Xi_An2015-7',
@@ -4438,7 +4435,7 @@ const galleries = [
                                 titleEn: 'Xi_An, 2015',
                                 location: 'Xi_An, Shaanxi, China',
                                 locationEn: 'Xi_An, Shaanxi, China',
-                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5625.JPG'
+                                imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5625.webp'
                               },
                             ]},
                             {
@@ -4447,7 +4444,7 @@ const galleries = [
                               titleEn: 'Xiahe, Gansu Province, 2015',
                               description: 'Viaje a Xiahe en 2015.',
                               descriptionEn: 'Trip to Xiahe in 2015.',
-                              coverImage: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5253.JPG',
+                              coverImage: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5253.webp',
                               photos: [
                                 {
                                   id: 'Xiahe2015-1',
@@ -4455,7 +4452,7 @@ const galleries = [
                                   titleEn: 'Xiahe, 2015',
                                   location: 'Xiahe, Gansu, China',
                                   locationEn: 'Xiahe, Gansu, China',
-                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5248.JPG'
+                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5248.webp'
                                 },
                                 {
                                   id: 'Xiahe2015-2',
@@ -4463,7 +4460,7 @@ const galleries = [
                                   titleEn: 'Xiahe, 2015',
                                   location: 'Xiahe, Gansu, China',
                                   locationEn: 'Xiahe, Gansu, China',
-                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5253.JPG'
+                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5253.webp'
                                 },
                                 {
                                   id: 'Xiahe2015-3',
@@ -4471,7 +4468,7 @@ const galleries = [
                                   titleEn: 'Xiahe, 2015',
                                   location: 'Xiahe, Gansu, China',
                                   locationEn: 'Xiahe, Gansu, China',
-                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5258.JPG'
+                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5258.webp'
                                 },
                                 {
                                   id: 'Xiahe2015-4',
@@ -4479,7 +4476,7 @@ const galleries = [
                                   titleEn: 'Xiahe, 2015',
                                   location: 'Xiahe, Gansu, China',
                                   locationEn: 'Xiahe, Gansu, China',
-                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5266.JPG'
+                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5266.webp'
                                 },
                                 {
                                   id: 'Xiahe2015-5',
@@ -4487,7 +4484,7 @@ const galleries = [
                                   titleEn: 'Xiahe, 2015',
                                   location: 'Xiahe, Gansu, China',
                                   locationEn: 'Xiahe, Gansu, China',
-                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5273.JPG'
+                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5273.webp'
                                 },
                                 {
                                   id: 'Xiahe2015-6',
@@ -4495,7 +4492,7 @@ const galleries = [
                                   titleEn: 'Xiahe, 2015',
                                   location: 'Xiahe, Gansu, China',
                                   locationEn: 'Xiahe, Gansu, China',
-                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5304.JPG'
+                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5304.webp'
                                 },
                                 {
                                   id: 'Xiahe2015-7',
@@ -4503,7 +4500,7 @@ const galleries = [
                                   titleEn: 'Xiahe, 2015',
                                   location: 'Xiahe, Gansu, China',
                                   locationEn: 'Xiahe, Gansu, China',
-                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5311.JPG'
+                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5311.webp'
                                 },
                                 {
                                   id: 'Xiahe2015-8',
@@ -4511,7 +4508,7 @@ const galleries = [
                                   titleEn: 'Xiahe, 2015',
                                   location: 'Xiahe, Gansu, China',
                                   locationEn: 'Xiahe, Gansu, China',
-                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5341.JPG'
+                                  imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiahe, provincia de Gansu, 2015/IMG_5341.webp'
                                 },
                               ]},
                               {
@@ -4520,7 +4517,7 @@ const galleries = [
                                 titleEn: 'Xiamen, Fujian Province, 2019',
                                 description: 'Viaje a Xiamen en 2019.',
                                 descriptionEn: 'Trip to Xiamen in 2019.',
-                                coverImage: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7795.JPG',
+                                coverImage: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7795.webp',
                                 photos: [
                                   {
                                     id: 'Xiamen2019-1',
@@ -4528,7 +4525,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7558.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7558.webp'
                                   },
                                   {
                                     id: 'Xiamen2019-2',
@@ -4536,7 +4533,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7577.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7577.webp'
                                   },
                                   {
                                     id: 'Xiamen2019-3',
@@ -4544,7 +4541,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7594.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7594.webp'
                                   },
                                   {
                                     id: 'Xiamen2019-4',
@@ -4552,7 +4549,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7690.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7690.webp'
                                   },
                                   {
                                     id: 'Xiamen2019-5',
@@ -4560,7 +4557,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7721.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7721.webp'
                                   },
                                   {
                                     id: 'Xiamen2019-6',
@@ -4568,7 +4565,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7734.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7734.webp'
                                   },
                                   {
                                     id: 'Xiamen2019-7',
@@ -4576,7 +4573,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7747.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7747.webp'
                                   },
                                   {
                                     id: 'Xiamen2019-8',
@@ -4584,7 +4581,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7765.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7765.webp'
                                   },
                                   {
                                     id: 'Xiamen2019-9',
@@ -4592,7 +4589,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7783.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7783.webp'
                                   },
                                   {
                                     id: 'Xiamen2019-10',
@@ -4600,7 +4597,7 @@ const galleries = [
                                     titleEn: 'Xiamen, 2019',
                                     location: 'Xiamen, Fujian, China',
                                     locationEn: 'Xiamen, Fujian, China',
-                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7795.JPG'
+                                    imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xiamen, provincia de Fujian, 2019/IMG_7795.webp'
                                   },
                                 ]},
                                 {
@@ -4609,7 +4606,7 @@ const galleries = [
                                   titleEn: 'Zhuhai, Guangdong Province, 2015',
                                   description: 'Viaje a Zhuhai en 2015.',
                                   descriptionEn: 'Trip to Zhuhai in 2015.',
-                                  coverImage: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3957.JPG',
+                                  coverImage: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3957.webp',
                                   photos: [
                                     {
                                       id: 'Zhuhai2015-1',
@@ -4617,7 +4614,7 @@ const galleries = [
                                       titleEn: 'Zhuhai, 2015',
                                       location: 'Zhuhai, Guangdong, China',
                                       locationEn: 'Zhuhai, Guangdong, China',
-                                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3927.JPG'
+                                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3927.webp'
                                     },
                                     {
                                       id: 'Zhuhai2015-2',
@@ -4625,7 +4622,7 @@ const galleries = [
                                       titleEn: 'Zhuhai, 2015',
                                       location: 'Zhuhai, Guangdong, China',
                                       locationEn: 'Zhuhai, Guangdong, China',
-                                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3957.JPG'
+                                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3957.webp'
                                     },
                                     {
                                       id: 'Zhuhai2015-3',
@@ -4633,7 +4630,7 @@ const galleries = [
                                       titleEn: 'Zhuhai, 2015',
                                       location: 'Zhuhai, Guangdong, China',
                                       locationEn: 'Zhuhai, Guangdong, China',
-                                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3958.JPG'
+                                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3958.webp'
                                     },
                                     {
                                       id: 'Zhuhai2015-4',
@@ -4641,7 +4638,7 @@ const galleries = [
                                       titleEn: 'Zhuhai, 2015',
                                       location: 'Zhuhai, Guangdong, China',
                                       locationEn: 'Zhuhai, Guangdong, China',
-                                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3969.JPG'
+                                      imageUrl: 'images/Fotos/FOTOS WEB GN/China/Zhuhai, provincia de Guangdong, 2015/IMG_3969.webp'
                                     },
                                   ]},
                                   {
@@ -4650,7 +4647,7 @@ const galleries = [
                                     titleEn: 'Chinese Argentina fans',
                                     description: 'Chinos fans de Argentina',
                                     descriptionEn: 'Chinese Argentina fans',
-                                    coverImage: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8334.JPG',
+                                    coverImage: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8334.webp',
                                     photos: [
                                       {
                                         id: 'argentinafans-1',
@@ -4658,7 +4655,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_0765.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_0765.webp'
                                       },
                                       {
                                         id: 'argentinafans-2',
@@ -4666,7 +4663,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_1063.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_1063.webp'
                                       },
                                       {
                                         id: 'argentinafans-3',
@@ -4674,7 +4671,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_6862.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_6862.webp'
                                       },
                                       {
                                         id: 'argentinafans-4',
@@ -4682,7 +4679,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_6900.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_6900.webp'
                                       },
                                       {
                                         id: 'argentinafans-5',
@@ -4690,7 +4687,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_6901.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_6901.webp'
                                       },
                                       {
                                         id: 'argentinafans-6',
@@ -4698,7 +4695,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8229.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8229.webp'
                                       },
                                       {
                                         id: 'argentinafans-7',
@@ -4706,7 +4703,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8259.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8259.webp'
                                       },
                                       {
                                         id: 'argentinafans-8',
@@ -4714,7 +4711,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8261.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8261.webp'
                                       },
                                       {
                                         id: 'argentinafans-9',
@@ -4722,7 +4719,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8334.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8334.webp'
                                       },
                                       {
                                         id: 'argentinafans-10',
@@ -4730,7 +4727,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8290.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8290.webp'
                                       },
                                       {
                                         id: 'argentinafans-11',
@@ -4738,7 +4735,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8331.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8331.webp'
                                       },
                                       {
                                         id: 'argentinafans-12',
@@ -4746,7 +4743,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8336.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8336.webp'
                                       },
                                       {
                                         id: 'argentinafans-13',
@@ -4754,7 +4751,7 @@ const galleries = [
                                         titleEn: 'Chinese Argentina fans',
                                         location: 'China',
                                         locationEn: 'China',
-                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8384.JPG'
+                                        imageUrl: 'images/Fotos/FOTOS WEB GN/China/Chinos fans de Argentina/IMG_8384.webp'
                                       },
                                     ]},
       
@@ -4778,7 +4775,7 @@ const galleries = [
     titleEn: 'Istanbul 2017',
     description: 'Viaje a Estambul en 2017.',
     descriptionEn: 'Trip to Istanbul in 2017.',
-    coverImage: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4784.JPG',
+    coverImage: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4784.webp',
     photos: [
       {
         id: 'Estambul-1',
@@ -4786,7 +4783,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4753.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4753.webp'
       },
       {
         id: 'Estambul-2',
@@ -4794,7 +4791,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4754.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4754.webp'
       },
       {
         id: 'Estambul-3',
@@ -4802,7 +4799,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4766.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4766.webp'
       },
       {
         id: 'Estambul-4',
@@ -4810,7 +4807,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4771.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4771.webp'
       },
       {
         id: 'Estambul-5',
@@ -4818,7 +4815,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4784.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4784.webp'
       },
       {
         id: 'Estambul-6',
@@ -4826,7 +4823,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4795.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4795.webp'
       },
       {
         id: 'Estambul-7',
@@ -4834,7 +4831,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4805.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4805.webp'
       },
       {
         id: 'Estambul-8',
@@ -4842,7 +4839,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4808.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4808.webp'
       },
       {
         id: 'Estambul-9',
@@ -4850,7 +4847,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4858.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4858.webp'
       },
       {
         id: 'Estambul-10',
@@ -4858,7 +4855,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4864.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4864.webp'
       },
       {
         id: 'Estambul-11',
@@ -4866,7 +4863,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4873.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4873.webp'
       },
       {
         id: 'Estambul-12',
@@ -4874,7 +4871,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4879.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4879.webp'
       },
       {
         id: 'Estambul-13',
@@ -4882,7 +4879,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4884.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4884.webp'
       },
       {
         id: 'Estambul-14',
@@ -4890,7 +4887,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4917.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4917.webp'
       },
       {
         id: 'Estambul-15',
@@ -4898,7 +4895,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4924.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4924.webp'
       },
       {
         id: 'Estambul-16',
@@ -4906,7 +4903,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4934.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4934.webp'
       },
       {
         id: 'Estambul-17',
@@ -4914,7 +4911,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4985.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4985.webp'
       },
       {
         id: 'Estambul-18',
@@ -4922,7 +4919,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4992.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_4992.webp'
       },
       {
         id: 'Estambul-19',
@@ -4930,7 +4927,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5013.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5013.webp'
       },
       {
         id: 'Estambul-20',
@@ -4938,7 +4935,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5056.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5056.webp'
       },
       {
         id: 'Estambul-21',
@@ -4946,7 +4943,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5107.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5107.webp'
       },
       {
         id: 'Estambul-22',
@@ -4954,7 +4951,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5115.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5115.webp'
       },
       {
         id: 'Estambul-23',
@@ -4962,7 +4959,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5124.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5124.webp'
       },
       {
         id: 'Estambul-24',
@@ -4970,7 +4967,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5130.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5130.webp'
       },
       {
         id: 'Estambul-25',
@@ -4978,7 +4975,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5163.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5163.webp'
       },
       {
         id: 'Estambul-26',
@@ -4986,7 +4983,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5274.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5274.webp'
       },
       {
         id: 'Estambul-27',
@@ -4994,7 +4991,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5276.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5276.webp'
       },
       {
         id: 'Estambul-28',
@@ -5002,7 +4999,7 @@ const galleries = [
         titleEn: 'Istanbul, 2017',
         location: 'Estambul, Turquía',
         locationEn: 'Istanbul, Turkey',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5296.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Estambul 2017/IMG_5296.webp'
       },
     ]
   },
@@ -5012,7 +5009,7 @@ const galleries = [
     titleEn: 'New York',
     description: 'Imágenes capturadas durante mis visitas a Nueva York, reflejando la energía y diversidad de esta metrópolis.',
     descriptionEn: 'Images captured during my visits to New York, reflecting the energy and diversity of this metropolis.',
-    coverImage: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 19.jpg',
+    coverImage: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 19.webp',
     photos: [
       {
         id: 'newyork-1',
@@ -5020,7 +5017,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 4.jpg'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 4.webp'
       },
       {
         id: 'newyork-2',
@@ -5028,7 +5025,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 18.jpg'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 18.webp'
       },
       {
         id: 'newyork-3',
@@ -5036,7 +5033,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 19.jpg'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 19.webp'
       },
       {
         id: 'newyork-4',
@@ -5044,7 +5041,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 30.jpg'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 30.webp'
       },
       {
         id: 'newyork-5',
@@ -5052,7 +5049,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 32.jpg'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 32.webp'
       },
       {
         id: 'newyork-6',
@@ -5060,7 +5057,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 35.jpg'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 35.webp'
       },
       {
         id: 'newyork-7',
@@ -5068,7 +5065,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 40.jpg'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/Chaquichan en NovaYol 40.webp'
       },
       {
         id: 'newyork-8',
@@ -5076,7 +5073,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_5983.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_5983.webp'
       },
       {
         id: 'newyork-9',
@@ -5084,7 +5081,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_6014.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_6014.webp'
       },
       {
         id: 'newyork-10',
@@ -5092,7 +5089,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_6028.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_6028.webp'
       },
       {
         id: 'newyork-11',
@@ -5100,7 +5097,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_6066.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_6066.webp'
       },
       {
         id: 'newyork-12',
@@ -5108,7 +5105,7 @@ const galleries = [
         titleEn: 'New York',
         location: 'Nueva York, Estados Unidos',
         locationEn: 'New York, United States',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_6199.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/IMG_6199.webp'
       }
 
     ]},
@@ -5118,7 +5115,7 @@ const galleries = [
       titleEn: 'Argentinian Patagonia',
       description: 'Viaje a la Patagonia Argentina.',
       descriptionEn: 'Trip to Argentinian Patagonia.',
-      coverImage: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1575.JPG',
+      coverImage: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1575.webp',
       photos: [
         {
           id: 'Patagonia-1',
@@ -5126,7 +5123,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1569.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1569.webp'
         },
         {
           id: 'Patagonia-2',
@@ -5134,7 +5131,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1575.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1575.webp'
         },
         {
           id: 'Patagonia-3',
@@ -5142,7 +5139,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1599.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1599.webp'
         },
         {
           id: 'Patagonia-4',
@@ -5150,7 +5147,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2636.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2636.webp'
         },
         {
           id: 'Patagonia-5',
@@ -5158,7 +5155,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2683.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2683.webp'
         },
         {
           id: 'Patagonia-6',
@@ -5166,7 +5163,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2710.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2710.webp'
         },
         {
           id: 'Patagonia-7',
@@ -5174,7 +5171,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3604.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3604.webp'
         },
         {
           id: 'Patagonia-8',
@@ -5182,7 +5179,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3616.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3616.webp'
         },
         {
           id: 'Patagonia-9',
@@ -5190,7 +5187,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3703.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3703.webp'
         },
         {
           id: 'Patagonia-10',
@@ -5198,7 +5195,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3779.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3779.webp'
         },
         {
           id: 'Patagonia-11',
@@ -5206,7 +5203,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3929.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3929.webp'
         },
         {
           id: 'Patagonia-12',
@@ -5214,7 +5211,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3948.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3948.webp'
         },
         {
           id: 'Patagonia-13',
@@ -5222,7 +5219,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4250.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4250.webp'
         },
         {
           id: 'Patagonia-14',
@@ -5230,7 +5227,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4324.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4324.webp'
         },
         {
           id: 'Patagonia-15',
@@ -5238,7 +5235,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4345.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4345.webp'
         },
         {
           id: 'Patagonia-16',
@@ -5246,7 +5243,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4350.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4350.webp'
         },
         {
           id: 'Patagonia-17',
@@ -5254,7 +5251,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_7884.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_7884.webp'
         },
         {
           id: 'Patagonia-18',
@@ -5262,7 +5259,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9498.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9498.webp'
         },
         {
           id: 'Patagonia-19',
@@ -5270,7 +5267,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9584.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9584.webp'
         },
         {
           id: 'Patagonia-20',
@@ -5278,7 +5275,7 @@ const galleries = [
           titleEn: 'Argentinian Patagonia',
           location: 'Patagonia, Argentina',
           locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9636.JPG'
+          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9636.webp'
         }
       ]},
   
@@ -5288,7 +5285,7 @@ const galleries = [
     titleEn: 'Gustavo Ng',
     description: 'Una colección ecléctica de fotografías de diferentes lugares y momentos que capturan mi atención.',
     descriptionEn: 'An eclectic collection of photographs from different places and moments that capture my attention.',
-    coverImage: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.37.jpeg',
+    coverImage: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.37.webp',
     photos: [
       {
         id: 'GustavoNg-1',
@@ -5296,7 +5293,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.37.jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.37.webp'
       },
       {
         id: 'GustavoNg-2',
@@ -5304,16 +5301,23 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.37 (2).jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.37 (2).webp'
       },
-      // Agrega más fotos aquí
+      {
+        id: 'GustavoNg-46',
+        title: 'Gustavo Ng',
+        titleEn: 'Gustavo Ng',
+        location: 'Varios lugares',
+        locationEn: 'Various locations',
+        imageUrl: 'images/Fotos/gustavo-ng.webp'
+      },
       {
         id: 'GustavoNg-3',
         title: 'Gustavo Ng',
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.37 (1).jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.37 (1).webp'
       },
       {
         id: 'GustavoNg-4',
@@ -5321,7 +5325,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.38.jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.38.webp'
       },
       {
         id: 'GustavoNg-5',
@@ -5329,7 +5333,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.51.07 (1).jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.51.07 (1).webp'
       },
       {
         id: 'GustavoNg-6',
@@ -5337,7 +5341,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.51.07.jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.51.07.webp'
       },
       {
         id: 'GustavoNg-7',
@@ -5345,7 +5349,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.51.08.jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.51.08.webp'
       },
       {
         id: 'GustavoNg-8',
@@ -5353,7 +5357,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.52.25 (1).jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.52.25 (1).webp'
       },
       {
         id: 'GustavoNg-9',
@@ -5361,7 +5365,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.52.25.jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.52.25.webp'
       },
       {
         id: 'GustavoNg-10',
@@ -5369,7 +5373,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.57.59.jpeg'
+        imageUrl: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.57.59.webp'
       },
       {
         id: 'GustavoNg-13',
@@ -5377,7 +5381,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_0822.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_0822.webp'
       },
       {
         id: 'GustavoNg-14',
@@ -5385,7 +5389,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_1641.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_1641.webp'
       },
       {
         id: 'GustavoNg-15',
@@ -5393,7 +5397,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_1814.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_1814.webp'
       },
       {
         id: 'GustavoNg-16',
@@ -5401,7 +5405,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_1925.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_1925.webp'
       },
       {
         id: 'GustavoNg-17',
@@ -5409,7 +5413,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_1960.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_1960.webp'
       },
       {
         id: 'GustavoNg-18',
@@ -5417,7 +5421,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2055.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2055.webp'
       },
       {
         id: 'GustavoNg-19',
@@ -5425,7 +5429,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2399.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2399.webp'
       },
       {
         id: 'GustavoNg-20',
@@ -5433,7 +5437,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2916.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2916.webp'
       },
       {
         id: 'GustavoNg-21',
@@ -5441,7 +5445,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2946.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2946.webp'
       },
       {
         id: 'GustavoNg-22',
@@ -5449,7 +5453,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2984.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_2984.webp'
       },
       {
         id: 'GustavoNg-23',
@@ -5457,7 +5461,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3004.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3004.webp'
       },
       {
         id: 'GustavoNg-24',
@@ -5465,7 +5469,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3073.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3073.webp'
       },
       {
         id: 'GustavoNg-25',
@@ -5473,7 +5477,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3421.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3421.webp'
       },
       {
         id: 'GustavoNg-26',
@@ -5481,7 +5485,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3423.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3423.webp'
       },
       {
         id: 'GustavoNg-27',
@@ -5489,7 +5493,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3936.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3936.webp'
       },
       {
         id: 'GustavoNg-28',
@@ -5497,7 +5501,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3971.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3971.webp'
       },
       {
         id: 'GustavoNg-29',
@@ -5505,7 +5509,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3992.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_3992.webp'
       },
       {
         id: 'GustavoNg-30',
@@ -5513,7 +5517,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_4398.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_4398.webp'
       },
       {
         id: 'GustavoNg-31',
@@ -5521,7 +5525,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_4935.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_4935.webp'
       },
       {
         id: 'GustavoNg-32',
@@ -5529,7 +5533,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_5459.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_5459.webp'
       },
       {
         id: 'GustavoNg-33',
@@ -5537,7 +5541,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_5490.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_5490.webp'
       },
       {
         id: 'GustavoNg-34',
@@ -5545,7 +5549,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_5570.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_5570.webp'
       },
       {
         id: 'GustavoNg-35',
@@ -5553,7 +5557,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6866.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6866.webp'
       },
       {
         id: 'GustavoNg-36',
@@ -5561,7 +5565,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6911.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6911.webp'
       },
       {
         id: 'GustavoNg-37',
@@ -5569,7 +5573,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6917.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6917.webp'
       },
       {
         id: 'GustavoNg-38',
@@ -5577,7 +5581,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6951.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6951.webp'
       },
       {
         id: 'GustavoNg-39',
@@ -5585,7 +5589,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6999.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_6999.webp'
       },
       {
         id: 'GustavoNg-40',
@@ -5593,7 +5597,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_7111.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_7111.webp'
       },
       {
         id: 'GustavoNg-41',
@@ -5601,7 +5605,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_7126.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_7126.webp'
       },
       {
         id: 'GustavoNg-42',
@@ -5609,7 +5613,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_7336.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_7336.webp'
       },
       {
         id: 'GustavoNg-43',
@@ -5617,7 +5621,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_8081.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_8081.webp'
       },
       {
         id: 'GustavoNg-44',
@@ -5625,7 +5629,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_8357.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_8357.webp'
       },
       {
         id: 'GustavoNg-45',
@@ -5633,7 +5637,7 @@ const galleries = [
         titleEn: 'Gustavo Ng',
         location: 'Varios lugares',
         locationEn: 'Various locations',
-        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_8426.JPG'
+        imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_8426.webp'
       },
     ]
   }
@@ -5643,93 +5647,139 @@ const galleries = [
 const biographyContent = {
   es: `
     <p>
-      Gustavo Ng, nacido en Buenos Aires, Argentina, es un periodista y escritor que ha dedicado su carrera a tender puentes culturales entre Oriente y Occidente. Con más de dos décadas de experiencia profesional, su trabajo se centra especialmente en las relaciones entre América Latina y China.
-    </p>
+     Periodista y comunicador argentino desde 1981. Colaboró con los diarios Tiempo Argentino, Clarín, Perfil y otros, la televisora BVC (Bariloche Visión Codificada) la revista Convivimos y otros medios argentinos; las revistas Maxim y Siete Leguas y el diario El Mundo, de España; el diario Yomiuri Shimbún y las redes de televisión NHK y Asahi, de Japón; la revista China Hoy y otros medios de China.</p>
+
+    <p>Tuvo a cargo el área de Comunicación de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires, el Colegio de Graduados de Antropología, el CAPI (Componente de Atención a la Población Indígena), el Ente de Higiene Urbana y la Dirección General de Atención Inmediata del Gobierno de la Ciudad de Buenos Aires y fue director de contenidos en SERSAT.</p>
+
+    <p>Fue uno de los creadores de Gaceta Universitaria y del proyecto de comunicación Revista DangDai, del cual es su actual coeditor en los segmentos website de noticias, newsletter y versión impresa. Es creador y editor del medio de análisis de temas internacionales Tektónikos.</p>
+    
+    <h2>Libros</h2>
     
     <p>
-      Licenciado en Comunicación por la Universidad de Buenos Aires y con estudios de posgrado en Estudios Asiáticos, Gustavo comenzó su carrera en la prensa escrita, trabajando para diversos medios argentinos antes de especializarse en temas relacionados con Asia.
-    </p>
+      Especializado en las relaciones entre Argentina y China desde 2011, es autor o coautor de los libros:</p>
+
+      <ul class="libros-bio">
+        <li>“Todo lo que necesitás saber sobre China” con Néstor Restivo (Editorial Paidós, 2016)</li>
+        <li>“Las organizaciones de inmigrantes chinos en Argentina”, con Luciana Denardi y Alejandro Grimson (Red Internacional de Migración y Desarrollo, México, 2016)</li>
+        <li>“El Gallo de Fuego” (Editorial Atlántida, Buenos Aires, 2017)</li>
+        <li>“Nosotros - Crónicas de la Cercanía Cultural de China y Argentina” (China Intercontinental Press, Beijing, 2018)</li>
+        <li>“El Año del Perro” (Editorial Atlántida, Buenos Aires, 2017)</li>
+        <li>“Historia oral: Testigos del intercambio cultural entre China y América Latina” (Blossom Press, Beijing, 2019)</li>
+        <li>“China – La superación de la pobreza” (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
+        <li>“China – Democracia, Representación Política y Legitimidad Social – Balance a 100 años de la fundación del PCCH” (Ediciones Universidad de Congreso, Mendoza, 2021)</li>
+        <li>“El Año del Búfalo” (Enredacción, Córdoba, 2021)</li>
+        <li>“La superación de la pandemia en América Latina”, como compilador (Ediciones Continente, 2021)</li>
+        <li>“El Libro Celeste y Blanco de Notas sobre China en Medios de Argentina” con Eva Blanco y Néstor Restivo (Eva Blanco, 2022)</li>
+        <li>“El regalo del Dios Viento – Viaje al país de los budistas tibetanos” (Ediciones El Bien del Sauce, 2023)</li>
+        <li>“El Tangram de China - ¿Qué ve América Latina cuando mira al gigante de Asia?” (Ediciones El Bien del Sauce, 2023)</li>
+        <li>“El Zoodíaco Chino – Un viaje por los sueños del despertar” (Ediciones El Bien del Sauce, 2023)</li>
+        <li>“Podemos vencer la pobreza - La experiencia de China” con Néstor Restivo (China Intercontinental Press, 2024)</li>
+        </ul>
+
+    <p></p>    
     
     <p>
-      En 2005, fundó la revista "Dang Dai", la primera publicación especializada en cultura china en Argentina, que dirigió durante más de diez años. A través de esta plataforma, introdujo a los lectores hispanohablantes a las complejidades de la sociedad, el arte y la política china contemporánea.
-    </p>
+      Es autor también de los libros de ficción:
+      </p>
     
-    <p>
-      Como periodista, ha realizado numerosos viajes de investigación a China, Japón y otros países asiáticos, entrevistando a destacadas figuras culturales y políticas. Sus artículos han sido publicados en medios como La Nación, Clarín, Página/12 y diversos medios internacionales.
-    </p>
+    <ul class="libros-bio">
+      <li>“Mariposa de Otoño”, ilustrado por Silvana Perl (Ediciones El Bien del Sauce, 2016)</li>
+      <li>“La intimidad de las islas”, ilustrado por Juan Pablo Aiello (Ediciones El Bien del Sauce, 2022)</li>
+    </ul>
     
-    <h2>Obra y Contribuciones</h2>
+    <h2>Distinciones</h2>
     
-    <p>
-      Gustavo es autor de varios libros que exploran la influencia cultural china en el mundo occidental y particularmente en América Latina. Su primer libro, "La Ruta de la Seda: Un Viaje Cultural" (2021), rápidamente se convirtió en una obra de referencia sobre las conexiones históricas entre Oriente y Occidente.
-    </p>
-    
-    <p>
-      Como conferencista, ha sido invitado a universidades y centros culturales en Argentina, España, Estados Unidos y China. Sus charlas abordan temas como el diálogo intercultural, la diáspora china en América Latina y el nuevo rol geopolítico de China en el mundo.
-    </p>
-    
-    <p>
-      Desde 2015, coordina el programa "Puentes con China" en la Universidad Nacional de Buenos Aires, que promueve el intercambio académico y cultural entre instituciones argentinas y chinas.
-    </p>
-    
-    <h2>Enfoques y Perspectivas</h2>
-    
-    <p>
-      El trabajo de Gustavo se distingue por su enfoque humanista y su interés en mostrar las conexiones profundas que existen entre culturas aparentemente distantes. Como él mismo ha expresado: "Mi objetivo es desmontar estereotipos y crear espacios de entendimiento genuino entre las personas, más allá de las diferencias lingüísticas o culturales".
-    </p>
-    
-    <p>
-      En sus escritos y conferencias, aborda temas como la globalización cultural, las transformaciones sociales de la China moderna, y el impacto de las migraciones en la conformación de identidades híbridas.
-    </p>
-    
-    <p>
-      Actualmente, divide su tiempo entre Argentina y China, donde continúa con sus investigaciones sobre las relaciones culturales entre ambas regiones y trabaja en nuevos proyectos editoriales.
-    </p>
-  `,
+    <p>Su libro “Mariposa de Otoño” fue declarado de Interés Cultural por la Legislatura de la Ciudad Autónoma de Buenos Aires y su libro “10.134 kilómetros a través de China” fue distinguido por la organización China Culture Translation Studies Support (CCTSS).y le valió el Special Book Award por parte del Ministerio de Cultura del Gobierno de la República Popular China. </p>
+   
+    <h2>Reuniones</h2>
+
+    <p>Participó en el 2016 Sino-Foreign Literature Translation & Publishing Workshop (SFLTP 2016, Beijing), 2019 Forum on the Development  of Tibet (China, 2019), International Forum on Democracy: the Shared Human Values (China, 2021), 2022 Beijing Forum on Human Rights (China, 2022), coloquio "China en la nueva expedición y el mundo" (China, 2022), “Conference 70th. Anniversary of the Five Principles of Peaceful Coexistence” (China, 2025).</p>
+   
+    <h2>Cursos y conferencias</h2>
+
+    <p>Ha dado cursos y conferencias sobre la relación entre Argentina y China en la Universidad de Buenos Aires, la Universidad Nacional de La Plata, la Universidad de Congreso, el Sindicato de Prensa de Buenos Aires, la Beijing Culture and Language University, la Renmin University, la Shanghai International Studies University, la Xi’An International Studies University, la Universidad Torcuato Di Tella, el Instituto Universitario de la Cooperación, la Minzu University, el CONICET y la Academia China de Ciencias Sociales.</p>
+
+    <h2>Redes</h2>
+
+    <p>Es miembro del Grupo China del Consejo Argentino de Relaciones Internacionales (CARI), la Red Argentina de Profesionales para la Política Exterior (REDAPPE), la CCTSS (China Culture Translation Studies Support), la Red China y América Latina: Enfoques Multidisciplinarios – REDCAEM y el grupo Chaquichán.</p>
+
+    <h2>Personal</h2>
+
+    <p>Nacido en San Nicolás, provincia de Buenos Aires, en 1962, es descendiente de chinos y también de gallegos, vascos y piamonteses. 
+Tuvo formación en Argentina y Estados Unidos. Estudió Periodismo y Ciencias Antropológicas.
+Vivió en Argentina, Estados Unidos, Brasil, Perú y Cuba.
+Es padre de cuatro hijos.</p>
+    `,
   en: `
-    <p>
-      Gustavo Ng, born in Buenos Aires, Argentina, is a journalist and writer who has dedicated his career to building cultural bridges between East and West. With more than two decades of professional experience, his work focuses especially on the relations between Latin America and China.
+    <p>An Argentine journalist and communicator since 1981, he has contributed to the newspapers Tiempo Argentino, Clarín, Perfil, and others; the television station BVC (Bariloche Visión Codificada); the magazine Convivimos; and other Argentine media outlets; the magazines Maxim and Siete Leguas and the Spanish newspaper El Mundo; the Yomiuri Shimbún newspaper and the NHK and Asahi television networks in Japan; the magazine China Hoy and other Chinese media outlets.
+ </p>
+    
+    <p>He has been in charge of the Communications Department of the Faculty of Philosophy and Letters of the University of Buenos Aires, the College of Anthropology Graduates, the CAPI (Indigenous Population Assistance Component), the Urban Hygiene Agency, and the General Directorate of Immediate Assistance of the Government of the City of Buenos Aires, and was the content director at SERSAT.
     </p>
     
-    <p>
-      With a degree in Communication from the University of Buenos Aires and postgraduate studies in Asian Studies, Gustavo began his career in print media, working for various Argentine publications before specializing in Asian-related issues.
-    </p>
+    <p>He was one of the founders of Gaceta Universitaria and the communications project Revista DangDai, of which he is currently co-editor for the news website, newsletter, and print versions. He is the creator and editor of the international affairs analysis outlet Tektónikos.
+      </p>
+    
+    
+    <h2>Books</h2>
+    
+    <p>Specializing in Argentina-China relations since 2011, he is the author or co-author of the books:</p>
+
+      <ul class="libros-bio">
+        <li>“Everything You Need to Know About China” with Néstor Restivo (Editorial Paidós, 2016)</li>
+        <li>“Chinese Immigrant Organizations in Argentina,” with Luciana Denardi and Alejandro Grimson (International Network on Migration and Development, Mexico, 2016)</li>
+        <li>“The Fire Rooster” (Editorial Atlántida, Buenos Aires, 2017)</li>
+        <li>“Us - Chronicles of the Cultural Proximity Between China and Argentina” (China Intercontinental Press, Beijing, 2018)</li>
+        <li>“The Year of the Dog” (Editorial Atlántida, Buenos Aires, 2017)</li>
+        <li>“Oral History: Witnesses of Cultural Exchange Between China and Latin America” (Blossom Press, Beijing, 2019)</li>
+        <li>“China – Overcoming Poverty” (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
+        <li>“China – Democracy, Political Representation, and Social Legitimacy – An Assessment at 100 Years of the CPC’s Founding” (Ediciones Universidad de Congreso, Mendoza, 2021)</li>
+        <li>“The Year of the Buffalo” (Enredacción, Córdoba, 2021)</li>
+        <li>“Overcoming the Pandemic in Latin America,” as editor (Ediciones Continente, 2021)</li>
+        <li>“The Sky Blue and White Book of Notes on China in Argentine Media” with Eva Blanco and Néstor Restivo (Eva Blanco, 2022)</li>
+        <li>“The Gift of the Wind God – Journey to the Land of Tibetan Buddhists” (Ediciones El Bien del Sauce, 2023)</li>
+        <li>“The China Tangram - What Does Latin America See When It Looks at the Asian Giant?” (Ediciones El Bien del Sauce, 2023)</li>
+        <li>“The Chinese Zoodiac – A Journey Through the Dreams of Awakening” (Ediciones El Bien del Sauce, 2023)</li>
+        <li>“We Can Defeat Poverty - China’s Experience” with Néstor Restivo (China Intercontinental Press, 2024)</li>
+
+        </ul>
+
+    <p></p>    
     
     <p>
-      In 2005, he founded "Dang Dai" magazine, the first publication specialized in Chinese culture in Argentina, which he directed for more than ten years. Through this platform, he introduced Spanish-speaking readers to the complexities of contemporary Chinese society, art, and politics.
-    </p>
+      He also wrote the fiction books:
+      </p>
     
-    <p>
-      As a journalist, he has made numerous research trips to China, Japan, and other Asian countries, interviewing prominent cultural and political figures. His articles have been published in media such as La Nación, Clarín, Página/12, and various international media outlets.
-    </p>
+    <ul class="libros-bio">
+      <li>“Autumn Butterfly,” illustrated by Silvana Perl (Ediciones El Bien del Sauce, 2016)</li>
+      <li>“The Intimacy of the Islands,” illustrated by Juan Pablo Aiello (Ediciones El Bien del Sauce, 2022)</li>
+    </ul>
     
-    <h2>Work and Contributions</h2>
+    <h2>Distinctions</h2>
     
-    <p>
-      Gustavo is the author of several books exploring Chinese cultural influence in the Western world and particularly in Latin America. His first book, "The Silk Road: A Cultural Journey" (2021), quickly became a reference work on the historical connections between East and West.
-    </p>
+    <p>His book “Autumn Butterfly” was declared of Cultural Interest by the Legislature of the Autonomous City of Buenos Aires, and his book “10,134 Kilometers Across China” was recognized by the China Culture Translation Studies Support (CCTSS) organization and earned him the Special Book Award from the Ministry of Culture of the Government of the People's Republic of China. </p>
+   
+    <h2>Meetings</h2>
+
+    <p>He participated in the 2016 Sino-Foreign Literature Translation & Publishing Workshop (SFLTP 2016, Beijing), 2019 Forum on the Development of Tibet (China, 2019), International Forum on Democracy: The Shared Human Values (China, 2021), 2022 Beijing Forum on Human Rights (China, 2022), the colloquium "China in the New Expedition and the World" (China, 2022), and the “Conference on the 70th Anniversary of the Five Principles of Peaceful Coexistence” (China, 2025).</p>
+   
+    <h2>Courses and Lectures</h2>
+
+    <p>He has given courses and lectures on the relationship between Argentina and China at the University of Buenos Aires, the National University of La Plata, the University of Congreso, the Buenos Aires Press Union, the Beijing Culture and Language University, Renmin University, Shanghai International Studies University, Xi’An International Studies University, Torcuato Di Tella University, the University Institute of Cooperation, Minzu University, CONICET, and the Chinese Academy of Social Sciences.</p>
+
+    <h2>Networks</h2>
+
+    <p>He is a member of the China Group of the Argentine Council on International Relations (CARI), the Argentine Network of Professionals for Foreign Policy (REDAPPE), CCTSS (China Culture Translation Studies Support), the China and Latin America Network: Multidisciplinary Approaches – REDCAEM, and the Chaquichán group.</p>
+
+    <h2>Personal</h2>
+
+    <p>Born in San Nicolás, Buenos Aires Province, in 1962, he is a descendant of Chinese, Galician, Basque, and Piedmontese ancestry. 
+He was educated in Argentina and the United States. He studied Journalism and Anthropological Sciences.
+He has lived in Argentina, the United States, Brazil, Peru, and Cuba.
+He is the father of four children.</p>
+
     
-    <p>
-      As a lecturer, he has been invited to universities and cultural centers in Argentina, Spain, the United States, and China. His talks address topics such as intercultural dialogue, the Chinese diaspora in Latin America, and China's new geopolitical role in the world.
-    </p>
-    
-    <p>
-      Since 2015, he has coordinated the "Bridges with China" program at the National University of Buenos Aires, which promotes academic and cultural exchange between Argentine and Chinese institutions.
-    </p>
-    
-    <h2>Approaches and Perspectives</h2>
-    
-    <p>
-      Gustavo's work is distinguished by its humanistic approach and his interest in showing the deep connections that exist between seemingly distant cultures. As he himself has expressed: "My goal is to dismantle stereotypes and create spaces for genuine understanding between people, beyond linguistic or cultural differences."
-    </p>
-    
-    <p>
-      In his writings and lectures, he addresses topics such as cultural globalization, the social transformations of modern China, and the impact of migrations on the formation of hybrid identities.
-    </p>
-    
-    <p>
-      Currently, he divides his time between Argentina and China, where he continues his research on cultural relations between both regions and works on new editorial projects.
-    </p>
+   
   `
 };
 

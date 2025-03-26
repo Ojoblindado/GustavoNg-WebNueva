@@ -35,11 +35,8 @@ const translations = {
     es: 'Gustavo Ng',
     en: 'Gustavo Ng',
   },
+  
   'home.subtitle': {
-    es: 'Periodista | Antropólogo | Escritor',
-    en: 'Journalist | Anthropologist | Writer',
-  },
-  'home.intro': {
     es: 'Explorando culturas, compartiendo historias.',
     en: 'Exploring cultures, sharing stories.',
   },
@@ -48,8 +45,8 @@ const translations = {
     en: 'About Me'
   },
   'home.about.text': {
-    es: 'Soy Gustavo Ng, periodista, antropólogo y escritor argentino. Mi pasión por explorar culturas y compartir historias me ha llevado a escribir numerosos artículos y libros sobre la sociedad y la cultura. Acompáñame en este viaje de descubrimiento y conocimiento.',
-    en: 'I am Gustavo Ng, an Argentine journalist, anthropologist, and writer. My passion for exploring cultures and sharing stories has led me to write numerous articles and books about society and culture. Join me on this journey of discovery and knowledge.'
+    es: 'Gustavo Ng es un periodista argentino actualmente dedicado a las relaciones entre Argentina y China. Es coeditor del proyecto de comunicación Revista DangDai y del medio de noticias internacionales Tektónikos, y colabora con medios de Argentina y China. También es autor de libros de ficción.',
+    en: 'Gustavo Ng is an Argentine journalist currently dedicated to relations between Argentina and China. He is co-editor of the communication project Revista DangDai and the international news outlet Tektónikos, and collaborates with media outlets in Argentina and China. He is also the author of fiction books.'
   },
   'home.about.button': {
     es: 'Leer más',
