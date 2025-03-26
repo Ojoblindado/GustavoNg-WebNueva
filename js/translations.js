@@ -41,8 +41,8 @@ const translations = {
     en: 'Exploring cultures, sharing stories.',
   },
   'home.about': {
-    es: 'Sobre mí',
-    en: 'About Me'
+    es: 'Bio',
+    en: 'Bio'
   },
   'home.about.text': {
     es: 'Gustavo Ng es un periodista argentino actualmente dedicado a las relaciones entre Argentina y China. Es coeditor del proyecto de comunicación Revista DangDai y del medio de noticias internacionales Tektónikos, y colabora con medios de Argentina y China. También es autor de libros de ficción.',
