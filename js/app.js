@@ -144,6 +144,7 @@ function setLanguage(language) {
       break;
     case 'articulos':
       loadArticles();
+      loadArticleCategories();
       break;
     case 'prensa':
       loadPressItems();
@@ -438,10 +439,11 @@ function loadArticleCategories() {
   
   if (!categoriesContainer) return;
   
+  // Obtener las categorías según el idioma actual
   const categories = currentLanguage === 'es' ? getArticleCategories() : getArticleCategoriesEn();
   categoriesContainer.innerHTML = '';
   
-  // Create category filter buttons
+  // Crear botones de filtro de categorías
   categories.forEach(category => {
     const button = document.createElement('button');
     button.className = 'category-button';
@@ -451,19 +453,19 @@ function loadArticleCategories() {
       const activeButton = categoriesContainer.querySelector('.category-button.active');
       
       if (activeButton === this) {
-        // Deselect if already active
+        // Deseleccionar si ya está activo
         this.classList.remove('active');
       } else {
-        // Remove active class from previous button
+        // Eliminar la clase activa del botón anterior
         if (activeButton) {
           activeButton.classList.remove('active');
         }
         
-        // Set active class on clicked button
+        // Establecer la clase activa en el botón clicado
         this.classList.add('active');
       }
       
-      // Reload articles with filter
+      // Recargar artículos con el filtro
       loadArticles();
     });
     
