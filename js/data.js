@@ -5285,7 +5285,7 @@ const galleries = [
     titleEn: 'Gustavo Ng',
     description: 'Una colección ecléctica de fotografías de diferentes lugares y momentos que capturan mi atención.',
     descriptionEn: 'An eclectic collection of photographs from different places and moments that capture my attention.',
-    coverImage: 'images/Fotos/WhatsApp Image 2025-02-19 at 14.49.37.webp',
+    coverImage: 'images/Fotos/prensa-gustavo-Ng-3.webp',
     photos: [
       {
         id: 'GustavoNg-1',
@@ -5638,6 +5638,14 @@ const galleries = [
         location: 'Varios lugares',
         locationEn: 'Various locations',
         imageUrl: 'images/Fotos/FOTOS WEB GN/Gustavo Ng/IMG_8426.webp'
+      },
+      {
+        id: 'GustavoNg-49',
+        title: 'Gustavo Ng',
+        titleEn: 'Gustavo Ng',
+        location: 'Varios lugares',
+        locationEn: 'Various locations',
+        imageUrl: 'images/Fotos/prensa-gustavo-Ng-3.webp'
       },
     ]
   }
