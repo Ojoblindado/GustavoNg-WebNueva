@@ -79,8 +79,8 @@ const translations = {
     en: 'Biography',
   },
   'bio.quote': {
-    es: 'Escribir es descubrir el mundo a través de palabras.',
-    en: 'Writing is discovering the world through words.',
+    es: 'Andar para vivir. Vivir para contarlo.',
+    en: 'Wander to live, live to tell.',
   },
 
   // Artículos
