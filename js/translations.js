@@ -45,8 +45,8 @@ const translations = {
     en: 'Bio'
   },
   'home.about.text': {
-    es: 'Gustavo Ng es un periodista argentino actualmente dedicado a las relaciones entre Argentina y China. Es coeditor del proyecto de comunicación Revista DangDai y del medio de noticias internacionales Tektónikos, y colabora con medios de Argentina y China. También es autor de libros de ficción.',
-    en: 'Gustavo Ng is an Argentine journalist currently dedicated to relations between Argentina and China. He is co-editor of the communication project Revista DangDai and the international news outlet Tektónikos, and collaborates with media outlets in Argentina and China. He is also the author of fiction books.'
+    es: 'Gustavo Ng es un periodista argentino que actualmente se dedica a las relaciones entre Argentina y China. Es coeditor del proyecto de comunicación Revista DangDai y del medio de análisis internacional Tektónikos, y colabora con medios de comunicación de Argentina y China. También es autor de libros de ficción.',
+    en: 'Gustavo Ng is an Argentine journalist currently dedicated to relations between Argentina and China. He is co-editor of the communication project Revista DangDai and the international affairs specialized media Tektónikos. He is a freelance for newspapers and magazines in Argentina and China. He is also the author of fiction books.'
   },
   'home.about.button': {
     es: 'Leer más',
@@ -79,7 +79,7 @@ const translations = {
     en: 'Biography',
   },
   'bio.quote': {
-    es: 'Andar para vivir. Vivir para contarlo.',
+    es: 'Andar para vivir. Vivir para contarla.',
     en: 'Wander to live, live to tell.',
   },
 
