@@ -263,8 +263,8 @@ const articlesData = [
     slug: 'articulo-15',
     title: 'Un tango llamado Gaviota',
     titleEn: "A tango called Seagull",
-    excerpt: 'La historia de Ou Zhanming, a quien el tango que se le prendó en los años que pasó en Buenos Aires, se bautizó Gaviota, para que en las milongas recordaran su nombre, es traductor de libros de tango, representa a la Academia Nacional del Tango en Pekín y se encarga del tema en la Embajada Argentina.',
-    excerptEn: 'The story of Ou Zhanming, who was captivated by the tango that captivated him during the years he spent in Buenos Aires. He baptized himself Gaviota (Seagull) so that his name would be remembered at milongas. He is a translator of tango books, represents the National Tango Academy in Pekin, and is in charge of the subject at the Argentine Embassy.',
+    excerpt: 'La historia de Ou Zhanming, a quien el tango que se le prendó en los años que pasó en Buenos Aires, se bautizó Gaviota, para que en las milongas recordaran su nombre, es traductor de libros de tango, representa a la Academia Nacional del Tango en Beijing y se encarga del tema en la Embajada Argentina.',
+    excerptEn: 'The story of Ou Zhanming, who was captivated by the tango that captivated him during the years he spent in Buenos Aires. He baptized himself Gaviota (Seagull) so that his name would be remembered at milongas. He is a translator of tango books, represents the National Tango Academy in Beijing, and is in charge of the subject at the Argentine Embassy.',
     date: new Date('2020-06-09').toISOString(),
     image: 'images/Un tango llamado Gaviota.webp',
     category: 'Cultura',
@@ -431,8 +431,8 @@ const articlesData = [
     slug: 'articulo-27',
     title: 'Vacunas en la guerra de la comunicación',
     titleEn: "Vaccines in the communication war",
-    excerpt: 'Las encuestas revelan que en los países occidentales crece la imagen negativa de Pekín que, claramente, está perdiendo la batalla de la comunicación con Washington y sus aliados.',
-    excerptEn: "Polls reveal that Pekin's negative image is growing in Western countries, and it is clearly losing the battle for communication with Washington and its allies.",
+    excerpt: 'Las encuestas revelan que en los países occidentales crece la imagen negativa de Beijing que, claramente, está perdiendo la batalla de la comunicación con Washington y sus aliados.',
+    excerptEn: "Polls reveal that Beijing's negative image is growing in Western countries, and it is clearly losing the battle for communication with Washington and its allies.",
     date: new Date('2021-04-21').toISOString(),
     image: 'images/7.webp',
     category: 'Política',
@@ -679,12 +679,12 @@ const pressData = [
   },
   {
     id: 8,
-    title: 'Conferencia del escritor argentino Gustavo NG en Pekín',
-    titleEn: 'Conference by Argentine writer Gustavo NG in Pekin',
+    title: 'Conferencia del escritor argentino Gustavo NG en Beijing',
+    titleEn: 'Conference by Argentine writer Gustavo NG in Beijing',
     publication: 'Embajada Argentina en China',
     date: new Date('2023-05-15').toISOString(),
-    summary: 'El 15 de junio tuvo lugar en Pekín una conferencia de Gustavo NG, periodista y escritor especializado en China, Director de la Revista cultural Dang Dai y autor de varias obras relativas al país asiático.',
-    summaryEn: 'On June 15, a conference by Gustavo NG, a journalist and writer specializing in China, Director of the cultural magazine Dang Dai and author of several works related to the Asian country, took place in Pekin.',
+    summary: 'El 15 de junio tuvo lugar en Beijing una conferencia de Gustavo NG, periodista y escritor especializado en China, Director de la Revista cultural Dang Dai y autor de varias obras relativas al país asiático.',
+    summaryEn: 'On June 15, a conference by Gustavo NG, a journalist and writer specializing in China, Director of the cultural magazine Dang Dai and author of several works related to the Asian country, took place in Beijing.',
     link: 'https://echin.cancilleria.gob.ar/es/conferencia-del-escritor-argentino-gustavo-ng-en-beijing',
     image: 'images/Prensa/3.webp',
     type: 'interview',
@@ -735,8 +735,8 @@ const pressData = [
     titleEn: 'Gustavo Ng criticized the controversial statements of Diana Mondino',
     publication: 'Radio Con Vos 89.9',
     date: new Date('2024-05-03').toISOString(),
-    summary: 'Entrevistado por Reynaldo Sietecase, Gustavo Ng analiza desde Pekín los prejuicios y la torpeza de la diplomacia del Gobierno de Javier Milei ante China.',
-    summaryEn: 'Interviewed by Reynaldo Sietecase, Gustavo Ng analyzes from Pekin the prejudices and clumsiness of the diplomacy of Javier Milei\'s Government towards China.',
+    summary: 'Entrevistado por Reynaldo Sietecase, Gustavo Ng analiza desde Beijing los prejuicios y la torpeza de la diplomacia del Gobierno de Javier Milei ante China.',
+    summaryEn: 'Interviewed by Reynaldo Sietecase, Gustavo Ng analyzes from Beijing the prejudices and clumsiness of the diplomacy of Javier Milei\'s Government towards China.',
     link: 'https://noticiaslatam.lat/20190713/tibet-region-remota-1088000228.html',
     image: 'images/Prensa/Gustavo Ng criticó los polémicos dichos de Diana Mondino.webp',
     type: 'interview',
@@ -774,8 +774,8 @@ const pressData = [
     titleEn: 'Gustavo Ng won China\'s top prize for foreign writers',
     publication: 'Infobae',
     date: new Date('2023-06-15').toISOString(),
-    summary: 'El periodista y editor argentino recibió en Pekín el Special Book Award, por su labor de difusión cultural. “Necesitamos que nuestras relaciones vayan más allá de la venta de recursos naturales e involucren al arte y la ciencia”, afirmó.',
-    summaryEn: 'The Argentine journalist and editor received the Special Book Award in Pekin for his cultural dissemination work. "We need our relationships to go beyond the sale of natural resources and involve art and science," he said.',
+    summary: 'El periodista y editor argentino recibió en Beijing el Special Book Award, por su labor de difusión cultural. “Necesitamos que nuestras relaciones vayan más allá de la venta de recursos naturales e involucren al arte y la ciencia”, afirmó.',
+    summaryEn: 'The Argentine journalist and editor received the Special Book Award in Beijing for his cultural dissemination work. "We need our relationships to go beyond the sale of natural resources and involve art and science," he said.',
     link: 'https://www.infobae.com/cultura/2023/06/15/gustavo-ng-gano-el-premio-mayor-de-china-para-escritores-extranjeros/',
     image: 'images/Prensa/Gustavo Ng ganó el premio mayor.webp',
     type: 'interview',
@@ -1092,7 +1092,7 @@ const booksData = [
     description: 'Un viaje en tren de dos meses por más de 20 ciudades, grandes urbes, desiertos, tierras de cultivo, montañas, yacimientos arqueológicos y pueblos de China. Y el encuentro con la aldea donde vivieron sus antepasados.',
     descriptionEn: 'A two-month train journey through more than 20 cities, major metropolises, deserts, farmlands, mountains, archaeological sites, and villages in China. And a visit to the village where their ancestors lived.',
     cover: 'images/libros/IMG_3115.webp',
-    publishDate: 'Pekín, 2021',
+    publishDate: 'Beijing, 2021',
     publisher: 'Blossom Press',
   
   },
@@ -1136,7 +1136,7 @@ const booksData = [
     description: 'Con Néstor Restivo. Ensayo que recoge ocho años de investigación teórica y en el campo sobre el diseño e implementación de múltiples estrategias por parte de China para lograr la hazaña de sacar a 800 millones de personas de la pobreza extrema.',
     descriptionEn: 'With Néstor Restivo. An essay that compiles eight years of theoretical and field research on the design and implementation of multiple strategies by China to achieve the feat of lifting 800 million people out of extreme poverty.',
     cover: 'images/libros/Tapa Podemos vencer la pobreza.webp',
-    publishDate: 'Pekín, 2023',
+    publishDate: 'Beijing, 2023',
     publisher: 'China Interncontinental Press',
   },
   {
@@ -1231,74 +1231,74 @@ const galleries = [
     subGalleries: [
       {
         id: 'beijing2016',
-        title: 'Pekín 2016',
-        titleEn: 'Pekin 2016',
-        description: 'Viaje a Pekín en 2016.',
-        descriptionEn: 'Trip to Pekin in 2016.',
+        title: 'Beijing 2016',
+        titleEn: 'Beijing 2016',
+        description: 'Viaje a Beijing en 2016.',
+        descriptionEn: 'Trip to Beijing in 2016.',
         coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2086.webp',
         photos: [
           {
             id: 'beijing2016-1',
-            title: 'Pekín 2016',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2016',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2086.webp'
           },
           {
             id: 'beijing2016-2',
-            title: 'Pekín 2016',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2016',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2210.webp'
           },
           {
             id: 'beijing2016-3',
-            title: 'Pekín 2016',
-            titleEn: 'Pekin 2016',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2016',
+            titleEn: 'Beijing 2016',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2212.webp'
           },
           {
             id: 'beijing2016-4',
-            title: 'Pekín 2016',
-            titleEn: 'Pekin 2016',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2016',
+            titleEn: 'Beijing 2016',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2245.webp'
           },
           {
             id: 'beijing2016-5',
-            title: 'Pekín 2016',
-            titleEn: 'Pekin 2016',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2016',
+            titleEn: 'Beijing 2016',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2253.webp'
           },
           {
             id: 'beijing2016-6',
-            title: 'Pekín 2016',
-            titleEn: 'Pekin 2016',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2016',
+            titleEn: 'Beijing 2016',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2255.webp'
           },
           {
             id: 'beijing2016-7',
-            title: 'Pekín 2016',
-            titleEn: 'Pekin 2016',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2016',
+            titleEn: 'Beijing 2016',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2507.webp'
           },
           {
             id: 'beijing2016-8',
-            title: 'Pekín 2016',
-            titleEn: 'Pekin 2016',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2016',
+            titleEn: 'Beijing 2016',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2026/IMG_2657.webp'
           },
          
@@ -1307,106 +1307,106 @@ const galleries = [
       },
       {
         id: 'beijing2017',
-        title: 'Pekín 2017',
-        titleEn: 'Pekin 2017',
-        description: 'Viaje a Pekín en 2017.',
-        descriptionEn: 'Trip to Pekin in 2017.',
+        title: 'Beijing 2017',
+        titleEn: 'Beijing 2017',
+        description: 'Viaje a Beijing en 2017.',
+        descriptionEn: 'Trip to Beijing in 2017.',
         coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3121.webp',
         photos: [
           {
             id: 'beijing2017-1',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3121.webp'
           },
           {
             id: 'beijing2017-2',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3123.webp'
           },
           {
             id: 'beijing2017-3',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3136.webp'
           },
           {
             id: 'beijing2017-4',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3313.webp'
           },
           {
             id: 'beijing2017-5',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3733.webp'
           },
           {
             id: 'beijing2017-6',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3765.webp'
           },
           {
             id: 'beijing2017-7',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3773.webp'
           },
           {
             id: 'beijing2017-8',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3776.webp'
           },
           {
             id: 'beijing2017-9',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_3892.webp'
           },
           {
             id: 'beijing2017-10',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_4023.webp'
           },
           {
             id: 'beijing2017-11',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_4029.webp'
           },
           {
             id: 'beijing2017-12',
-            title: 'Pekín 2017',
-            titleEn: 'Pekin 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2017',
+            titleEn: 'Beijing 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing, 2017/IMG_4589.webp'
           },
           // Más fotos...
@@ -1415,252 +1415,252 @@ const galleries = [
 
       {
         id: 'Panjiyuan',
-        title: 'Mercado Panjiyuan, Pekín, 2017',
-        titleEn: 'Panjiyuan Market, Pekin, 2017',
-        description: 'Viaje a Pekín en 2017.',
-        descriptionEn: 'Trip to Pekin in 2017.',
+        title: 'Mercado Panjiyuan, Beijing, 2017',
+        titleEn: 'Panjiyuan Market, Beijing, 2017',
+        description: 'Viaje a Beijing en 2017.',
+        descriptionEn: 'Trip to Beijing in 2017.',
         coverImage: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3527.webp',
         photos: [
           {
             id: 'Panjiyuan-1',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3512.webp'
           },
           {
             id: 'Panjiyuan-2',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3527.webp'
           },
           {
             id: 'Panjiyuan-3',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3534.webp'
           },
           {
             id: 'Panjiyuan-4',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3541.webp'
           },
           {
             id: 'Panjiyuan-5',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3561.webp'
           },
           {
             id: 'Panjiyuan-6',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3568.webp'
           },
           {
             id: 'Panjiyuan-7',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3586.webp'
           },
           {
             id: 'Panjiyuan-8',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3612.webp'
           },
           {
             id: 'Panjiyuan-9',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3623.webp'
           },
           {
             id: 'Panjiyuan-10',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3626.webp'
           },
           {
             id: 'Panjiyuan-11',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3631.webp'
           },
           {
             id: 'Panjiyuan-12',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3638.webp'
           },
           {
             id: 'Panjiyuan-13',
-            title: 'Mercado Panjiyuan, Pekín, 2017',
-            titleEn: 'Panjiyuan Market, Pekin, 2017',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Mercado Panjiyuan, Beijing, 2017',
+            titleEn: 'Panjiyuan Market, Beijing, 2017',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Mercado Panjiyuan, Beijing, 2017/IMG_3687.webp'
           },  
         ]},
       {
         id: 'beijing2019',
-        title: 'Pekín 2019',
-        titleEn: 'Pekin 2019',
-        description: 'Viaje a Pekín en 2019.',
-        descriptionEn: 'Trip to Pekin in 2019.',
+        title: 'Beijing 2019',
+        titleEn: 'Beijing 2019',
+        description: 'Viaje a Beijing en 2019.',
+        descriptionEn: 'Trip to Beijing in 2019.',
         coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8207.webp',
         photos: [
           {
             id: 'beijing2019-1',
-            title: 'Pekín 2019',
-            titleEn: 'Pekin 2019',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2019',
+            titleEn: 'Beijing 2019',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/Chinita rubia.webp'
           },
           {
             id: 'beijing2019-2',
-            title: 'Pekín 2019',
-            titleEn: 'Pekin 2019',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2019',
+            titleEn: 'Beijing 2019',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_7461.webp'
           },
           {
             id: 'beijing2019-3',
-            title: 'Pekín 2019',
-            titleEn: 'Pekin 2019',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2019',
+            titleEn: 'Beijing 2019',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_7535.webp'
           },
           {
             id: 'beijing2019-4',
-            title: 'Pekín 2019',
-            titleEn: 'Pekin 2019',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2019',
+            titleEn: 'Beijing 2019',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8182.webp'
           },
           {
             id: 'beijing2019-5',
-            title: 'Pekín 2019',
-            titleEn: 'Pekin 2019',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2019',
+            titleEn: 'Beijing 2019',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8207.webp'
           },
           {
             id: 'beijing2019-6',
-            title: 'Pekín 2019',
-            titleEn: 'Pekin 2019',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2019',
+            titleEn: 'Beijing 2019',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8215.webp'
           },
           {
             id: 'beijing2019-7',
-            title: 'Pekín 2019',
-            titleEn: 'Pekin 2019',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            title: 'Beijing 2019',
+            titleEn: 'Beijing 2019',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2019/IMG_8236.webp'
           },
 
     ]},
     {
       id: 'beijing2024',
-      title: 'Pekín 2024',
-      titleEn: 'Pekin 2024',
-      description: 'Viaje a Pekín en 2024.',
-      descriptionEn: 'Trip to Pekin in 2024.',
+      title: 'Beijing 2024',
+      titleEn: 'Beijing 2024',
+      description: 'Viaje a Beijing en 2024.',
+      descriptionEn: 'Trip to Beijing in 2024.',
       coverImage: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/Screenshot 2025-03-25 at 11.27.14.webp',
       photos: [
         {
           id: 'beijing2024-1',
-          title: 'Pekín 2024',
-          titleEn: 'Pekin 2024',
-          location: 'Pekín, China',
-           locationEn: 'Pekin, China',
+          title: 'Beijing 2024',
+          titleEn: 'Beijing 2024',
+          location: 'Beijing, China',
+           locationEn: 'Beijing, China',
           imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/ADYA7381.webp'
         },
         {
           id: 'beijing2024-2',
-          title: 'Pekín 2024',
-          titleEn: 'Pekin 2024',
-          location: 'Pekín, China',
-           locationEn: 'Pekin, China',
+          title: 'Beijing 2024',
+          titleEn: 'Beijing 2024',
+          location: 'Beijing, China',
+           locationEn: 'Beijing, China',
           imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_1535.webp'
         },
         {
           id: 'beijing2024-3',
-          title: 'Pekín 2024',
-          titleEn: 'Pekin 2024',
-          location: 'Pekín, China',
-           locationEn: 'Pekin, China',
+          title: 'Beijing 2024',
+          titleEn: 'Beijing 2024',
+          location: 'Beijing, China',
+           locationEn: 'Beijing, China',
           imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_1779.webp'
         },
         {
           id: 'beijing2024-4',
-          title: 'Pekín 2024',
-          titleEn: 'Pekin 2024',
-          location: 'Pekín, China',
-           locationEn: 'Pekin, China',
+          title: 'Beijing 2024',
+          titleEn: 'Beijing 2024',
+          location: 'Beijing, China',
+           locationEn: 'Beijing, China',
           imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_3160.webp'
         },
         {
           id: 'beijing2024-5',
-          title: 'Pekín 2024',
-          titleEn: 'Pekin 2024',
-          location: 'Pekín, China',
-           locationEn: 'Pekin, China',
+          title: 'Beijing 2024',
+          titleEn: 'Beijing 2024',
+          location: 'Beijing, China',
+           locationEn: 'Beijing, China',
           imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_3162.webp'
         },
         {
           id: 'beijing2024-6',
-          title: 'Pekín 2024',
-          titleEn: 'Pekin 2024',
-          location: 'Pekín, China',
-           locationEn: 'Pekin, China',
+          title: 'Beijing 2024',
+          titleEn: 'Beijing 2024',
+          location: 'Beijing, China',
+           locationEn: 'Beijing, China',
           imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_3178.webp'
         },
         {
           id: 'beijing2024-7',
-          title: 'Pekín 2024',
-          titleEn: 'Pekin 2024',
-          location: 'Pekín, China',
-           locationEn: 'Pekin, China',
+          title: 'Beijing 2024',
+          titleEn: 'Beijing 2024',
+          location: 'Beijing, China',
+           locationEn: 'Beijing, China',
           imageUrl: 'images/Fotos/FOTOS WEB GN/China/Beijing 2024/IMG_E1543.webp'
         },
       ]},
       {
         id: 'Songzhuang',
-        title: 'Songzhuang, Pekín 2024',
-        titleEn: 'Songzhuang, Pekin 2024',
+        title: 'Songzhuang, Beijing 2024',
+        titleEn: 'Songzhuang, Beijing 2024',
         description: 'Viaje a Songzhuang en 2024.',
         descriptionEn: 'Trip to Songzhuang in 2024.',
         coverImage: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1040.webp',
@@ -1669,360 +1669,360 @@ const galleries = [
             id: 'Songzhuang-1',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/ERQK7797.webp'
           },
           {
             id: 'Songzhuang-2',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0813.webp'
           },
           {
             id: 'Songzhuang-3',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0814.webp'
           },
           {
             id: 'Songzhuang-4',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0817.webp'
           },
           {
             id: 'Songzhuang-5',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0827.webp'
           },
           {
             id: 'Songzhuang-6',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0828.webp'
           },
           {
             id: 'Songzhuang-7',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0883.webp'
           },
           {
             id: 'Songzhuang-8',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0926.webp'
           },
           {
             id: 'Songzhuang-9',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0929.webp'
           },
           {
             id: 'Songzhuang-10',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0969.webp'
           },
           {
             id: 'Songzhuang-11',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_0980.webp'
           },
           {
             id: 'Songzhuang-12',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1029.webp'
           },
           {
             id: 'Songzhuang-13',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1040.webp'
           },
           {
             id: 'Songzhuang-14',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1049.webp'
           },
           {
             id: 'Songzhuang-15',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1349.webp'
           },
           {
             id: 'Songzhuang-16',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1390.webp'
           },
           {
             id: 'Songzhuang-17',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1395.webp'
           },
           {
             id: 'Songzhuang-18',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1402.webp'
           },
           {
             id: 'Songzhuang-19',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1410.webp'
           },
           {
             id: 'Songzhuang-20',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1415.webp'
           },
           {
             id: 'Songzhuang-21',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1421.webp'
           },
           {
             id: 'Songzhuang-22',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1427.webp'
           },
           {
             id: 'Songzhuang-23',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1435.webp'
           },
           {
             id: 'Songzhuang-24',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1453.webp'
           },
           {
             id: 'Songzhuang-25',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1575.webp'
           },
           {
             id: 'Songzhuang-26',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1611.webp'
           },
           {
             id: 'Songzhuang-27',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1671.webp'
           },
           {
             id: 'Songzhuang-28',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1687.webp'
           },
           {
             id: 'Songzhuang-29',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1714.webp'
           },
           {
             id: 'Songzhuang-30',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1759.webp'
           },
           {
             id: 'Songzhuang-31',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1821.webp'
           },
           {
             id: 'Songzhuang-32',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1919.webp'
           },
           {
             id: 'Songzhuang-33',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_1926.webp'
           },
           {
             id: 'Songzhuang-34',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2125.webp'
           },
           {
             id: 'Songzhuang-35',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2163.webp'
           },
           {
             id: 'Songzhuang-36',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2264.webp'
           },
           {
             id: 'Songzhuang-37',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2269.webp'
           },
           {
             id: 'Songzhuang-38',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2379.webp'
           },
           {
             id: 'Songzhuang-39',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2385.webp'
           },
           {
             id: 'Songzhuang-40',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2389.webp'
           },
           {
             id: 'Songzhuang-41',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2405.webp'
           },
           {
             id: 'Songzhuang-42',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2486.webp'
           },
           {
             id: 'Songzhuang-43',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_2490.webp'
           },
           {
             id: 'Songzhuang-44',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_E1602.webp'
           },
           {
             id: 'Songzhuang-45',
             title: 'Songzhuang, 2024',
             titleEn: 'Songzhuang, 2024',
-            location: 'Pekín, China',
-             locationEn: 'Pekin, China',
+            location: 'Beijing, China',
+             locationEn: 'Beijing, China',
             imageUrl: 'images/Fotos/FOTOS WEB GN/China/Songzhuang, 2024/IMG_E2414.webp'
           },
         ]},
@@ -5667,12 +5667,12 @@ const biographyContent = {
       Especializado en las relaciones entre Argentina y China desde 2011, es autor o coautor de los libros:</p>
 
       <ul class="libros-bio">
-        <li>““Todo lo que necesitas saber sobre China” con Néstor Restivo (Editorial Paidós, 2016)</li>
+        <li>“Todo lo que necesitas saber sobre China” con Néstor Restivo (Editorial Paidós, 2016)</li>
         <li>“Organizaciones de inmigrantes chinos en Argentina”, con Luciana Denardi y Alejandro Grimson (Red Internacional sobre Migración y Desarrollo, México, 2016)</li>
         <li>“El Año del Gallo de Fuego” (Editorial Atlántida, Buenos Aires, 2017)</li>
-        <li>“Nosotros: Crónicas de la proximidad cultural entre China y Argentina” (China Intercontinental Press, Pekín, 2018)</li>
+        <li>“Nosotros: Crónicas de la proximidad cultural entre China y Argentina” (China Intercontinental Press, Beijing, 2018)</li>
         <li>“El Año del Perro de Tierra” (Editorial Atlántida, Buenos Aires, 2017)</li>
-        <li>“Historia oral: Testigos del intercambio cultural entre China y América Latina” (Blossom Press, Pekín, 2019)</li>
+        <li>“Historia oral: Testigos del intercambio cultural entre China y América Latina” (Blossom Press, Beijing, 2019)</li>
         <li>“China – Superando la pobreza” (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
         <li>“China – Democracia, representación política y legitimidad social – Un balance a los 100 años de la fundación del PCC” (Ediciones Universidad de Congreso, Mendoza, 2021)</li>
         <li>“El Año del Búfalo” (Enredacción, Córdoba, 2021)</li>
@@ -5701,11 +5701,11 @@ const biographyContent = {
    
     <h2>Reuniones</h2>
 
-    <p>Participó en el 2016 Sino-Foreign Literature Translation & Publishing Workshop (SFLTP 2016, Pekin), 2019 Forum on the Development  of Tibet (China, 2019), International Forum on Democracy: the Shared Human Values (China, 2021), 2022 Pekin Forum on Human Rights (China, 2022), coloquio "China en la nueva expedición y el mundo" (China, 2022), “Conference 70th. Anniversary of the Five Principles of Peaceful Coexistence” (China, 2025).</p>
+    <p>Participó en el 2016 Sino-Foreign Literature Translation & Publishing Workshop (SFLTP 2016, Beijing), 2019 Forum on the Development  of Tibet (China, 2019), International Forum on Democracy: the Shared Human Values (China, 2021), 2022 Beijing Forum on Human Rights (China, 2022), coloquio "China en la nueva expedición y el mundo" (China, 2022), “Conference 70th. Anniversary of the Five Principles of Peaceful Coexistence” (China, 2025).</p>
    
     <h2>Cursos y conferencias</h2>
 
-    <p>Ha dado cursos y conferencias sobre la relación entre Argentina y China en la Universidad de Buenos Aires, la Universidad Nacional de La Plata, la Universidad de Congreso, el Sindicato de Prensa de Buenos Aires, la Pekin Culture and Language University, la Renmin University, la Shanghai International Studies University, la Xi’An International Studies University, la Universidad Torcuato Di Tella, el Instituto Universitario de la Cooperación, la Minzu University, el CONICET y la Academia China de Ciencias Sociales.</p>
+    <p>Ha dado cursos y conferencias sobre la relación entre Argentina y China en la Universidad de Buenos Aires, la Universidad Nacional de La Plata, la Universidad de Congreso, el Sindicato de Prensa de Buenos Aires, la Beijing Culture and Language University, la Renmin University, la Shanghai International Studies University, la Xi’An International Studies University, la Universidad Torcuato Di Tella, el Instituto Universitario de la Cooperación, la Minzu University, el CONICET y la Academia China de Ciencias Sociales.</p>
 
     <h2>Redes</h2>
 
@@ -5734,9 +5734,9 @@ Es padre de cuatro hijos.</p>
         <li>“Everything You Need to Know About China” with Néstor Restivo (Editorial Paidós, 2016)</li>
         <li>“Chinese Immigrant Organizations in Argentina,” with Luciana Denardi and Alejandro Grimson (International Network on Migration and Development, Mexico, 2016)</li>
         <li>“The Year of the Fire Rooster” (Editorial Atlántida, Buenos Aires, 2017)</li>
-        <li>“Us - Chronicles of the Cultural Proximity Between China and Argentina” (China Intercontinental Press, Pekin, 2018)</li>
+        <li>“Us - Chronicles of the Cultural Proximity Between China and Argentina” (China Intercontinental Press, Beijing, 2018)</li>
         <li>“The Year of the Earth Dog” (Editorial Atlántida, Buenos Aires, 2017)</li>
-        <li>“Oral History: Witnesses of Cultural Exchange Between China and Latin America” (Blossom Press, Pekin, 2019)</li>
+        <li>“Oral History: Witnesses of Cultural Exchange Between China and Latin America” (Blossom Press, Beijing, 2019)</li>
         <li>“China – Overcoming Poverty” (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
         <li>“China – Democracy, Political Representation, and Social Legitimacy – An Assessment at 100 Years of the CPC’s Founding” (Ediciones Universidad de Congreso, Mendoza, 2021)</li>
         <li>“The Year of the Ox” (Enredacción, Córdoba, 2021)</li>
@@ -5766,11 +5766,11 @@ Es padre de cuatro hijos.</p>
    
     <h2>Meetings</h2>
 
-    <p>He participated in the 2016 Sino-Foreign Literature Translation & Publishing Workshop (SFLTP 2016, Pekin), 2019 Forum on the Development of Tibet (China, 2019), International Forum on Democracy: The Shared Human Values (China, 2021), 2022 Pekin Forum on Human Rights (China, 2022), the colloquium "China in the New Expedition and the World" (China, 2022), and the “Conference on the 70th Anniversary of the Five Principles of Peaceful Coexistence” (China, 2025).</p>
+    <p>He participated in the 2016 Sino-Foreign Literature Translation & Publishing Workshop (SFLTP 2016, Beijing), 2019 Forum on the Development of Tibet (China, 2019), International Forum on Democracy: The Shared Human Values (China, 2021), 2022 Beijing Forum on Human Rights (China, 2022), the colloquium "China in the New Expedition and the World" (China, 2022), and the “Conference on the 70th Anniversary of the Five Principles of Peaceful Coexistence” (China, 2025).</p>
    
     <h2>Courses and Lectures</h2>
 
-    <p>He has given courses and lectures on the relationship between Argentina and China at the University of Buenos Aires, the National University of La Plata, the University of Congreso, the Buenos Aires Press Union, the Pekin Culture and Language University, Renmin University, Shanghai International Studies University, Xi’An International Studies University, Torcuato Di Tella University, the University Institute of Cooperation, Minzu University, CONICET, and the Chinese Academy of Social Sciences.</p>
+    <p>He has given courses and lectures on the relationship between Argentina and China at the University of Buenos Aires, the National University of La Plata, the University of Congreso, the Buenos Aires Press Union, the Beijing Culture and Language University, Renmin University, Shanghai International Studies University, Xi’An International Studies University, Torcuato Di Tella University, the University Institute of Cooperation, Minzu University, CONICET, and the Chinese Academy of Social Sciences.</p>
 
     <h2>Networks</h2>
 
