@@ -1088,7 +1088,7 @@ const booksData = [
   {
     id: 9,
     title: '10.134 kilómetros a través de China',
-    titleEn: '10,134 kilometers through China',
+    titleEn: '10,134 Kilometers through China',
     description: 'Un viaje en tren de dos meses por más de 20 ciudades, grandes urbes, desiertos, tierras de cultivo, montañas, yacimientos arqueológicos y pueblos de China. Y el encuentro con la aldea donde vivieron sus antepasados.',
     descriptionEn: 'A two-month train journey through more than 20 cities, major metropolises, deserts, farmlands, mountains, archaeological sites, and villages in China. And a visit to the village where their ancestors lived.',
     cover: 'images/libros/IMG_3115.webp',
@@ -1098,8 +1098,8 @@ const booksData = [
   },
   {
     id: 5,
-    title: 'China. Superando la pobreza',
-    titleEn: 'China. Overcoming poverty',
+    title: 'China -  La superación la pobreza',
+    titleEn: 'China - Overcoming Poverty',
     description: 'Con Néstor Restivo. La lucha contra la pobreza extrema llevada a cabo con éxito por China, el país más poblado del mundo, como parte de su misión socialista.',
     descriptionEn: 'With Néstor Restivo. The fight against extreme poverty is being successfully carried out by China, the world\'s most populous country, as part of its socialist mission.',
     cover: 'images/libros/TAPA China, la superación de la pobreza.webp',
@@ -1109,7 +1109,7 @@ const booksData = [
   },
   {
     id: 4,
-    title: 'El regalo del Dios Viento – Viaje a la tierra de los budistas tibetanos',
+    title: 'El regalo del Dios Viento – Viaje al país de los budistas tibetanos',
     titleEn: 'The Gift of the Wind God - Journey to the Land of the Tibetan Buddhists',
     description: 'La vida de los tibetanos en las provincias de Sichuan, Qinghai y Gansu, y en la Región Autónoma del Tíbet. Historias de cinco visitas, desde vivir en tiendas de campaña en las montañas con pastores nómadas hasta participar en un foro global sobre el desarrollo de la región.',
     descriptionEn: 'The lives of Tibetans in Sichuan, Qinghai, and Gansu provinces, and in the Tibet Autonomous Region. Stories of five visits, from living in tents in the mountains with nomadic herders to participating in a global forum on the region\'s development.',
@@ -1120,8 +1120,8 @@ const booksData = [
   },
   {
     id: 7,
-    title: 'El tangram de China - ¿Qué ve América Latina al observar al gigante de Asia?',
-    titleEn: 'China\'s Tangram - What does Latin America sees when they look at the Asian giant?',
+    title: 'El tangram de China - ¿Qué ve América Latina cuando mira al gigante de Asia?',
+    titleEn: 'China\'s Tangram - What does Latin America sees when they look at the Asian Giant?',
     description: 'Ensayo sobre las complejas percepciones que argentinos y latinoamericanos tienen sobre China, país con el que están cada vez más en contacto en un intercambio que sólo tiene como destino un mayor desarrollo',
     descriptionEn: 'An essay on the complex perceptions that Argentines and Latin Americans have about China, a country with which they are increasingly in contact in an exchange that only leads to greater development.',
     cover: 'images/libros/TAPA para difusión.webp',
@@ -1131,8 +1131,8 @@ const booksData = [
   },
   {
     id: 6,
-    title: 'Podemos vencer la pobreza - La experiencia de china',
-    titleEn: 'We can overcome poverty - The Chinese experience',
+    title: 'Podemos vencer la pobreza - La experiencia de China',
+    titleEn: 'We can Overcome Poverty - The Chinese Experience',
     description: 'Con Néstor Restivo. Ensayo que recoge ocho años de investigación teórica y en el campo sobre el diseño e implementación de múltiples estrategias por parte de China para lograr la hazaña de sacar a 800 millones de personas de la pobreza extrema.',
     descriptionEn: 'With Néstor Restivo. An essay that compiles eight years of theoretical and field research on the design and implementation of multiple strategies by China to achieve the feat of lifting 800 million people out of extreme poverty.',
     cover: 'images/libros/Tapa Podemos vencer la pobreza.webp',
@@ -1141,7 +1141,7 @@ const booksData = [
   },
   {
     id: 'mariposa-de-otono',
-    title: 'Mariposa de otoño',
+    title: 'Mariposa de Otoño',
     titleEn: 'Autumn Butterfly', 
     description: 'Con dibujos de Silvana Perl y editado por Camilo Sánchez. Una novela que el lector construye con anotaciones del autor sobre diferentes escenas entre San Nicolás y Nueva York, desde una Navidad que pasa con su familia china en Brooklyn, hasta una partida de ajedrez con su maestro de caligrafía en el barrio de Tribunales, el lugar del Central Park donde su madre se cruzaba con John Lennon, la cocina donde prepara un pollo con una tía que estaba más allá de este mundo y el nombre cantonés de su hermana, Mariposa de Otoño.',
     descriptionEn: 'With drawings by Silvana Perl and edited by Camilo Sánchez. A novel that the reader constructs with the author\'s notes about different scenes between Saint Nicholas and New York, from a Christmas spent with his Chinese family in Brooklyn, to a game of chess with his calligraphy teacher in the Tribunales neighborhood, the place in Central Park where his mother crossed paths with John Lennon, the kitchen where he prepares a chicken with an aunt who was beyond this world, and the Cantonese name of his sister, Autumn Butterfly.',
@@ -1152,7 +1152,7 @@ const booksData = [
   {
     id: 12,
     title: 'La intimidad de las islas',
-    titleEn: 'The intimacy of the islands',
+    titleEn: 'The Intimacy of the Islands',
     description: 'Con dibujos de Juan Pablo Aiello y editado por Camilo Sánchez. Las islas del delta son aisladas y conectadas. Pueden ser un hombre y una mujer que giran uno torno del otro toda la vida sin que se atreverse a tocarse; pueden ser un padre y su hijo, que no son padre e hijo pero son padre e hijo: puede ser un cura irlandés y un joven poeta; puede ser un inocente que se marcha a vivir solo y es salvado de la soledad por un perro.',
     descriptionEn: 'With drawings by Juan Pablo Aiello and edited by Camilo Sánchez. The islands of the delta are both isolated and connected. They may be a man and a woman who revolve around each other their entire lives without daring to touch; they may be a father and son, who are not father and son but are father and son; they may be an Irish priest and a young poet; they may be an innocent man who goes off to live alone and is saved from loneliness by a dog.',
     cover: 'images/libros/intimidad-islas.webp',
@@ -1194,7 +1194,7 @@ const booksData = [
   },
   {
     id: 3,
-    title: 'El Zoodíaco chino – Un viaje a través de los sueños del despertar',
+    title: 'El Zoodíaco Chino – Un viaje a través de los sueños del despertar',
     titleEn: 'The Chinese Zodiac - A Journey Through the Dreams of Awakening',
     description: 'Con ilustración de tapa de Rocambole. Un análisis del sistema de lógicas articulado en el conjunto de los 12 tótems que convergieron en la historia de las relaciones entre los pueblos que formaron la actual China.',
     descriptionEn: 'With a cover illustration by Rocambole. An analysis of the system of logic articulated in the set of 12 totems that converged in the history of relations between the peoples that formed present-day China.',
@@ -2726,40 +2726,40 @@ const galleries = [
               ]},
               {
               id: 'Xi_An',
-              title: 'Guerreros de terracota, Xi_An, 2015',
-              titleEn: 'Terracotta Warriors, Xi_An, 2015',
+              title: 'Guerreros de terracota, Xi\'An, 2015',
+              titleEn: 'Terracotta Warriors, Xi\'An, 2015',
               description: 'Viaje a Xi_An, provincia de Shaanxi en 2015.',
               descriptionEn: 'Trip to Xi_An, Shaanxi province in 2015.',
               coverImage: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5546.webp',
               photos: [
                 {
                   id: 'Xi-An-1',
-                  title: 'Guerreros de terracota, Xi_An, 2015',
-                  titleEn: 'Terracotta Warriors, Xi_An, 2015',
+                  title: 'Guerreros de terracota, Xi\'An, 2015',
+                  titleEn: 'Terracotta Warriors, Xi\'An, 2015',
                   location: 'Shaanxi, China',
                   locationEn: 'Shaanxi, China',
                   imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5546.webp'
                 },
                 {
                   id: 'Xi-An-2',
-                  title: 'Guerreros de terracota, Xi_An, 2015',
-                  titleEn: 'Terracotta Warriors, Xi_An, 2015',
+                  title: 'Guerreros de terracota, Xi\'An, 2015',
+                  titleEn: 'Terracotta Warriors, Xi\'Ann, 2015',
                   location: 'Shaanxi, China',
                   locationEn: 'Shaanxi, China',
                   imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5556.webp'
                 },
                 {
                   id: 'Xi-An-3',
-                  title: 'Guerreros de terracota, Xi_An, 2015',
-                  titleEn: 'Terracotta Warriors, Xi_An, 2015',
+                  title: 'Guerreros de terracota, Xi\'An, 2015',
+                  titleEn: 'Terracotta Warriors, Xi\'An, 2015',
                   location: 'Shaanxi, China',
                   locationEn: 'Shaanxi, China',
                   imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5561.webp'
                 },
                 {
                   id: 'Xi-An-4',
-                  title: 'Guerreros de terracota, Xi_An, 2015',
-                  titleEn: 'Terracotta Warriors, Xi_An, 2015',
+                  title: 'Guerreros de terracota, Xi\'An, 2015',
+                  titleEn: 'Terracotta Warriors, Xi\'An, 2015',
                   location: 'Shaanxi, China',
                   locationEn: 'Shaanxi, China',
                   imageUrl: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5567.webp'
@@ -4375,66 +4375,66 @@ const galleries = [
                           ]},
                           {
                             id: 'Xi_An2015',
-                            title: 'Xi_An, provincia de Shaanxi, 2015',
-                            titleEn: 'Xi_An, Shaanxi Province, 2015',
+                            title: 'Xi\'An, provincia de Shaanxi, 2015',
+                            titleEn: 'Xi\'An, Shaanxi Province, 2015',
                             description: 'Viaje a Xi_An en 2015.',
                             descriptionEn: 'Trip to Xi_An in 2015.',
                             coverImage: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5430.webp',
                             photos: [
                               {
                                 id: 'Xi_An2015-1',
-                                title: 'Xi_An, 2015',
-                                titleEn: 'Xi_An, 2015',
-                                location: 'Xi_An, Shaanxi, China',
-                                locationEn: 'Xi_An, Shaanxi, China',
+                                title: 'Xi\'An, 2015',
+                                titleEn: 'Xi\'An, 2015',
+                                location: 'Xi\'An, Shaanxi, China',
+                                locationEn: 'Xi\'An, Shaanxi, China',
                                 imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5430.webp'
                               },
                               {
                                 id: 'Xi_An2015-2',
-                                title: 'Xi_An, 2015',
-                                titleEn: 'Xi_An, 2015',
-                                location: 'Xi_An, Shaanxi, China',
-                                locationEn: 'Xi_An, Shaanxi, China',
+                                title: 'Xi\'An, 2015',
+                                titleEn: 'Xi\'An, 2015',
+                                location: 'Xi\'An, Shaanxi, China',
+                                locationEn: 'Xi\'An, Shaanxi, China',
                                 imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5532.webp'
                               },
                               {
                                 id: 'Xi_An2015-3',
-                                title: 'Xi_An, 2015',
-                                titleEn: 'Xi_An, 2015',
-                                location: 'Xi_An, Shaanxi, China',
-                                locationEn: 'Xi_An, Shaanxi, China',
+                                title: 'Xi\'An, 2015',
+                                titleEn: 'Xi\'An, 2015',
+                                location: 'Xi\'An, Shaanxi, China',
+                                locationEn: 'Xi\'An, Shaanxi, China',
                                 imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5589.webp'
                               },
                               {
                                 id: 'Xi_An2015-4',
-                                title: 'Xi_An, 2015',
-                                titleEn: 'Xi_An, 2015',
-                                location: 'Xi_An, Shaanxi, China',
-                                locationEn: 'Xi_An, Shaanxi, China',
+                                title: 'Xi\'An, 2015',
+                                titleEn: 'Xi\'An, 2015',
+                                location: 'Xi\'An, Shaanxi, China',
+                                locationEn: 'Xi\'An, Shaanxi, China',
                                 imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5594.webp'
                               },
                               {
                                 id: 'Xi_An2015-5',
-                                title: 'Xi_An, 2015',
-                                titleEn: 'Xi_An, 2015',
-                                location: 'Xi_An, Shaanxi, China',
-                                locationEn: 'Xi_An, Shaanxi, China',
+                                title: 'Xi\'An, 2015',
+                                titleEn: 'Xi\'An, 2015',
+                                location: 'Xi\'An, Shaanxi, China',
+                                locationEn: 'Xi\'An, Shaanxi, China',
                                 imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5600.webp'
                               },
                               {
                                 id: 'Xi_An2015-6',
-                                title: 'Xi_An, 2015',
-                                titleEn: 'Xi_An, 2015',
-                                location: 'Xi_An, Shaanxi, China',
-                                locationEn: 'Xi_An, Shaanxi, China',
+                                title: 'Xi\'An, 2015',
+                                titleEn: 'Xi\'An, 2015',
+                                location: 'Xi\'An, Shaanxi, China',
+                                locationEn: 'Xi\'An, Shaanxi, China',
                                 imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5601.webp'
                               },
                               {
                                 id: 'Xi_An2015-7',
-                                title: 'Xi_An, 2015',
-                                titleEn: 'Xi_An, 2015',
-                                location: 'Xi_An, Shaanxi, China',
-                                locationEn: 'Xi_An, Shaanxi, China',
+                                title: 'Xi\'An, 2015',
+                                titleEn: 'Xi\'An, 2015',
+                                location: 'Xi\'An, Shaanxi, China',
+                                locationEn: 'Xi\'An, Shaanxi, China',
                                 imageUrl: 'images/Fotos/FOTOS WEB GN/China/Xi_An, provincia de Shaanxi, 2015/IMG_5625.webp'
                               },
                             ]},
@@ -5667,13 +5667,13 @@ const biographyContent = {
       Especializado en las relaciones entre Argentina y China desde 2011, es autor o coautor de los libros:</p>
 
       <ul class="libros-bio">
-        <li>“Todo lo que necesitas saber sobre China” con Néstor Restivo (Editorial Paidós, 2016)</li>
+        <li>“Todo lo que necesitás saber sobre China” con Néstor Restivo (Editorial Paidós, 2016)</li>
         <li>“Organizaciones de inmigrantes chinos en Argentina”, con Luciana Denardi y Alejandro Grimson (Red Internacional sobre Migración y Desarrollo, México, 2016)</li>
         <li>“El Año del Gallo de Fuego” (Editorial Atlántida, Buenos Aires, 2017)</li>
         <li>“Nosotros: Crónicas de la proximidad cultural entre China y Argentina” (China Intercontinental Press, Beijing, 2018)</li>
         <li>“El Año del Perro de Tierra” (Editorial Atlántida, Buenos Aires, 2017)</li>
         <li>“Historia oral: Testigos del intercambio cultural entre China y América Latina” (Blossom Press, Beijing, 2019)</li>
-        <li>“China – Superando la pobreza” (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
+        <li>“China – La superación la pobreza” (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
         <li>“China – Democracia, representación política y legitimidad social – Un balance a los 100 años de la fundación del PCC” (Ediciones Universidad de Congreso, Mendoza, 2021)</li>
         <li>“El Año del Búfalo” (Enredacción, Córdoba, 2021)</li>
         <li>“Superando la Pandemia en América Latina”, compilador (Ediciones Continente, 2021)</li>
