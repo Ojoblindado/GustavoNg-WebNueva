@@ -5667,21 +5667,22 @@ const biographyContent = {
       Especializado en las relaciones entre Argentina y China desde 2011, es autor o coautor de los libros:</p>
 
       <ul class="libros-bio">
+        <li>“10.134 kilómetros a través de China” (Blossom Press, 2021)</li>
+        <li>“El regalo del Dios Viento – Viaje al país de los budistas tibetanos” (Ediciones El Bien del Sauce, 2023)</li>
+        <li>El Tangram de China - ¿Qué ve América Latina cuando mira al gigante de Asia? (Ediciones El Bien del Sauce, 2023)</li>
         <li>“Todo lo que necesitás saber sobre China” con Néstor Restivo (Editorial Paidós, 2016)</li>
-        <li>“Organizaciones de inmigrantes chinos en Argentina”, con Luciana Denardi y Alejandro Grimson (Red Internacional sobre Migración y Desarrollo, México, 2016)</li>
+        <li>“Podemos vencer la pobreza - La experiencia de China” —con Néstor Restivo (China Intercontinental Press, 2024)</li>
+        <li>“China – La superación la pobreza” —editor (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
+        <li>“China – Democracia, representación política y legitimidad social – Un balance a los 100 años de la fundación del PCC” —editor (Ediciones Universidad de Congreso, Mendoza, 2021)</li>
+        <li>“Organizaciones de inmigrantes chinos en Argentina” —con Luciana Denardi y Alejandro Grimson (Red Internacional sobre Migración y Desarrollo, México, 2016)</li>
+        <li>“Nosotros: Crónicas de la proximidad cultural entre China y Argentina” —editor (China Intercontinental Press, Beijing, 2018)</li>
+        <li>“Historia oral: Testigos del intercambio cultural entre China y América Latina” —editor (Blossom Press, Beijing, 2019)</li>
+        <li>“Superando la Pandemia en América Latina” —compilador (Ediciones Continente, 2021)</li>
+        <li>“El libro celeste y blanco de notas sobre China en los medios argentinos” —con Eva Blanco y Néstor Restivo (Eva Blanco, 2022)</li>
         <li>“El Año del Gallo de Fuego” (Editorial Atlántida, Buenos Aires, 2017)</li>
-        <li>“Nosotros: Crónicas de la proximidad cultural entre China y Argentina” (China Intercontinental Press, Beijing, 2018)</li>
         <li>“El Año del Perro de Tierra” (Editorial Atlántida, Buenos Aires, 2017)</li>
-        <li>“Historia oral: Testigos del intercambio cultural entre China y América Latina” (Blossom Press, Beijing, 2019)</li>
-        <li>“China – La superación la pobreza” (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
-        <li>“China – Democracia, representación política y legitimidad social – Un balance a los 100 años de la fundación del PCC” (Ediciones Universidad de Congreso, Mendoza, 2021)</li>
-        <li>“El Año del Búfalo” (Enredacción, Córdoba, 2021)</li>
-        <li>“Superando la Pandemia en América Latina”, compilador (Ediciones Continente, 2021)</li>
-        <li>“El libro celeste y blanco de notas sobre China en los medios argentinos” con Eva Blanco y Néstor Restivo (Eva Blanco, 2022)</li>
-        <li>“El regalo del Dios Viento – Viaje a la tierra de los budistas tibetanos” (Ediciones El Bien del Sauce, 2023)</li>
-        <li>El tangram de China - ¿Qué ve América Latina al observar al gigante de Asia? (Ediciones El Bien del Sauce, 2023)</li>
-        <li>“El Zoodíaco chino – Un viaje a través de los sueños del despertar” (Ediciones El Bien del Sauce, 2023)</li>
-        <li>“Podemos vencer la pobreza - La experiencia de China” con Néstor Restivo (China Intercontinental Press, 2024)</li>
+        <li>“El Año del Búfalo” (Enredacción, Córdoba, 2021)/li>
+        <li>“El Zoodíaco Chino – Un viaje a través de los sueños del despertar” (Ediciones El Bien del Sauce, 2023)</li>
         </ul>
 
     <p></p>    
@@ -5731,22 +5732,22 @@ Es padre de cuatro hijos.</p>
     <p>Specializing in Argentina-China relations since 2011, he is the author or co-author of the books:</p>
 
       <ul class="libros-bio">
-        <li>“Everything You Need to Know About China” with Néstor Restivo (Editorial Paidós, 2016)</li>
-        <li>“Chinese Immigrant Organizations in Argentina,” with Luciana Denardi and Alejandro Grimson (International Network on Migration and Development, Mexico, 2016)</li>
-        <li>“The Year of the Fire Rooster” (Editorial Atlántida, Buenos Aires, 2017)</li>
-        <li>“Us - Chronicles of the Cultural Proximity Between China and Argentina” (China Intercontinental Press, Beijing, 2018)</li>
-        <li>“The Year of the Earth Dog” (Editorial Atlántida, Buenos Aires, 2017)</li>
-        <li>“Oral History: Witnesses of Cultural Exchange Between China and Latin America” (Blossom Press, Beijing, 2019)</li>
-        <li>“China – Overcoming Poverty” (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
-        <li>“China – Democracy, Political Representation, and Social Legitimacy – An Assessment at 100 Years of the CPC’s Founding” (Ediciones Universidad de Congreso, Mendoza, 2021)</li>
-        <li>“The Year of the Ox” (Enredacción, Córdoba, 2021)</li>
-        <li>“Overcoming the Pandemic in Latin America,” compilator (Ediciones Continente, 2021)</li>
-        <li>““The Blue and White Book of Notes on China in Argentine Media” with Eva Blanco and Néstor Restivo (Eva Blanco, 2022)</li>
+        <li>"10,134 Kilometers through China" (Blossom Press, 2021)</li>
         <li>“The Gift of the Wind God – Journey to the Land of Tibetan Buddhists” (Ediciones El Bien del Sauce, 2023)</li>
         <li>“The China Tangram - What does Latin America See When It Looks at the Asian Giant?” (Ediciones El Bien del Sauce, 2023)</li>
-        <li>“The Chinese Zoodiac – A Journey Through the Dreams of Awakening” (Ediciones El Bien del Sauce, 2023)</li>
+        <li>“Everything You Need to Know About China” with Néstor Restivo (Editorial Paidós, 2016)</li>
         <li>“We Can Defeat Poverty - China’s Experience” with Néstor Restivo (China Intercontinental Press, 2024)</li>
-
+        <li>“China – Overcoming Poverty” (Ediciones Universidad de Congreso, Mendoza, 2020)</li>
+        <li>“China – Democracy, Political Representation, and Social Legitimacy – An Assessment at 100 Years of the CPC’s Founding” (Ediciones Universidad de Congreso, Mendoza, 2021)</li>
+        <li>“Chinese Immigrant Organizations in Argentina,” with Luciana Denardi and Alejandro Grimson (International Network on Migration and Development, Mexico, 2016)</li>
+        <li>“Us - Chronicles of the Cultural Proximity Between China and Argentina” (China Intercontinental Press, Beijing, 2018)</li>
+        <li>“Oral History: Witnesses of Cultural Exchange Between China and Latin America” (Blossom Press, Beijing, 2019)</li>
+        <li>“Overcoming the Pandemic in Latin America,” compilator (Ediciones Continente, 2021)</li>
+        <li>““The Blue and White Book of Notes on China in Argentine Media” with Eva Blanco and Néstor Restivo (Eva Blanco, 2022)</li>
+        <li>“The Year of the Fire Rooster” (Editorial Atlántida, Buenos Aires, 2017)</li>
+        <li>“The Year of the Earth Dog” (Editorial Atlántida, Buenos Aires, 2017)</li>
+        <li>“The Year of the Buffalo” (Enredacción, Córdoba, 2021)</li>
+        <li>“The Chinese Zoodiac – A Journey Through the Dreams of Awakening” (Ediciones El Bien del Sauce, 2023)</li>
         </ul>
 
     <p></p>    
