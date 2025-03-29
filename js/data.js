@@ -2728,8 +2728,8 @@ const galleries = [
               id: 'Xi_An',
               title: 'Guerreros de terracota, Xi\'An, 2015',
               titleEn: 'Terracotta Warriors, Xi\'An, 2015',
-              description: 'Viaje a Xi_An, provincia de Shaanxi en 2015.',
-              descriptionEn: 'Trip to Xi_An, Shaanxi province in 2015.',
+              description: 'Viaje a Xi\'An, provincia de Shaanxi en 2015.',
+              descriptionEn: 'Trip to Xi\'An, Shaanxi province in 2015.',
               coverImage: 'images/Fotos/FOTOS WEB GN/China/Guerreros de terracota, Xi_An, 2015/IMG_5546.webp',
               photos: [
                 {
