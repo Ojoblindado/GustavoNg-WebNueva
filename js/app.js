@@ -848,8 +848,6 @@ function loadGalleryPhotos(galleryId) {
   }
   
   const gallery = getGalleryById(galleryId);
-  
-  console.log('Gallery:', gallery); // Depuración
 
   if (!gallery) {
     window.location.href = 'fotos.html';
@@ -868,15 +866,25 @@ function loadGalleryPhotos(galleryId) {
   // Set back link text and URL
   const backToGalleries = document.getElementById('backToGalleries');
   const backToChina = document.getElementById('backToChina');
-  if (backToGalleries && backToChina) {
-    // Check if the gallery is a sub-gallery
-    const isSubGallery = galleries.some(g => g.subGalleries && g.subGalleries.some(sub => sub.id === galleryId));
-    if (isSubGallery) {
+  const backToArgentina = document.getElementById('backToArgentina'); // Nuevo botón para Argentina
+
+  if (backToGalleries && backToChina && backToArgentina) {
+    // Check if the gallery is a sub-gallery of China or Argentina
+    const isSubGalleryOfChina = galleries.some(g => g.id === 'china' && g.subGalleries && g.subGalleries.some(sub => sub.id === galleryId));
+    const isSubGalleryOfArgentina = galleries.some(g => g.id === 'Argentina' && g.subGalleries && g.subGalleries.some(sub => sub.id === galleryId));
+
+    if (isSubGalleryOfChina) {
       backToGalleries.classList.add('hidden');
       backToChina.classList.remove('hidden');
+      backToArgentina.classList.add('hidden');
+    } else if (isSubGalleryOfArgentina) {
+      backToGalleries.classList.add('hidden');
+      backToChina.classList.add('hidden');
+      backToArgentina.classList.remove('hidden');
     } else {
       backToGalleries.classList.remove('hidden');
       backToChina.classList.add('hidden');
+      backToArgentina.classList.add('hidden');
     }
   }
   

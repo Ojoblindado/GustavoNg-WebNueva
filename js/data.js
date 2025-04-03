@@ -4755,15 +4755,733 @@ const galleries = [
                                       },
                                     ]},
       
-                    
-
-
-
-      // Agrega más sub-galerías según sea necesario
     ]
 
   },
+  
+  {
+    id: 'Argentina',
+    title: 'Argentina',
+    titleEn: 'Argentina',
+    description: 'Una colección de fotografías tomadas durante diez años de viajes a diferentes regiones de China, un país tan diverso como una biblioteca infinita.',
+    descriptionEn: 'A collection of photographs taken over ten years of travel to different regions of China, a country as diverse as an endless library.',
+    coverImage: 'images/Fotos/FOTOS WEB GN/Buenos Aires/Screenshot 2025-04-03 at 22.37.39.png',
+    photos: [
+      
+    ],
+    subGalleries: [
+      {
+        id: 'Buenos Aires',
+        title: 'Buenos Aires',
+        titleEn: 'Buenos Aires',
+        description: '',
+        descriptionEn: '',
+        coverImage: 'images/Fotos/FOTOS WEB GN/Buenos Aires/DFXV0175.webp',
+        photos: [
+          {
+            id: 'Buenos Aires-1',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/2019 2.webp'
+          },
+          {
+            id: 'Buenos Aires-2',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/AOFT6381.webp'
+          },
+          {
+            id: 'Buenos Aires-3',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/Colectivo a Moreno 2025.webp'
+          },
+          {
+            id: 'Buenos Aires-4',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/DECV3372.webp'
+          },
+          {
+            id: 'Buenos Aires-5',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/DFXV0175.webp'
+          },
+          {
+            id: 'Buenos Aires-6',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/EBBN9491.webp'
+          },
+          {
+            id: 'Buenos Aires-7',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/edificio con marquesinas 131224.webp'
+          },
+          {
+            id: 'Buenos Aires-8',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/EGBP6398.webp'
+          },
+          {
+            id: 'Buenos Aires-9',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/FEB20 6.webp'
+          },
+          {
+            id: 'Buenos Aires-10',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/FEB20 9 TIGRE.webp'
+          },
+          {
+            id: 'Buenos Aires-11',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/FPCC8277.webp'
+          },
+          {
+            id: 'Buenos Aires-12',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_0432.webp'
+          },
+          {
+            id: 'Buenos Aires-13',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_0903.webp'
+          },
+          {
+            id: 'Buenos Aires-14',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_1005.webp'
+          },
+          {
+            id: 'Buenos Aires-15',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_1452.webp'
+          },
+          {
+            id: 'Buenos Aires-16',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_1655.webp'
+          },
+          {
+            id: 'Buenos Aires-17',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_1667.webp'
+          },
+          {
+            id: 'Buenos Aires-18',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_1856.webp'
+          },
+          {
+            id: 'Buenos Aires-19',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_2051.webp'
+          },
+          {
+            id: 'Buenos Aires-20',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_2350.webp'
+          },
+          {
+            id: 'Buenos Aires-21',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_2528.webp'
+          },
+          {
+            id: 'Buenos Aires-22',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_2543.webp'
+          },
+          {
+            id: 'Buenos Aires-23',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_2594.webp'
+          },
+          {
+            id: 'Buenos Aires-24',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_2833.webp'
+          },
+          {
+            id: 'Buenos Aires-25',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_3293.webp'
+          },
+          {
+            id: 'Buenos Aires-26',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_3334.webp'
+          },
+          {
+            id: 'Buenos Aires-27',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_3962.webp'
+          },
+          {
+            id: 'Buenos Aires-28',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_4272.webp'
+          },
+          {
+            id: 'Buenos Aires-29',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_4486.webp'
+          },
+          {
+            id: 'Buenos Aires-30',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_4487.webp'
+          },
+          {
+            id: 'Buenos Aires-31',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_5319.webp'
+          },
+          {
+            id: 'Buenos Aires-32',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_5357.webp'
+          },
+          {
+            id: 'Buenos Aires-33',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_5378.webp'
+          },
+          {
+            id: 'Buenos Aires-34',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_7516.webp'
+          },
+          {
+            id: 'Buenos Aires-35',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/IMG_7528.webp'
+          },
+          {
+            id: 'Buenos Aires-36',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/JMAN0646.webp'
+          },
+          {
+            id: 'Buenos Aires-37',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/LEGV1593.webp'
+          },
+          {
+            id: 'Buenos Aires-38',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/Plaza Houssay 2022.webp'
+          },
+          {
+            id: 'Buenos Aires-39',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/Tigre 20.webp'
+          },
+          {
+            id: 'Buenos Aires-40',
+            title: 'Buenos Aires',
+            titleEn: 'Buenos Aires',
+            location: 'Buenos Aires, Argentina',
+            locationEn: 'Buenos Aires, Argentina',
+            imageUrl: 'images/Fotos/FOTOS WEB GN/Buenos Aires/UEFB5129.webp'
+          },
 
+        ]},
+        {
+          id: 'Patagonia',
+          title: 'Patagonia Argentina',
+          titleEn: 'Argentinian Patagonia',
+          description: 'Los paisajes más hermosos de la Tierra, allí donde el planeta aún está desnudo.',
+          descriptionEn: 'The most beautiful landscapes on Earth, where the planet is still bare.',
+          coverImage: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1575.webp',
+          photos: [
+            {
+              id: 'Patagonia-1',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1569.webp'
+            },
+            {
+              id: 'Patagonia-2',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1575.webp'
+            },
+            {
+              id: 'Patagonia-3',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1599.webp'
+            },
+            {
+              id: 'Patagonia-4',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2636.webp'
+            },
+            {
+              id: 'Patagonia-5',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2683.webp'
+            },
+            {
+              id: 'Patagonia-6',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2710.webp'
+            },
+            {
+              id: 'Patagonia-7',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3604.webp'
+            },
+            {
+              id: 'Patagonia-8',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3616.webp'
+            },
+            {
+              id: 'Patagonia-9',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3703.webp'
+            },
+            {
+              id: 'Patagonia-10',
+              title: 'Patagonia',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3779.webp'
+            },
+            {
+              id: 'Patagonia-11',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3929.webp'
+            },
+            {
+              id: 'Patagonia-12',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3948.webp'
+            },
+            {
+              id: 'Patagonia-13',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4250.webp'
+            },
+            {
+              id: 'Patagonia-14',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4324.webp'
+            },
+            {
+              id: 'Patagonia-15',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4345.webp'
+            },
+            {
+              id: 'Patagonia-16',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4350.webp'
+            },
+            {
+              id: 'Patagonia-17',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_7884.webp'
+            },
+            {
+              id: 'Patagonia-18',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9498.webp'
+            },
+            {
+              id: 'Patagonia-19',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9584.webp'
+            },
+            {
+              id: 'Patagonia-20',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9636.webp'
+            },
+            {
+              id: 'Patagonia-21',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/Archipiélago Fuefuino ABR08 3.webp'
+            },
+            {
+              id: 'Patagonia-22',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - Araucarias, reinas prehistóricas.webp'
+            },
+            {
+              id: 'Patagonia-23',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - bosque iridiscente.webp'
+            },
+            {
+              id: 'Patagonia-24',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - bosque y rocas.webp'
+            },
+            {
+              id: 'Patagonia-25',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - bravas araucarias.webp'
+            },
+            {
+              id: 'Patagonia-26',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - con el primer sol.webp'
+            },
+            {
+              id: 'Patagonia-27',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - flying sources in the sky.webp'
+            },
+            {
+              id: 'Patagonia-28',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - lagunita.webp'
+            },
+            {
+              id: 'Patagonia-29',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - las araucarias se asoman en el reflejo.webp'
+            },
+            {
+              id: 'Patagonia-30',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - montaña de roca nevada.webp'
+            },
+            {
+              id: 'Patagonia-31',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - parque de nieve de la comunidad mapuche.webp'
+            },
+            {
+              id: 'Patagonia-32',
+              title: 'Patagonia Argentina',
+              titleEn: 'Argentinian Patagonia',
+              location: 'Patagonia, Argentina',
+              locationEn: 'Patagonia, Argentina',
+              imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia TANDA 2/PEHUENIA - una hermana auraucaria cayó, un radal se inclina a mirarla.webp'
+            },
+          ]},
+          {
+            id: 'Salta',
+            title: 'Salta',
+            titleEn: 'Salta',
+            description: '',
+            descriptionEn: '',
+            coverImage: 'images/Fotos/FOTOS WEB GN/Salta/AMTS0478.webp',
+            photos: [
+              {
+                id: 'Salta-1',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/AMTS0478.webp'
+              },
+              {
+                id: 'Salta-2',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/GDTO7141.webp'
+              },
+              {
+                id: 'Salta-3',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_5338.webp'
+              },
+              {
+                id: 'Salta-4',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_5350.webp'
+              },
+              {
+                id: 'Salta-5',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_5400.webp'
+              },
+              {
+                id: 'Salta-6',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_9191.webp'
+              },
+              {
+                id: 'Salta-7',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_9198.webp'
+              },
+              {
+                id: 'Salta-8',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_9251.webp'
+              },
+              {
+                id: 'Salta-9',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_9257.webp'
+              },
+              {
+                id: 'Salta-10',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_9282.webp'
+              },
+              {
+                id: 'Salta-11',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_9316.webp'
+              },
+              {
+                id: 'Salta-12',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_9372.webp'
+              },
+              {
+                id: 'Salta-13',
+                title: 'Salta',
+                titleEn: 'Salta',
+                location: 'Salta, Argentina',
+                locationEn: 'Salta, Argentina',
+                imageUrl: 'images/Fotos/FOTOS WEB GN/Salta/IMG_9423.webp'
+              },
+
+            ]},
+    ]},
+
+      
 
 
 
@@ -5436,175 +6154,7 @@ const galleries = [
         imageUrl: 'images/Fotos/FOTOS WEB GN/Nueva York, 2015-2025/New York TANDA 2/PKTD9513.webp',
       }
     ]},
-    {
-      id: 'Patagonia',
-      title: 'Patagonia Argentina',
-      titleEn: 'Argentinian Patagonia',
-      description: 'Los paisajes más hermosos de la Tierra, allí donde el planeta aún está desnudo.',
-      descriptionEn: 'The most beautiful landscapes on Earth, where the planet is still bare.',
-      coverImage: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1575.webp',
-      photos: [
-        {
-          id: 'Patagonia-1',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1569.webp'
-        },
-        {
-          id: 'Patagonia-2',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1575.webp'
-        },
-        {
-          id: 'Patagonia-3',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_1599.webp'
-        },
-        {
-          id: 'Patagonia-4',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2636.webp'
-        },
-        {
-          id: 'Patagonia-5',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2683.webp'
-        },
-        {
-          id: 'Patagonia-6',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_2710.webp'
-        },
-        {
-          id: 'Patagonia-7',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3604.webp'
-        },
-        {
-          id: 'Patagonia-8',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3616.webp'
-        },
-        {
-          id: 'Patagonia-9',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3703.webp'
-        },
-        {
-          id: 'Patagonia-10',
-          title: 'Patagonia',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3779.webp'
-        },
-        {
-          id: 'Patagonia-11',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3929.webp'
-        },
-        {
-          id: 'Patagonia-12',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_3948.webp'
-        },
-        {
-          id: 'Patagonia-13',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4250.webp'
-        },
-        {
-          id: 'Patagonia-14',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4324.webp'
-        },
-        {
-          id: 'Patagonia-15',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4345.webp'
-        },
-        {
-          id: 'Patagonia-16',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_4350.webp'
-        },
-        {
-          id: 'Patagonia-17',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_7884.webp'
-        },
-        {
-          id: 'Patagonia-18',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9498.webp'
-        },
-        {
-          id: 'Patagonia-19',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9584.webp'
-        },
-        {
-          id: 'Patagonia-20',
-          title: 'Patagonia Argentina',
-          titleEn: 'Argentinian Patagonia',
-          location: 'Patagonia, Argentina',
-          locationEn: 'Patagonia, Argentina',
-          imageUrl: 'images/Fotos/FOTOS WEB GN/Patagonia argentina/IMG_9636.webp'
-        }
-      ]},
+    
   
   {
     id: 'GustavoNg',
