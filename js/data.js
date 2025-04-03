@@ -4763,8 +4763,8 @@ const galleries = [
     id: 'Argentina',
     title: 'Argentina',
     titleEn: 'Argentina',
-    description: 'Una colección de fotografías tomadas durante diez años de viajes a diferentes regiones de China, un país tan diverso como una biblioteca infinita.',
-    descriptionEn: 'A collection of photographs taken over ten years of travel to different regions of China, a country as diverse as an endless library.',
+    description: '',
+    descriptionEn: '',
     coverImage: 'images/Fotos/FOTOS WEB GN/Buenos Aires/Screenshot 2025-04-03 at 22.37.39.png',
     photos: [
       
