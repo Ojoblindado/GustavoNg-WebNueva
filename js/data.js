@@ -1150,7 +1150,7 @@ const booksData = [
     publisher: 'El Bien del Sauce',
   },
   {
-    id: 12,
+    id: 'la-intimidad-de-las-islas',
     title: 'La intimidad de las islas',
     titleEn: 'The Intimacy of the Islands',
     description: 'Con dibujos de Juan Pablo Aiello y editado por Camilo Sánchez. Las islas del delta son aisladas y conectadas. Pueden ser un hombre y una mujer que giran uno torno del otro toda la vida sin que se atreverse a tocarse; pueden ser un padre y su hijo, que no son padre e hijo pero son padre e hijo: puede ser un cura irlandés y un joven poeta; puede ser un inocente que se marcha a vivir solo y es salvado de la soledad por un perro.',

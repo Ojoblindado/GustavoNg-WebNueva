@@ -78,6 +78,40 @@ document.addEventListener('DOMContentLoaded', function() {
   applyTranslations();
 });
 
+document.addEventListener('DOMContentLoaded', () => {
+  const downloadButtons = document.querySelectorAll('.download-button');
+  const popup = document.getElementById('popup');
+  const closePopup = document.getElementById('closePopup');
+  const donateButton = document.getElementById('donateButton');
+  const confirmDownloadButton = document.getElementById('confirmDownloadButton');
+
+  // Mostrar el pop-up al hacer clic en cualquier botón de descarga
+  downloadButtons.forEach(button => {
+    button.addEventListener('click', (event) => {
+      event.preventDefault(); // Evita la descarga inmediata
+      popup.classList.remove('hidden');
+      confirmDownloadButton.setAttribute('data-download-url', button.getAttribute('href'));
+    });
+  });
+
+  // Cerrar el pop-up
+  closePopup.addEventListener('click', () => {
+    popup.classList.add('hidden');
+  });
+
+  // Acción para el botón de donar
+  donateButton.addEventListener('click', () => {
+    window.open('https://www.paypal.com/donate', '_blank'); // Cambia el enlace por el de tu plataforma de donaciones
+  });
+
+  // Acción para confirmar la descarga
+  confirmDownloadButton.addEventListener('click', () => {
+    const downloadUrl = confirmDownloadButton.getAttribute('data-download-url');
+    window.location.href = downloadUrl; // Descarga el archivo
+    popup.classList.add('hidden');
+  });
+});
+
 // Helper function to get current page name
 function getCurrentPage() {
   const path = window.location.pathname;
@@ -774,6 +808,13 @@ function loadBooks() {
             ${book.id === 'mariposa-de-otono' ? `
             <div class="book-download">
               <a href="pdf/Mariposa de otoño_3eras. 150217.pdf" class="download-button" download>
+                ${currentLanguage === 'es' ? 'Descargar Libro' : 'Download Book'}
+              </a>
+            </div>
+            ` : ''}
+            ${book.id === 'la-intimidad-de-las-islas' ? `
+            <div class="book-download">
+              <a href="pdf/La intimidad de las islas, de Gustavo Ng 2023.pdf" class="download-button" data-pdf="pdf/La_intimidad_de_las_islas.pdf">
                 ${currentLanguage === 'es' ? 'Descargar Libro' : 'Download Book'}
               </a>
             </div>

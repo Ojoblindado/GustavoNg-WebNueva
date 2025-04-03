@@ -248,4 +248,24 @@ const translations = {
     es: 'Visitar',
     en: 'Visit'
   },
+  'h2donacion' : {
+    es:'¿Te gustaría apoyar mi trabajo?',
+    en:'Would you like to support my work?'
+  },
+  'pdonacion' : {
+    es:'Podés realizar una donación, no seas puto!',
+    en:'You can make a donation, don\'t be a jerk!'
+  },
+  'donarbutton' : {
+    es:'Donar',
+    en:'Donate'
+  },
+  'descargarbutton' : {
+    es:'Descargar Libro',
+    en:'Download Book'
+  },
+  'cerrarbutton' : {
+    es:'Cerrar',
+    en:'Close'
+  },
 };
