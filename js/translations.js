@@ -253,8 +253,8 @@ const translations = {
     en:'Would you like to support my work?'
   },
   'pdonacion' : {
-    es:'Podés realizar una donación, no seas puto!',
-    en:'You can make a donation, don\'t be a jerk!'
+    es:'Podés realizar una donación, daaaaale',
+    en:'You can make a donation, cmon'
   },
   'donarbutton' : {
     es:'Donar',
